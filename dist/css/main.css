@@ -344,6 +344,17 @@ th {
     top: -8px;
 }
 
+.difficultySelection {
+    display: inline-block;
+    margin-left: 12px;
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+.difficultySelection select {
+    margin-left: 4px;
+}
+
 /* header */
 .move-result-group {
     min-width: 50em;

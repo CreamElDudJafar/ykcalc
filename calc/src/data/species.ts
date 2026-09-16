@@ -85,7 +85,7 @@ const RBY: {[name: string]: SpeciesData} = {
   },
   Chansey: {
     types: ['Normal'],
-    bs: {hp: 255, at: 5, df: 20, sp: 50, sl: 135},
+    bs: {hp: 255, at: 5, df: 20, sp: 55, sl: 135},
     weightkg: 34.6,
   },
   Charizard: {
@@ -198,7 +198,7 @@ const RBY: {[name: string]: SpeciesData} = {
   },
   Exeggcute: {
     types: ['Grass', 'Psychic'],
-    bs: {hp: 60, at: 40, df: 80, sp: 40, sl: 60},
+    bs: {hp: 80, at: 65, df: 80, sp: 40, sl: 80},
     weightkg: 2.5,
     nfe: true,
   },
@@ -327,7 +327,7 @@ const RBY: {[name: string]: SpeciesData} = {
   },
   Jynx: {
     types: ['Ice', 'Psychic'],
-    bs: {hp: 65, at: 57, df: 35, sp: 100, sl: 115},
+    bs: {hp: 65, at: 50, df: 57, sp: 100, sl: 115},
     weightkg: 40.6,
   },
   Kabuto: {
@@ -451,7 +451,7 @@ const RBY: {[name: string]: SpeciesData} = {
   },
   Moltres: {
     types: ['Fire', 'Flying'],
-    bs: {hp: 90, at: 100, df: 90, sp: 90, sl: 125},
+    bs: {hp: 95, at: 100, df: 90, sp: 90, sl: 125},
     weightkg: 60,
   },
   'Mr. Mime': {
@@ -552,7 +552,7 @@ const RBY: {[name: string]: SpeciesData} = {
   },
   Pikachu: {
     types: ['Electric'],
-    bs: {hp: 60, at: 55, df: 50, sp: 90, sl: 50},
+    bs: {hp: 60, at: 90, df: 55, sp: 100, sl: 90},
     weightkg: 6,
     nfe: true,
   },
@@ -721,7 +721,7 @@ const RBY: {[name: string]: SpeciesData} = {
   },
   Venomoth: {
     types: ['Bug', 'Poison'],
-    bs: {hp: 70, at: 65, df: 60, sp: 90, sl: 90},
+    bs: {hp: 70, at: 75, df: 60, sp: 90, sl: 90},
     weightkg: 12.5,
   },
   Venonat: {
