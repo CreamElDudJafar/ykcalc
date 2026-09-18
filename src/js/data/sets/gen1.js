@@ -13,7 +13,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Fang"
       ],
-      "index": 1
+      "index": 11
     },
     "Youngster #13": {
       "level": 17,
@@ -28,7 +28,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Fang"
       ],
-      "index": 13
+      "index": 377
     },
     "Youngster #13 (2)": {
       "level": 17,
@@ -43,7 +43,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Fang"
       ],
-      "index": 13
+      "index": 377
     },
     "Lass #19": {
       "level": 8,
@@ -57,7 +57,7 @@ var SETDEX_RBY = {
       "moves": [
         "Quick Attack"
       ],
-      "index": 48
+      "index": 7
     },
     "AJ #2": {
       "level": 36,
@@ -74,7 +74,7 @@ var SETDEX_RBY = {
         "Focus Energy",
         "Super Fang"
       ],
-      "index": 410
+      "index": 102
     }
   },
   "Ekans": {
@@ -88,9 +88,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Wrap"
+        "Wrap",
+        "Glare"
       ],
-      "index": 1
+      "index": 11
     },
     "Jr. Trainer M #2": {
       "level": 22,
@@ -102,12 +103,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Glare",
         "Earthquake",
         "Rock Slide",
-        "Body Slam",
-        "Glare"
+        "Body Slam"
       ],
-      "index": 60
+      "index": 40
     },
     "Channeler #20": {
       "level": 44,
@@ -119,12 +120,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Glare",
         "Earthquake",
         "Rock Slide",
-        "Body Slam",
-        "Glare"
+        "Body Slam"
       ],
-      "index": 396
+      "index": 171
     }
   },
   "Spearow": {
@@ -138,10 +139,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Peck",
+        "Growl",
         "Leer",
         "Fury Attack"
       ],
-      "index": 2
+      "index": 12
     },
     "Youngster #13": {
       "level": 17,
@@ -153,10 +156,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Peck",
+        "Growl",
         "Leer",
         "Fury Attack"
       ],
-      "index": 13
+      "index": 377
     },
     "Youngster #13 (2)": {
       "level": 17,
@@ -168,10 +173,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Peck",
+        "Growl",
         "Leer",
         "Fury Attack"
       ],
-      "index": 13
+      "index": 377
     },
     "Lass #2": {
       "level": 16,
@@ -183,12 +190,14 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Peck",
+        "Growl",
         "Leer",
         "Fury Attack"
       ],
-      "index": 31
+      "index": 17
     },
-    "Rival #2": {
+    "Rival - Route 22": {
       "level": 7,
       "dvs": {
         "hp": 8,
@@ -197,8 +206,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 260
+      "moves": [
+        "Peck",
+        "Growl"
+      ],
+      "index": 2
     }
   },
   "Pidgeotto": {
@@ -212,9 +224,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack"
+        "Wing Attack",
+        "Sand Attack",
+        "Quick Attack"
       ],
-      "index": 2
+      "index": 12
     },
     "Youngster #7": {
       "level": 23,
@@ -226,9 +240,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack"
+        "Wing Attack",
+        "Sand Attack",
+        "Quick Attack"
       ],
-      "index": 7
+      "index": 45
     },
     "Bird Keeper #12": {
       "level": 39,
@@ -240,9 +256,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack"
+        "Wing Attack",
+        "Sand Attack",
+        "Quick Attack"
       ],
-      "index": 244
+      "index": 389
     },
     "Bird Keeper #12 (2)": {
       "level": 39,
@@ -254,9 +272,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack"
+        "Wing Attack",
+        "Sand Attack",
+        "Quick Attack"
       ],
-      "index": 244
+      "index": 389
     },
     "Bird Keeper #12 (3)": {
       "level": 39,
@@ -268,9 +288,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack"
+        "Wing Attack",
+        "Sand Attack",
+        "Quick Attack"
       ],
-      "index": 244
+      "index": 389
     }
   },
   "Krabby": {
@@ -285,9 +307,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Crabhammer",
+        "Vise Grip",
         "Body Slam"
       ],
-      "index": 3
+      "index": 19
     },
     "Sailor #3": {
       "level": 28,
@@ -300,9 +323,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Crabhammer",
+        "Vise Grip",
         "Body Slam"
       ],
-      "index": 52
+      "index": 81
     }
   },
   "Farfetch'd": {
@@ -316,9 +340,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Substitute",
+        "Sand Attack",
         "Slash"
       ],
-      "index": 3
+      "index": 19
     },
     "Youngster #12": {
       "level": 24,
@@ -330,9 +356,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Substitute",
+        "Sand Attack",
         "Slash"
       ],
-      "index": 12
+      "index": 64
     },
     "Jr. Trainer F #5": {
       "level": 35,
@@ -344,9 +372,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Substitute",
+        "Sand Attack",
         "Slash"
       ],
-      "index": 73
+      "index": 97
     },
     "Hiker #3": {
       "level": 23,
@@ -358,9 +388,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Substitute",
+        "Sand Attack",
         "Slash"
       ],
-      "index": 115
+      "index": 50
     },
     "Bird Keeper #2": {
       "level": 54,
@@ -372,10 +404,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Substitute",
+        "Sand Attack",
         "Slash",
         "Agility"
       ],
-      "index": 234
+      "index": 194
     },
     "Bird Keeper #3": {
       "level": 54,
@@ -387,10 +421,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Substitute",
+        "Sand Attack",
         "Slash",
         "Agility"
       ],
-      "index": 235
+      "index": 195
     },
     "Bird Keeper #4": {
       "level": 55,
@@ -402,10 +438,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Substitute",
+        "Sand Attack",
         "Slash",
         "Agility"
       ],
-      "index": 236
+      "index": 200
     },
     "Bird Keeper #13": {
       "level": 42,
@@ -417,10 +455,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Substitute",
+        "Sand Attack",
         "Slash",
         "Agility"
       ],
-      "index": 245
+      "index": 390
     }
   },
   "Zubat": {
@@ -434,10 +474,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wing Attack",
+        "Toxic",
         "Confuse Ray",
         "Hypnosis"
       ],
-      "index": 3
+      "index": 19
     },
     "Channeler #21": {
       "level": 44,
@@ -449,10 +491,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wing Attack",
+        "Toxic",
         "Confuse Ray",
         "Hypnosis"
       ],
-      "index": 397
+      "index": 172
     }
   },
   "Charmander": {
@@ -466,11 +510,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Ember",
         "Bite",
         "Headbutt",
         "Fire Punch"
       ],
-      "index": 4
+      "index": 36
     },
     "Jr. Trainer M #7": {
       "level": 21,
@@ -482,11 +527,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Ember",
         "Bite",
         "Headbutt",
         "Fire Punch"
       ],
-      "index": 65
+      "index": 378
     },
     "Pokemaniac #4": {
       "level": 41,
@@ -503,7 +549,7 @@ var SETDEX_RBY = {
         "Slash",
         "Flamethrower"
       ],
-      "index": 97
+      "index": 119
     },
     "Burglar #3": {
       "level": 28,
@@ -515,11 +561,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Ember",
         "Bite",
         "Headbutt",
         "Fire Punch"
       ],
-      "index": 146
+      "index": 385
     }
   },
   "Squirtle": {
@@ -533,11 +580,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Tackle",
         "Bite",
         "Headbutt",
         "Bubble Beam"
       ],
-      "index": 4
+      "index": 36
     },
     "Sailor #7": {
       "level": 28,
@@ -554,7 +602,7 @@ var SETDEX_RBY = {
         "Bubble Beam",
         "Waterfall"
       ],
-      "index": 56
+      "index": 85
     }
   },
   "Bulbasaur": {
@@ -571,9 +619,9 @@ var SETDEX_RBY = {
         "Headbutt",
         "Poison Powder",
         "Razor Leaf",
-        "Double Edge"
+        "Double-Edge"
       ],
-      "index": 4
+      "index": 36
     },
     "Beauty #3": {
       "level": 48,
@@ -587,10 +635,10 @@ var SETDEX_RBY = {
       "moves": [
         "Poison Powder",
         "Razor Leaf",
-        "Double Edge",
+        "Double-Edge",
         "Sleep Powder"
       ],
-      "index": 200
+      "index": 140
     }
   },
   "Poliwag": {
@@ -604,9 +652,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Bubble Beam",
+        "Hypnosis",
         "Body Slam"
       ],
-      "index": 5
+      "index": 43
     }
   },
   "Growlithe": {
@@ -620,12 +670,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bite",
+        "Ember",
         "Swift",
-        "Double Edge",
+        "Double-Edge",
         "Flamethrower"
       ],
-      "index": 5
+      "index": 43
     },
     "Jr. Trainer M #7": {
       "level": 21,
@@ -637,12 +687,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bite",
+        "Ember",
         "Swift",
-        "Double Edge",
+        "Double-Edge",
         "Flamethrower"
       ],
-      "index": 65
+      "index": 378
     },
     "Burglar #1": {
       "level": 29,
@@ -654,12 +704,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bite",
+        "Ember",
         "Swift",
-        "Double Edge",
+        "Double-Edge",
         "Flamethrower"
       ],
-      "index": 144
+      "index": 383
     },
     "Burglar #2": {
       "level": 33,
@@ -671,12 +721,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bite",
+        "Ember",
         "Swift",
-        "Double Edge",
+        "Double-Edge",
         "Flamethrower"
       ],
-      "index": 145
+      "index": 384
     }
   },
   "Ditto": {
@@ -689,8 +739,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 6
+      "moves": [
+        "Transform"
+      ],
+      "index": 44
     },
     "Burglar #5": {
       "level": 77,
@@ -701,8 +753,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 148
+      "moves": [
+        "Transform"
+      ],
+      "index": 324
     },
     "Beauty #6": {
       "level": 65,
@@ -713,8 +767,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 203
+      "moves": [
+        "Transform"
+      ],
+      "index": 307
     },
     "Beauty #6 (2)": {
       "level": 65,
@@ -725,8 +781,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 203
+      "moves": [
+        "Transform"
+      ],
+      "index": 307
     },
     "Bird Keeper #5": {
       "level": 56,
@@ -737,8 +795,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 237
+      "moves": [
+        "Transform"
+      ],
+      "index": 201
     },
     "Scientist #1": {
       "level": 73,
@@ -749,8 +809,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 266
+      "moves": [
+        "Transform"
+      ],
+      "index": 312
     },
     "Scientist #2": {
       "level": 67,
@@ -761,8 +823,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 267
+      "moves": [
+        "Transform"
+      ],
+      "index": 249
     },
     "Scientist #8": {
       "level": 67,
@@ -773,8 +837,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 273
+      "moves": [
+        "Transform"
+      ],
+      "index": 266
     },
     "Rocket #25": {
       "level": 66,
@@ -785,8 +851,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 306
+      "moves": [
+        "Transform"
+      ],
+      "index": 254
     }
   },
   "Slowpoke": {
@@ -800,9 +868,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confusion"
+        "Confusion",
+        "Bubble Beam",
+        "Headbutt"
       ],
-      "index": 6
+      "index": 44
     },
     "Sailor #2": {
       "level": 29,
@@ -814,9 +884,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confusion"
+        "Confusion",
+        "Bubble Beam",
+        "Headbutt"
       ],
-      "index": 51
+      "index": 88
     },
     "Pokemaniac #3": {
       "level": 41,
@@ -829,9 +901,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Confusion",
+        "Bubble Beam",
+        "Headbutt",
         "Amnesia"
       ],
-      "index": 96
+      "index": 118
     }
   },
   "Meowth": {
@@ -848,7 +922,7 @@ var SETDEX_RBY = {
         "Bite",
         "Pay Day"
       ],
-      "index": 7
+      "index": 45
     },
     "Lass #14": {
       "level": 43,
@@ -863,7 +937,7 @@ var SETDEX_RBY = {
         "Bite",
         "Pay Day"
       ],
-      "index": 43
+      "index": 125
     },
     "Biker #3": {
       "level": 56,
@@ -879,7 +953,7 @@ var SETDEX_RBY = {
         "Pay Day",
         "Slash"
       ],
-      "index": 131
+      "index": 210
     },
     "Rocket #42": {
       "level": 20,
@@ -894,7 +968,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Slash"
       ],
-      "index": 323
+      "index": 31
     },
     "Rocket #43": {
       "level": 55,
@@ -910,7 +984,7 @@ var SETDEX_RBY = {
         "Slash",
         "Slash"
       ],
-      "index": 324
+      "index": 155
     },
     "Rocket #44": {
       "level": 60,
@@ -927,7 +1001,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 325
+      "index": 176
     }
   },
   "Sandshrew": {
@@ -941,10 +1015,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
+        "Slash",
+        "Sand Attack",
         "Dig"
       ],
-      "index": 7
+      "index": 45
     },
     "Youngster #10": {
       "level": 25,
@@ -956,11 +1031,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
-        "Dig",
-        "Slash"
+        "Slash",
+        "Sand Attack",
+        "Dig"
       ],
-      "index": 10
+      "index": 62
     },
     "Hiker #3": {
       "level": 23,
@@ -972,10 +1047,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
+        "Slash",
+        "Sand Attack",
         "Dig"
       ],
-      "index": 115
+      "index": 50
     },
     "AJ #2": {
       "level": 36,
@@ -987,11 +1063,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
-        "Dig",
-        "Slash"
+        "Slash",
+        "Sand Attack",
+        "Dig"
       ],
-      "index": 410
+      "index": 102
     }
   },
   "Lickitung": {
@@ -1005,9 +1081,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lick",
+        "Wrap",
         "Body Slam"
       ],
-      "index": 8
+      "index": 71
     },
     "Jr. Trainer F #20": {
       "level": 54,
@@ -1019,11 +1097,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Body Slam",
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 88
+      "index": 206
     },
     "Pokemaniac #2": {
       "level": 42,
@@ -1035,11 +1114,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Body Slam",
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 95
+      "index": 106
     },
     "Hiker #3": {
       "level": 23,
@@ -1051,9 +1131,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lick",
+        "Wrap",
         "Body Slam"
       ],
-      "index": 115
+      "index": 50
     },
     "Biker #3": {
       "level": 56,
@@ -1065,11 +1147,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Body Slam",
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 131
+      "index": 210
     },
     "Rocket #7": {
       "level": 44,
@@ -1081,11 +1164,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Body Slam",
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 288
+      "index": 143
     },
     "Rocket #44": {
       "level": 60,
@@ -1102,7 +1186,7 @@ var SETDEX_RBY = {
         "Lick",
         "Wrap"
       ],
-      "index": 325
+      "index": 176
     },
     "Rocket #45": {
       "level": 72,
@@ -1119,7 +1203,7 @@ var SETDEX_RBY = {
         "Lick",
         "Wrap"
       ],
-      "index": 326
+      "index": 282
     },
     "Rocket #46": {
       "level": 82,
@@ -1136,7 +1220,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Lick"
       ],
-      "index": 327
+      "index": 318
     },
     "Rocket #47": {
       "level": 90,
@@ -1153,7 +1237,7 @@ var SETDEX_RBY = {
         "Lick",
         "Wrap"
       ],
-      "index": 328
+      "index": 344
     }
   },
   "Staryu": {
@@ -1167,11 +1251,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Water Gun",
         "Light Screen",
         "Bubble Beam"
       ],
-      "index": 8
+      "index": 71
     },
     "Lass #7": {
       "level": 22,
@@ -1183,10 +1268,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Water Gun",
         "Light Screen"
       ],
-      "index": 36
+      "index": 38
     },
     "Sailor #5": {
       "level": 30,
@@ -1198,11 +1284,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Water Gun",
         "Light Screen",
         "Bubble Beam"
       ],
-      "index": 54
+      "index": 83
     },
     "Swimmer #1": {
       "level": 24,
@@ -1214,10 +1301,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Water Gun",
         "Light Screen"
       ],
-      "index": 167
+      "index": 52
     }
   },
   "Raticate": {
@@ -1231,9 +1319,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Super Fang"
+        "Body Slam",
+        "Dig",
+        "Super Fang",
+        "Hyper Beam"
       ],
-      "index": 9
+      "index": 61
     },
     "Youngster #11": {
       "level": 24,
@@ -1245,9 +1336,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Super Fang"
+        "Body Slam",
+        "Dig",
+        "Super Fang",
+        "Hyper Beam"
       ],
-      "index": 11
+      "index": 63
     },
     "Jr. Trainer M #5": {
       "level": 24,
@@ -1259,9 +1353,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Super Fang"
+        "Body Slam",
+        "Dig",
+        "Super Fang",
+        "Hyper Beam"
       ],
-      "index": 63
+      "index": 57
     },
     "Hiker #12": {
       "level": 41,
@@ -1273,9 +1370,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Super Fang"
+        "Body Slam",
+        "Dig",
+        "Super Fang",
+        "Hyper Beam"
       ],
-      "index": 124
+      "index": 113
     },
     "Biker #11": {
       "level": 58,
@@ -1287,9 +1387,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Super Fang"
+        "Body Slam",
+        "Dig",
+        "Super Fang",
+        "Hyper Beam"
       ],
-      "index": 139
+      "index": 222
     },
     "Biker #15": {
       "level": 55,
@@ -1301,9 +1404,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Super Fang"
+        "Body Slam",
+        "Dig",
+        "Super Fang",
+        "Hyper Beam"
       ],
-      "index": 143
+      "index": 199
     },
     "Swimmer #3": {
       "level": 60,
@@ -1315,9 +1421,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Super Fang"
+        "Body Slam",
+        "Dig",
+        "Super Fang",
+        "Hyper Beam"
       ],
-      "index": 169
+      "index": 293
     },
     "Rocket #1": {
       "level": 20,
@@ -1329,9 +1438,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Super Fang"
+        "Body Slam",
+        "Dig",
+        "Super Fang",
+        "Hyper Beam"
       ],
-      "index": 282
+      "index": 27
     },
     "Rocket #12": {
       "level": 49,
@@ -1343,9 +1455,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Super Fang"
+        "Body Slam",
+        "Dig",
+        "Super Fang",
+        "Hyper Beam"
       ],
-      "index": 293
+      "index": 148
     }
   },
   "Golbat": {
@@ -1359,9 +1474,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hypnosis",
+        "Razor Wind",
+        "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 10
+      "index": 62
     },
     "Jr. Trainer M #4": {
       "level": 23,
@@ -1373,9 +1491,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hypnosis",
+        "Razor Wind",
+        "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 62
+      "index": 48
     },
     "Hiker #12": {
       "level": 41,
@@ -1387,9 +1508,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hypnosis",
+        "Razor Wind",
+        "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 124
+      "index": 113
     },
     "Tamer #1": {
       "level": 62,
@@ -1401,10 +1525,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray",
-        "Hypnosis"
+        "Hypnosis",
+        "Razor Wind",
+        "Mega Drain",
+        "Confuse Ray"
       ],
-      "index": 227
+      "index": 239
     },
     "Bird Keeper #2": {
       "level": 54,
@@ -1416,9 +1542,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hypnosis",
+        "Razor Wind",
+        "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 234
+      "index": 194
     },
     "Rocket #3": {
       "level": 19,
@@ -1430,9 +1559,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hypnosis",
+        "Razor Wind",
+        "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 284
+      "index": 29
     },
     "Rocket #18": {
       "level": 49,
@@ -1444,9 +1576,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hypnosis",
+        "Razor Wind",
+        "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 299
+      "index": 154
     },
     "Channeler #21": {
       "level": 44,
@@ -1458,9 +1593,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hypnosis",
+        "Razor Wind",
+        "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 397
+      "index": 172
     }
   },
   "Fearow": {
@@ -1474,9 +1612,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Drill Peck"
+        "Drill Peck",
+        "Hyper Beam",
+        "Razor Wind"
       ],
-      "index": 11
+      "index": 63
     },
     "Jr. Trainer M #10": {
       "level": 24,
@@ -1488,9 +1628,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Drill Peck"
+        "Drill Peck",
+        "Hyper Beam",
+        "Razor Wind"
       ],
-      "index": 68
+      "index": 58
     },
     "Jr. Trainer F #18": {
       "level": 41,
@@ -1502,9 +1644,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Drill Peck"
+        "Drill Peck",
+        "Hyper Beam",
+        "Razor Wind"
       ],
-      "index": 86
+      "index": 110
     },
     "Biker #15": {
       "level": 55,
@@ -1516,9 +1660,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Drill Peck"
+        "Drill Peck",
+        "Hyper Beam",
+        "Razor Wind"
       ],
-      "index": 143
+      "index": 199
     },
     "Bird Keeper #1": {
       "level": 53,
@@ -1530,9 +1676,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Drill Peck"
+        "Drill Peck",
+        "Hyper Beam",
+        "Razor Wind"
       ],
-      "index": 233
+      "index": 193
     },
     "Bird Keeper #3": {
       "level": 54,
@@ -1544,9 +1692,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Drill Peck"
+        "Drill Peck",
+        "Hyper Beam",
+        "Razor Wind"
       ],
-      "index": 235
+      "index": 195
     },
     "Bird Keeper #10": {
       "level": 57,
@@ -1558,9 +1708,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Drill Peck"
+        "Drill Peck",
+        "Hyper Beam",
+        "Razor Wind"
       ],
-      "index": 242
+      "index": 218
     },
     "Bird Keeper #13": {
       "level": 42,
@@ -1572,9 +1724,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Drill Peck"
+        "Drill Peck",
+        "Hyper Beam",
+        "Razor Wind"
       ],
-      "index": 245
+      "index": 390
     },
     "Bird Keeper #15": {
       "level": 55,
@@ -1586,9 +1740,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Drill Peck"
+        "Drill Peck",
+        "Hyper Beam",
+        "Razor Wind"
       ],
-      "index": 247
+      "index": 203
     },
     "Bird Keeper #17": {
       "level": 55,
@@ -1600,11 +1756,13 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Drill Peck"
+        "Drill Peck",
+        "Hyper Beam",
+        "Razor Wind"
       ],
-      "index": 249
+      "index": 205
     },
-    "Rival #1": {
+    "Rival - SS Anne": {
       "level": 30,
       "dvs": {
         "hp": 8,
@@ -1614,9 +1772,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Drill Peck"
+        "Drill Peck",
+        "Sand Attack",
+        "Razor Wind",
+        "Hyper Beam"
       ],
-      "index": 363
+      "index": 76
     }
   },
   "Ninetales": {
@@ -1629,8 +1790,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 11
+      "moves": [
+        "Fire Spin"
+      ],
+      "index": 63
     },
     "Lass #15": {
       "level": 43,
@@ -1641,8 +1804,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 44
+      "moves": [
+        "Fire Spin"
+      ],
+      "index": 126
     },
     "Jr. Trainer F #13": {
       "level": 54,
@@ -1653,8 +1818,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 81
+      "moves": [
+        "Fire Spin"
+      ],
+      "index": 187
     },
     "Jr. Trainer F #17": {
       "level": 42,
@@ -1665,8 +1832,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 85
+      "moves": [
+        "Fire Spin"
+      ],
+      "index": 109
     },
     "Jr. Trainer F #24": {
       "level": 67,
@@ -1677,8 +1846,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 92
+      "moves": [
+        "Fire Spin"
+      ],
+      "index": 303
     },
     "Super Nerd #9": {
       "level": 76,
@@ -1689,8 +1860,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 109
+      "moves": [
+        "Fire Spin"
+      ],
+      "index": 319
     },
     "Burglar #5": {
       "level": 77,
@@ -1701,8 +1874,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 148
+      "moves": [
+        "Fire Spin"
+      ],
+      "index": 324
     },
     "Burglar #7": {
       "level": 75,
@@ -1713,8 +1888,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 150
+      "moves": [
+        "Fire Spin"
+      ],
+      "index": 313
     },
     "Burglar #8": {
       "level": 75,
@@ -1725,8 +1902,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 151
+      "moves": [
+        "Fire Spin"
+      ],
+      "index": 314
     },
     "Cooltrainer F #8": {
       "level": 55,
@@ -1737,8 +1916,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 348
+      "moves": [
+        "Fire Spin"
+      ],
+      "index": 401
     },
     "Gentleman #2": {
       "level": 28,
@@ -1749,8 +1930,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 358
+      "moves": [
+        "Fire Spin"
+      ],
+      "index": 75
     },
     "AJ": {
       "level": 93,
@@ -1761,8 +1944,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 409
+      "moves": [
+        "Fire Spin"
+      ],
+      "index": 368
     }
   },
   "Nidoqueen": {
@@ -1776,9 +1961,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunderbolt"
+        "Lovely Kiss",
+        "Earthquake",
+        "Thunderbolt",
+        "Blizzard"
       ],
-      "index": 12
+      "index": 64
     },
     "Lass #13": {
       "level": 43,
@@ -1790,10 +1978,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Thunderbolt",
-        "Earthquake"
+        "Blizzard"
       ],
-      "index": 42
+      "index": 124
     },
     "Jr. Trainer M #9": {
       "level": 52,
@@ -1805,10 +1995,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Thunderbolt",
-        "Earthquake"
+        "Blizzard"
       ],
-      "index": 67
+      "index": 177
     },
     "Jr. Trainer F #3": {
       "level": 23,
@@ -1820,9 +2012,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunderbolt"
+        "Lovely Kiss",
+        "Earthquake",
+        "Thunderbolt",
+        "Blizzard"
       ],
-      "index": 71
+      "index": 59
     },
     "Pokemaniac #5": {
       "level": 39,
@@ -1834,9 +2029,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunderbolt"
+        "Lovely Kiss",
+        "Earthquake",
+        "Thunderbolt",
+        "Blizzard"
       ],
-      "index": 98
+      "index": 120
     },
     "Beauty #14": {
       "level": 63,
@@ -1848,10 +2046,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Thunderbolt",
-        "Earthquake"
+        "Blizzard"
       ],
-      "index": 211
+      "index": 301
     },
     "Tamer #2": {
       "level": 62,
@@ -1863,10 +2063,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Thunderbolt",
-        "Earthquake"
+        "Blizzard"
       ],
-      "index": 228
+      "index": 240
     },
     "Blackbelt #8": {
       "level": 84,
@@ -1878,10 +2080,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Thunderbolt",
-        "Earthquake"
+        "Blizzard"
       ],
-      "index": 257
+      "index": 340
     },
     "Giovanni": {
       "level": 55,
@@ -1898,7 +2102,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunderbolt"
       ],
-      "index": 279
+      "index": 156
     },
     "Cooltrainer M #1": {
       "level": 82,
@@ -1910,10 +2114,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Thunderbolt",
-        "Earthquake"
+        "Blizzard"
       ],
-      "index": 331
+      "index": 341
     },
     "Cooltrainer F #7": {
       "level": 55,
@@ -1925,24 +2131,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Thunderbolt",
-        "Earthquake"
+        "Blizzard"
       ],
-      "index": 347
-    },
-    "Rival #1": {
-      "level": 31,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunderbolt"
-      ],
-      "index": 363
+      "index": 400
     },
     "Ranger": {
       "level": 93,
@@ -1954,10 +2148,29 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Thunderbolt",
-        "Earthquake"
+        "Blizzard"
       ],
-      "index": 408
+      "index": 367
+    },
+    "Rival - SS Anne": {
+      "level": 31,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunderbolt",
+        "Lovely Kiss",
+        "Earthquake",
+        "Blizzard"
+      ],
+      "index": 76
     }
   },
   "Bellsprout": {
@@ -1971,12 +2184,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Mega Drain",
         "Sleep Powder",
-        "Body Slam",
         "Fissure"
       ],
-      "index": 14
+      "index": 32
     },
     "Lass #9": {
       "level": 23,
@@ -1988,11 +2201,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Mega Drain",
         "Sleep Powder",
         "Body Slam"
       ],
-      "index": 38
+      "index": 46
     },
     "Jr. Trainer M #1": {
       "level": 11,
@@ -2004,10 +2218,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Double-Edge",
         "Mega Drain",
         "Sleep Powder"
       ],
-      "index": 59
+      "index": 9
     },
     "Jr. Trainer F #2": {
       "level": 24,
@@ -2019,11 +2235,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Mega Drain",
         "Sleep Powder",
         "Body Slam"
       ],
-      "index": 70
+      "index": 379
     },
     "Beauty #11": {
       "level": 33,
@@ -2040,7 +2257,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Razor Leaf"
       ],
-      "index": 208
+      "index": 386
     }
   },
   "Charmeleon": {
@@ -2054,9 +2271,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Dragon Rage",
+        "Flamethrower",
         "Slash"
       ],
-      "index": 14
+      "index": 32
     },
     "Lass #10": {
       "level": 23,
@@ -2068,9 +2287,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Dragon Rage",
+        "Flamethrower",
         "Slash"
       ],
-      "index": 39
+      "index": 47
     },
     "Cooltrainer M #6": {
       "level": 44,
@@ -2082,10 +2303,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash",
-        "Flamethrower"
+        "Dragon Rage",
+        "Flamethrower",
+        "Slash"
       ],
-      "index": 336
+      "index": 395
     }
   },
   "Weedle": {
@@ -2098,8 +2320,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 15
+      "moves": [
+        "Poison Sting",
+        "String Shot"
+      ],
+      "index": 3
     },
     "Bug Catcher #11": {
       "level": 100,
@@ -2110,8 +2335,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 25
+      "moves": [
+        "Poison Sting",
+        "String Shot"
+      ],
+      "index": 56
     }
   },
   "Caterpie": {
@@ -2124,8 +2352,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 15
+      "moves": [
+        "Tackle",
+        "String Shot"
+      ],
+      "index": 3
     },
     "Bug Catcher #11": {
       "level": 100,
@@ -2136,8 +2367,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 25
+      "moves": [
+        "Tackle",
+        "String Shot"
+      ],
+      "index": 56
     }
   },
   "Kakuna": {
@@ -2150,8 +2384,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 16
+      "moves": [
+        "Poison Sting",
+        "Harden"
+      ],
+      "index": 4
     },
     "Bug Catcher #13": {
       "level": 100,
@@ -2162,8 +2399,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 27
+      "moves": [
+        "Poison Sting",
+        "Harden"
+      ],
+      "index": 94
     }
   },
   "Paras": {
@@ -2176,8 +2416,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 16
+      "moves": [
+        "Leech Life",
+        "Toxic",
+        "Mega Drain",
+        "Stun Spore"
+      ],
+      "index": 4
     },
     "Bug Catcher #4": {
       "level": 14,
@@ -2189,9 +2434,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Leech Life",
+        "Toxic",
+        "Mega Drain",
         "Stun Spore"
       ],
-      "index": 18
+      "index": 13
     },
     "Bug Catcher #5": {
       "level": 13,
@@ -2203,9 +2451,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Leech Life",
+        "Toxic",
+        "Mega Drain",
         "Stun Spore"
       ],
-      "index": 19
+      "index": 14
     },
     "Bug Catcher #8": {
       "level": 16,
@@ -2217,9 +2468,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Leech Life",
+        "Toxic",
+        "Mega Drain",
         "Stun Spore"
       ],
-      "index": 22
+      "index": 21
     },
     "Lass #4": {
       "level": 19,
@@ -2231,6 +2485,9 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Leech Life",
+        "Toxic",
+        "Mega Drain",
         "Stun Spore"
       ],
       "index": 33
@@ -2246,8 +2503,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 16
+      "moves": [
+        "Toxic",
+        "Psybeam",
+        "Stun Spore"
+      ],
+      "index": 4
     },
     "Bug Catcher #4": {
       "level": 14,
@@ -2258,8 +2519,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 18
+      "moves": [
+        "Toxic",
+        "Psybeam",
+        "Stun Spore"
+      ],
+      "index": 13
     },
     "Bug Catcher #5": {
       "level": 13,
@@ -2270,8 +2535,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 19
+      "moves": [
+        "Toxic",
+        "Psybeam",
+        "Stun Spore"
+      ],
+      "index": 14
     },
     "Bug Catcher #7": {
       "level": 16,
@@ -2282,74 +2551,8 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 21
-    },
-    "Bug Catcher #8": {
-      "level": 16,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [],
-      "index": 22
-    },
-    "Jr. Trainer M #4": {
-      "level": 23,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [],
-      "index": 62
-    },
-    "Janine": {
-      "level": 63,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
       "moves": [
-        "Stun Spore",
-        "Psybeam",
-        "Sleep Powder",
-        "Psychic"
-      ],
-      "index": 403
-    }
-  },
-  "Butterfree": {
-    "Bug Catcher #3": {
-      "level": 10,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [],
-      "index": 17
-    },
-    "Bug Catcher #6": {
-      "level": 15,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
+        "Toxic",
         "Psybeam",
         "Stun Spore"
       ],
@@ -2365,10 +2568,94 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Toxic",
         "Psybeam",
         "Stun Spore"
       ],
-      "index": 22
+      "index": 21
+    },
+    "Jr. Trainer M #4": {
+      "level": 23,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Toxic",
+        "Psybeam",
+        "Stun Spore"
+      ],
+      "index": 48
+    },
+    "Janine": {
+      "level": 63,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Psybeam",
+        "Stun Spore",
+        "Sleep Powder",
+        "Psychic"
+      ],
+      "index": 241
+    }
+  },
+  "Butterfree": {
+    "Bug Catcher #3": {
+      "level": 10,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Psybeam",
+        "Stun Spore",
+        "Sleep Powder"
+      ],
+      "index": 5
+    },
+    "Bug Catcher #6": {
+      "level": 15,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Psybeam",
+        "Stun Spore",
+        "Sleep Powder"
+      ],
+      "index": 15
+    },
+    "Bug Catcher #8": {
+      "level": 16,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Psybeam",
+        "Stun Spore",
+        "Sleep Powder"
+      ],
+      "index": 21
     },
     "Bug Catcher #10": {
       "level": 24,
@@ -2381,9 +2668,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Psybeam",
-        "Stun Spore"
+        "Stun Spore",
+        "Sleep Powder"
       ],
-      "index": 24
+      "index": 55
     },
     "Jr. Trainer F #14": {
       "level": 54,
@@ -2399,7 +2687,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 82
+      "index": 188
     },
     "Jr. Trainer F #17": {
       "level": 42,
@@ -2415,7 +2703,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 85
+      "index": 109
     },
     "Biker #5": {
       "level": 59,
@@ -2431,7 +2719,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 133
+      "index": 229
     },
     "Rocket #12": {
       "level": 49,
@@ -2447,7 +2735,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 293
+      "index": 148
     },
     "Cooltrainer F #4": {
       "level": 46,
@@ -2463,7 +2751,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 344
+      "index": 398
     },
     "Gentleman #1": {
       "level": 27,
@@ -2476,9 +2764,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Psybeam",
-        "Stun Spore"
+        "Stun Spore",
+        "Sleep Powder"
       ],
-      "index": 357
+      "index": 74
     },
     "AJ #2": {
       "level": 36,
@@ -2494,7 +2783,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 410
+      "index": 102
     }
   },
   "Beedrill": {
@@ -2507,8 +2796,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 17
+      "moves": [
+        "Twineedle"
+      ],
+      "index": 5
     },
     "Bug Catcher #4": {
       "level": 14,
@@ -2522,7 +2813,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 18
+      "index": 13
     },
     "Bug Catcher #5": {
       "level": 13,
@@ -2536,7 +2827,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 19
+      "index": 14
     },
     "Bug Catcher #6": {
       "level": 15,
@@ -2550,7 +2841,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 20
+      "index": 15
     },
     "Bug Catcher #7": {
       "level": 16,
@@ -2564,7 +2855,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 21
+      "index": 20
     },
     "Bug Catcher #10": {
       "level": 24,
@@ -2578,7 +2869,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 24
+      "index": 55
     },
     "Bug Catcher #12": {
       "level": 29,
@@ -2592,7 +2883,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 26
+      "index": 72
     },
     "Scientist #13": {
       "level": 73,
@@ -2607,7 +2898,7 @@ var SETDEX_RBY = {
         "Twineedle",
         "Pin Missile"
       ],
-      "index": 278
+      "index": 317
     },
     "Rocket #41": {
       "level": 68,
@@ -2622,7 +2913,7 @@ var SETDEX_RBY = {
         "Twineedle",
         "Pin Missile"
       ],
-      "index": 322
+      "index": 255
     },
     "AJ #2": {
       "level": 36,
@@ -2637,7 +2928,7 @@ var SETDEX_RBY = {
         "Twineedle",
         "Pin Missile"
       ],
-      "index": 410
+      "index": 102
     }
   },
   "Metapod": {
@@ -2650,8 +2941,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 19
+      "moves": [
+        "Tackle",
+        "Harden"
+      ],
+      "index": 14
     },
     "Bug Catcher #13": {
       "level": 100,
@@ -2662,8 +2956,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 27
+      "moves": [
+        "Tackle",
+        "Harden"
+      ],
+      "index": 94
     },
     "Bug Catcher #15": {
       "level": 7,
@@ -2674,8 +2971,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 29
+      "moves": [
+        "Tackle",
+        "Harden"
+      ],
+      "index": 6
     }
   },
   "Scyther": {
@@ -2689,9 +2989,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Substitute",
+        "Slash",
+        "Quick Attack",
+        "Wing Attack"
       ],
-      "index": 23
+      "index": 37
     },
     "Bug Catcher #12": {
       "level": 29,
@@ -2703,9 +3006,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Substitute",
+        "Slash",
+        "Quick Attack",
+        "Wing Attack"
       ],
-      "index": 26
+      "index": 72
     },
     "Bug Catcher #14": {
       "level": 39,
@@ -2717,9 +3023,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Substitute",
+        "Slash",
+        "Quick Attack",
+        "Wing Attack"
       ],
-      "index": 28
+      "index": 95
     },
     "Pokemaniac #2": {
       "level": 42,
@@ -2731,9 +3040,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Substitute",
+        "Slash",
+        "Quick Attack",
+        "Wing Attack"
       ],
-      "index": 95
+      "index": 106
     },
     "Bird Keeper #16": {
       "level": 55,
@@ -2745,9 +3057,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Substitute",
+        "Slash",
+        "Quick Attack",
+        "Wing Attack"
       ],
-      "index": 248
+      "index": 204
     },
     "Scientist #1": {
       "level": 73,
@@ -2759,9 +3074,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Substitute",
+        "Slash",
+        "Quick Attack",
+        "Wing Attack"
       ],
-      "index": 266
+      "index": 312
     },
     "Rocket #7": {
       "level": 44,
@@ -2773,9 +3091,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Substitute",
+        "Slash",
+        "Quick Attack",
+        "Wing Attack"
       ],
-      "index": 288
+      "index": 143
     },
     "Gentleman #4": {
       "level": 48,
@@ -2787,9 +3108,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Substitute",
+        "Slash",
+        "Quick Attack",
+        "Wing Attack"
       ],
-      "index": 360
+      "index": 185
     },
     "Ranger": {
       "level": 93,
@@ -2801,9 +3125,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Substitute",
+        "Slash",
+        "Quick Attack",
+        "Wing Attack"
       ],
-      "index": 408
+      "index": 367
     }
   },
   "Pinsir": {
@@ -2816,8 +3143,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 23
+      "moves": [
+        "Wrap",
+        "Guillotine",
+        "Body Slam"
+      ],
+      "index": 37
     },
     "Bug Catcher #12": {
       "level": 29,
@@ -2829,9 +3160,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Guillotine"
+        "Wrap",
+        "Guillotine",
+        "Body Slam"
       ],
-      "index": 26
+      "index": 72
     },
     "Bug Catcher #14": {
       "level": 39,
@@ -2843,10 +3176,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Guillotine",
+        "Body Slam",
         "Slash"
       ],
-      "index": 28
+      "index": 95
     },
     "Bug Catcher #15": {
       "level": 6,
@@ -2859,9 +3194,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Tackle",
-        "Vice Grip"
+        "Vise Grip",
+        "Body Slam"
       ],
-      "index": 29
+      "index": 6
     },
     "Jr. Trainer F #8": {
       "level": 40,
@@ -2873,10 +3209,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Guillotine",
+        "Body Slam",
         "Slash"
       ],
-      "index": 76
+      "index": 104
     },
     "Biker #2": {
       "level": 55,
@@ -2888,11 +3226,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Guillotine",
-        "Slash",
-        "Body Slam"
+        "Body Slam",
+        "Slash"
       ],
-      "index": 130
+      "index": 196
     },
     "Biker #7": {
       "level": 58,
@@ -2904,11 +3243,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Guillotine",
-        "Slash",
-        "Body Slam"
+        "Body Slam",
+        "Slash"
       ],
-      "index": 135
+      "index": 231
     },
     "Biker #12": {
       "level": 58,
@@ -2920,11 +3260,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Guillotine",
-        "Slash",
-        "Body Slam"
+        "Body Slam",
+        "Slash"
       ],
-      "index": 140
+      "index": 223
     },
     "Gambler #3": {
       "level": 25,
@@ -2936,9 +3277,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Guillotine"
+        "Wrap",
+        "Guillotine",
+        "Body Slam"
       ],
-      "index": 193
+      "index": 69
     },
     "Gambler #5": {
       "level": 44,
@@ -2950,11 +3293,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Guillotine",
-        "Slash",
-        "Body Slam"
+        "Body Slam",
+        "Slash"
       ],
-      "index": 195
+      "index": 131
     },
     "Gambler #6": {
       "level": 95,
@@ -2968,9 +3312,10 @@ var SETDEX_RBY = {
       "moves": [
         "Guillotine",
         "Earthquake",
-        "Body Slam"
+        "Body Slam",
+        "Slash"
       ],
-      "index": 196
+      "index": 355
     },
     "Tamer #3": {
       "level": 83,
@@ -2982,11 +3327,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Guillotine",
-        "Slash",
-        "Body Slam"
+        "Body Slam",
+        "Slash"
       ],
-      "index": 229
+      "index": 336
     },
     "Tamer #5": {
       "level": 90,
@@ -2998,11 +3344,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Guillotine",
-        "Slash",
-        "Body Slam"
+        "Body Slam",
+        "Slash"
       ],
-      "index": 231
+      "index": 357
     }
   },
   "Parasect": {
@@ -3016,9 +3363,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Stun Spore"
+        "Stun Spore",
+        "Mega Drain",
+        "Body Slam",
+        "Spore"
       ],
-      "index": 24
+      "index": 55
     },
     "Lass #4": {
       "level": 19,
@@ -3030,7 +3380,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Stun Spore"
+        "Stun Spore",
+        "Mega Drain",
+        "Body Slam",
+        "Spore"
       ],
       "index": 33
     },
@@ -3044,9 +3397,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Stun Spore"
+        "Stun Spore",
+        "Mega Drain",
+        "Body Slam",
+        "Spore"
       ],
-      "index": 46
+      "index": 135
     },
     "Jr. Trainer F #15": {
       "level": 53,
@@ -3058,9 +3414,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Stun Spore"
+        "Stun Spore",
+        "Mega Drain",
+        "Body Slam",
+        "Spore"
       ],
-      "index": 83
+      "index": 189
     }
   },
   "Tangela": {
@@ -3074,9 +3433,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Stun Spore"
+        "Stun Spore",
+        "Sleep Powder",
+        "Wrap"
       ],
-      "index": 26
+      "index": 72
     },
     "Lass #18": {
       "level": 46,
@@ -3089,9 +3450,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Stun Spore",
-        "Sleep Powder"
+        "Sleep Powder",
+        "Wrap"
       ],
-      "index": 47
+      "index": 136
     },
     "Jr. Trainer F #10": {
       "level": 40,
@@ -3104,9 +3466,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Stun Spore",
-        "Sleep Powder"
+        "Sleep Powder",
+        "Wrap"
       ],
-      "index": 78
+      "index": 117
     },
     "Super Nerd #11": {
       "level": 80,
@@ -3119,9 +3482,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Stun Spore",
-        "Sleep Powder"
+        "Sleep Powder",
+        "Wrap"
       ],
-      "index": 111
+      "index": 321
     },
     "Beauty #8": {
       "level": 68,
@@ -3134,9 +3498,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Stun Spore",
-        "Sleep Powder"
+        "Sleep Powder",
+        "Wrap"
       ],
-      "index": 205
+      "index": 309
     },
     "Beauty #14": {
       "level": 63,
@@ -3149,9 +3514,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Stun Spore",
-        "Sleep Powder"
+        "Sleep Powder",
+        "Wrap"
       ],
-      "index": 211
+      "index": 301
     },
     "Rocker #1": {
       "level": 34,
@@ -3163,9 +3529,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Stun Spore"
+        "Stun Spore",
+        "Sleep Powder",
+        "Wrap"
       ],
-      "index": 217
+      "index": 91
     },
     "Tamer #5": {
       "level": 90,
@@ -3178,9 +3546,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Stun Spore",
-        "Sleep Powder"
+        "Sleep Powder",
+        "Wrap"
       ],
-      "index": 231
+      "index": 357
     },
     "Erika": {
       "level": 54,
@@ -3196,7 +3565,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Wrap"
       ],
-      "index": 353
+      "index": 142
     },
     "Gentleman #3": {
       "level": 31,
@@ -3208,9 +3577,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Stun Spore"
+        "Stun Spore",
+        "Sleep Powder",
+        "Wrap"
       ],
-      "index": 359
+      "index": 79
     },
     "Officer Jenny": {
       "level": 91,
@@ -3227,7 +3598,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Solar Beam"
       ],
-      "index": 405
+      "index": 353
     }
   },
   "Venomoth": {
@@ -3241,9 +3612,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Stun Spore"
+        "Psychic",
+        "Stun Spore",
+        "Sleep Powder"
       ],
-      "index": 28
+      "index": 95
     },
     "Beauty #12": {
       "level": 62,
@@ -3255,11 +3628,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Psychic",
         "Stun Spore",
-        "Sleep Powder",
-        "Psychic"
+        "Sleep Powder"
       ],
-      "index": 209
+      "index": 299
     },
     "Bird Keeper #14": {
       "level": 55,
@@ -3271,11 +3644,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Psychic",
         "Stun Spore",
-        "Sleep Powder",
-        "Psychic"
+        "Sleep Powder"
       ],
-      "index": 246
+      "index": 202
     },
     "Koga": {
       "level": 66,
@@ -3291,7 +3664,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 354
+      "index": 242
     },
     "Channeler #5": {
       "level": 47,
@@ -3303,10 +3676,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Psychic",
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 381
+      "index": 160
     },
     "Janine": {
       "level": 63,
@@ -3318,11 +3692,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Psychic",
         "Stun Spore",
-        "Sleep Powder",
-        "Psychic"
+        "Sleep Powder"
       ],
-      "index": 403
+      "index": 241
     }
   },
   "Pidgey": {
@@ -3336,10 +3710,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
+        "Wing Attack",
+        "Sand Attack",
+        "Quick Attack",
         "Swift"
       ],
-      "index": 30
+      "index": 16
     },
     "Lass #19": {
       "level": 8,
@@ -3351,10 +3727,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
+        "Wing Attack",
+        "Sand Attack",
+        "Quick Attack",
         "Swift"
       ],
-      "index": 48
+      "index": 7
     },
     "Bird Keeper #12": {
       "level": 39,
@@ -3366,10 +3744,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
+        "Wing Attack",
+        "Sand Attack",
+        "Quick Attack",
         "Swift"
       ],
-      "index": 244
+      "index": 389
     }
   },
   "Nidoran-F": {
@@ -3382,10 +3762,14 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 30
+      "moves": [
+        "Double Kick",
+        "Bite",
+        "Toxic"
+      ],
+      "index": 16
     },
-    "Rival #2": {
+    "Rival - Route 22": {
       "level": 8,
       "dvs": {
         "hp": 8,
@@ -3394,8 +3778,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 260
+      "moves": [
+        "Double Kick",
+        "Bite",
+        "Toxic"
+      ],
+      "index": 2
     }
   },
   "Nidoran-M": {
@@ -3408,8 +3796,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 31
+      "moves": [
+        "Double Kick",
+        "Horn Attack",
+        "Toxic",
+        "Dig"
+      ],
+      "index": 17
     }
   },
   "Jigglypuff": {
@@ -3423,9 +3816,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge"
+        "Sing",
+        "Double-Edge",
+        "Rest"
       ],
-      "index": 32
+      "index": 18
     }
   },
   "Ponyta": {
@@ -3439,8 +3834,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double Kick",
+        "Stomp",
         "Flamethrower",
-        "Double Edge"
+        "Double-Edge"
       ],
       "index": 33
     },
@@ -3454,10 +3851,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double Kick",
+        "Stomp",
         "Flamethrower",
-        "Double Edge"
+        "Double-Edge"
       ],
-      "index": 71
+      "index": 59
     },
     "Jr. Trainer F #5": {
       "level": 35,
@@ -3469,11 +3868,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stomp",
         "Flamethrower",
-        "Double Edge",
+        "Double-Edge",
         "Hypnosis"
       ],
-      "index": 73
+      "index": 97
     },
     "Burglar #3": {
       "level": 28,
@@ -3485,11 +3885,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stomp",
         "Flamethrower",
-        "Double Edge",
+        "Double-Edge",
         "Hypnosis"
       ],
-      "index": 146
+      "index": 385
     },
     "Gentleman #5": {
       "level": 29,
@@ -3501,11 +3902,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stomp",
         "Flamethrower",
-        "Double Edge",
+        "Double-Edge",
         "Hypnosis"
       ],
-      "index": 361
+      "index": 80
     }
   },
   "Goldeen": {
@@ -3518,8 +3920,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 34
+      "moves": [
+        "Peck",
+        "Waterfall",
+        "Supersonic"
+      ],
+      "index": 22
     },
     "Jr. Trainer F #1": {
       "level": 25,
@@ -3531,9 +3937,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Waterfall"
+        "Peck",
+        "Waterfall",
+        "Supersonic"
       ],
-      "index": 69
+      "index": 53
     }
   },
   "Horsea": {
@@ -3546,8 +3954,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 34
+      "moves": [
+        "Toxic",
+        "Bubble Beam",
+        "Smokescreen"
+      ],
+      "index": 22
     },
     "Sailor #4": {
       "level": 30,
@@ -3559,9 +3971,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Toxic",
+        "Bubble Beam",
         "Smokescreen"
       ],
-      "index": 53
+      "index": 82
     }
   },
   "Clefairy": {
@@ -3575,9 +3989,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sing"
+        "Sing",
+        "Metronome"
       ],
-      "index": 35
+      "index": 23
     },
     "Jr. Trainer M #3": {
       "level": 20,
@@ -3589,9 +4004,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sing"
+        "Sing",
+        "Metronome"
       ],
-      "index": 61
+      "index": 41
     }
   },
   "Nidorina": {
@@ -3606,9 +4022,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Double Kick",
+        "Bite",
+        "Toxic",
         "Dig"
       ],
-      "index": 36
+      "index": 38
     },
     "Cooltrainer F #7": {
       "level": 55,
@@ -3621,9 +4039,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Double Kick",
+        "Bite",
+        "Toxic",
         "Dig"
       ],
-      "index": 347
+      "index": 400
     },
     "Gentleman #2": {
       "level": 28,
@@ -3636,9 +4056,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Double Kick",
+        "Bite",
+        "Toxic",
         "Dig"
       ],
-      "index": 358
+      "index": 75
     }
   },
   "Oddish": {
@@ -3652,10 +4074,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Mega Drain",
         "Sleep Powder",
         "Razor Leaf"
       ],
-      "index": 37
+      "index": 39
     },
     "Jr. Trainer F #2": {
       "level": 24,
@@ -3667,11 +4091,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Mega Drain",
         "Sleep Powder",
         "Razor Leaf",
         "Acid"
       ],
-      "index": 70
+      "index": 379
     }
   },
   "Nidorino": {
@@ -3686,9 +4111,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Double Kick",
+        "Horn Attack",
+        "Toxic",
         "Dig"
       ],
-      "index": 37
+      "index": 39
     },
     "Gentleman #2": {
       "level": 28,
@@ -3701,9 +4128,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Double Kick",
+        "Horn Attack",
+        "Toxic",
         "Dig"
       ],
-      "index": 358
+      "index": 75
     }
   },
   "Vulpix": {
@@ -3717,11 +4146,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Ember",
         "Confuse Ray",
-        "Double Edge",
+        "Double-Edge",
         "Flamethrower"
       ],
-      "index": 38
+      "index": 46
     },
     "Lass #12": {
       "level": 31,
@@ -3733,11 +4163,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Ember",
         "Confuse Ray",
-        "Double Edge",
+        "Double-Edge",
         "Flamethrower"
       ],
-      "index": 41
+      "index": 77
     },
     "Burglar #1": {
       "level": 29,
@@ -3749,11 +4180,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Ember",
         "Confuse Ray",
-        "Double Edge",
+        "Double-Edge",
         "Flamethrower"
       ],
-      "index": 144
+      "index": 383
     },
     "Burglar #3": {
       "level": 28,
@@ -3765,11 +4197,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Ember",
         "Confuse Ray",
-        "Double Edge",
+        "Double-Edge",
         "Flamethrower"
       ],
-      "index": 146
+      "index": 385
     },
     "Gambler #7": {
       "level": 43,
@@ -3781,11 +4214,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Ember",
         "Confuse Ray",
-        "Double Edge",
+        "Double-Edge",
         "Flamethrower"
       ],
-      "index": 197
+      "index": 132
     },
     "Rocket #6": {
       "level": 22,
@@ -3797,11 +4231,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Ember",
         "Confuse Ray",
-        "Double Edge",
+        "Double-Edge",
         "Flamethrower"
       ],
-      "index": 287
+      "index": 42
     },
     "Brock": {
       "level": 16,
@@ -3818,7 +4253,7 @@ var SETDEX_RBY = {
         "Fire Spin",
         "Swift"
       ],
-      "index": 350
+      "index": 10
     }
   },
   "Ivysaur": {
@@ -3831,8 +4266,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 39
+      "moves": [
+        "Sleep Powder",
+        "Body Slam",
+        "Razor Leaf"
+      ],
+      "index": 47
     },
     "Jr. Trainer M #8": {
       "level": 37,
@@ -3844,9 +4283,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sleep Powder",
+        "Body Slam",
         "Razor Leaf"
       ],
-      "index": 66
+      "index": 96
     },
     "Jr. Trainer F #11": {
       "level": 47,
@@ -3858,9 +4299,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sleep Powder",
+        "Body Slam",
         "Razor Leaf"
       ],
-      "index": 79
+      "index": 137
     },
     "Beauty #3": {
       "level": 48,
@@ -3872,9 +4315,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sleep Powder",
+        "Body Slam",
         "Razor Leaf"
       ],
-      "index": 200
+      "index": 140
     },
     "Cooltrainer M #6": {
       "level": 44,
@@ -3886,9 +4331,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sleep Powder",
+        "Body Slam",
         "Razor Leaf"
       ],
-      "index": 336
+      "index": 395
     },
     "Cooltrainer F #6": {
       "level": 55,
@@ -3900,10 +4347,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf",
-        "Sleep Powder"
+        "Sleep Powder",
+        "Body Slam",
+        "Razor Leaf"
       ],
-      "index": 346
+      "index": 399
     },
     "Gentleman #5": {
       "level": 29,
@@ -3914,8 +4362,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 361
+      "moves": [
+        "Sleep Powder",
+        "Body Slam",
+        "Razor Leaf"
+      ],
+      "index": 80
     }
   },
   "Wartortle": {
@@ -3929,9 +4381,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Waterfall"
+        "Waterfall",
+        "Blizzard",
+        "Body Slam",
+        "Dig"
       ],
-      "index": 39
+      "index": 47
     },
     "Sailor #6": {
       "level": 29,
@@ -3944,9 +4399,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Waterfall",
+        "Blizzard",
+        "Body Slam",
         "Dig"
       ],
-      "index": 55
+      "index": 84
     },
     "Jr. Trainer F #10": {
       "level": 40,
@@ -3959,9 +4416,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Waterfall",
+        "Blizzard",
+        "Body Slam",
         "Dig"
       ],
-      "index": 78
+      "index": 117
     },
     "Swimmer #6": {
       "level": 62,
@@ -3973,11 +4432,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Waterfall",
+        "Blizzard",
+        "Body Slam",
         "Dig",
         "Hydro Pump"
       ],
-      "index": 172
+      "index": 296
     },
     "Swimmer #10": {
       "level": 69,
@@ -3989,11 +4449,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Waterfall",
+        "Blizzard",
+        "Body Slam",
         "Dig",
         "Hydro Pump"
       ],
-      "index": 176
+      "index": 305
     },
     "Cooltrainer M #6": {
       "level": 44,
@@ -4006,9 +4467,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Waterfall",
+        "Blizzard",
+        "Body Slam",
         "Dig"
       ],
-      "index": 336
+      "index": 395
     }
   },
   "Eevee": {
@@ -4022,10 +4485,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge",
-        "Sand-Attack"
+        "Quick Attack",
+        "Sand Attack",
+        "Double-Edge"
       ],
-      "index": 40
+      "index": 73
     },
     "Lass #15": {
       "level": 43,
@@ -4037,10 +4501,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge",
-        "Sand-Attack"
+        "Quick Attack",
+        "Sand Attack",
+        "Double-Edge"
       ],
-      "index": 44
+      "index": 126
     },
     "Jr. Trainer F #19": {
       "level": 42,
@@ -4052,10 +4517,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge",
-        "Sand-Attack"
+        "Quick Attack",
+        "Sand Attack",
+        "Double-Edge"
       ],
-      "index": 87
+      "index": 111
     },
     "Burglar #4": {
       "level": 77,
@@ -4067,22 +4533,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge",
-        "Sand-Attack"
+        "Quick Attack",
+        "Sand Attack",
+        "Double-Edge"
       ],
-      "index": 147
-    },
-    "Rival #2": {
-      "level": 10,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [],
-      "index": 260
+      "index": 323
     },
     "Rocket #24": {
       "level": 64,
@@ -4094,10 +4549,26 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge",
-        "Sand-Attack"
+        "Quick Attack",
+        "Sand Attack",
+        "Double-Edge"
       ],
-      "index": 305
+      "index": 252
+    },
+    "Rival - Route 22": {
+      "level": 10,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Quick Attack",
+        "Sand Attack"
+      ],
+      "index": 2
     }
   },
   "Kabuto": {
@@ -4110,8 +4581,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 40
+      "moves": [
+        "Waterfall",
+        "Blizzard",
+        "Slash"
+      ],
+      "index": 73
     },
     "Brock": {
       "level": 16,
@@ -4128,7 +4603,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Slash"
       ],
-      "index": 350
+      "index": 10
     }
   },
   "Omanyte": {
@@ -4141,8 +4616,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 40
+      "moves": [
+        "Waterfall",
+        "Blizzard"
+      ],
+      "index": 73
     },
     "Lass #15": {
       "level": 43,
@@ -4154,10 +4632,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Waterfall",
+        "Blizzard",
         "Horn Attack",
         "Leer"
       ],
-      "index": 44
+      "index": 126
     },
     "Pokemaniac #1": {
       "level": 39,
@@ -4169,10 +4649,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Waterfall",
+        "Blizzard",
         "Horn Attack",
         "Leer"
       ],
-      "index": 94
+      "index": 105
     },
     "Brock": {
       "level": 16,
@@ -4187,7 +4669,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Waterfall"
       ],
-      "index": 350
+      "index": 10
     }
   },
   "Pikachu": {
@@ -4201,11 +4683,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Headbutt",
         "Thunder Punch",
         "Thunderbolt"
       ],
-      "index": 41
+      "index": 77
     },
     "Sailor #8": {
       "level": 36,
@@ -4217,11 +4700,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Headbutt",
         "Thunder Punch",
         "Thunderbolt"
       ],
-      "index": 57
+      "index": 90
     },
     "Jr. Trainer F #25": {
       "level": 24,
@@ -4233,11 +4717,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Headbutt",
         "Thunder Punch",
         "Thunderbolt"
       ],
-      "index": 93
+      "index": 60
     },
     "Biker #4": {
       "level": 56,
@@ -4254,7 +4739,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder"
       ],
-      "index": 132
+      "index": 211
     }
   },
   "Poliwhirl": {
@@ -4268,11 +4753,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
+        "Hypnosis",
+        "Waterfall",
         "Seismic Toss",
         "Body Slam"
       ],
-      "index": 41
+      "index": 77
     },
     "Sailor #6": {
       "level": 29,
@@ -4284,11 +4770,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
+        "Hypnosis",
+        "Waterfall",
         "Seismic Toss",
         "Body Slam"
       ],
-      "index": 55
+      "index": 84
     },
     "Jr. Trainer F #5": {
       "level": 35,
@@ -4300,12 +4787,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
+        "Waterfall",
         "Seismic Toss",
         "Body Slam",
         "Hydro Pump"
       ],
-      "index": 73
+      "index": 97
     },
     "Blackbelt #4": {
       "level": 65,
@@ -4317,12 +4804,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
+        "Waterfall",
         "Seismic Toss",
         "Body Slam",
         "Hydro Pump"
       ],
-      "index": 253
+      "index": 246
     },
     "Rocket #18": {
       "level": 49,
@@ -4334,12 +4821,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
+        "Waterfall",
         "Seismic Toss",
         "Body Slam",
         "Hydro Pump"
       ],
-      "index": 299
+      "index": 154
     }
   },
   "Nidoking": {
@@ -4353,10 +4840,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Blizzard",
         "Thunderbolt",
+        "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 42
+      "index": 124
     },
     "Jr. Trainer M #5": {
       "level": 24,
@@ -4368,9 +4857,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunderbolt"
+        "Blizzard",
+        "Thunderbolt",
+        "Lovely Kiss",
+        "Earthquake"
       ],
-      "index": 63
+      "index": 57
     },
     "Jr. Trainer M #9": {
       "level": 52,
@@ -4382,10 +4874,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Blizzard",
         "Thunderbolt",
+        "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 67
+      "index": 177
     },
     "Pokemaniac #5": {
       "level": 39,
@@ -4397,9 +4891,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunderbolt"
+        "Blizzard",
+        "Thunderbolt",
+        "Lovely Kiss",
+        "Earthquake"
       ],
-      "index": 98
+      "index": 120
     },
     "Pokemaniac #7": {
       "level": 39,
@@ -4411,9 +4908,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunderbolt"
+        "Blizzard",
+        "Thunderbolt",
+        "Lovely Kiss",
+        "Earthquake"
       ],
-      "index": 100
+      "index": 112
     },
     "Biker #7": {
       "level": 58,
@@ -4425,10 +4925,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Blizzard",
         "Thunderbolt",
+        "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 135
+      "index": 231
     },
     "Biker #8": {
       "level": 58,
@@ -4440,10 +4942,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Blizzard",
         "Thunderbolt",
+        "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 136
+      "index": 219
     },
     "Biker #14": {
       "level": 55,
@@ -4455,10 +4959,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Blizzard",
         "Thunderbolt",
+        "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 142
+      "index": 198
     },
     "Biker #15": {
       "level": 55,
@@ -4470,10 +4976,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Blizzard",
         "Thunderbolt",
+        "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 143
+      "index": 199
     },
     "Cue Ball #7": {
       "level": 57,
@@ -4485,10 +4993,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Blizzard",
         "Thunderbolt",
+        "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 188
+      "index": 227
     },
     "Blackbelt #8": {
       "level": 84,
@@ -4500,10 +5010,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Blizzard",
         "Thunderbolt",
+        "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 257
+      "index": 340
     },
     "Blackbelt #9": {
       "level": 90,
@@ -4515,24 +5027,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Blizzard",
         "Thunderbolt",
+        "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 258
-    },
-    "Rival #3": {
-      "level": 17,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunderbolt"
-      ],
-      "index": 261
+      "index": 358
     },
     "Giovanni": {
       "level": 55,
@@ -4549,7 +5049,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 279
+      "index": 156
     },
     "Cooltrainer M #7": {
       "level": 49,
@@ -4561,10 +5061,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Blizzard",
         "Thunderbolt",
+        "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 337
+      "index": 396
     },
     "Koga": {
       "level": 66,
@@ -4581,7 +5083,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 354
+      "index": 242
     },
     "Gentleman #1": {
       "level": 27,
@@ -4593,9 +5095,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunderbolt"
+        "Blizzard",
+        "Thunderbolt",
+        "Lovely Kiss",
+        "Earthquake"
       ],
-      "index": 357
+      "index": 74
     },
     "Ranger": {
       "level": 93,
@@ -4607,10 +5112,29 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Blizzard",
         "Thunderbolt",
+        "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 408
+      "index": 367
+    },
+    "Rival - Cerulean City": {
+      "level": 17,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Blizzard",
+        "Thunderbolt",
+        "Lovely Kiss",
+        "Earthquake"
+      ],
+      "index": 34
     }
   },
   "Tentacruel": {
@@ -4624,9 +5148,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Wrap"
+        "Wrap",
+        "Surf"
       ],
-      "index": 43
+      "index": 125
     },
     "Lass #18": {
       "level": 46,
@@ -4638,9 +5163,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Wrap"
+        "Wrap",
+        "Surf"
       ],
-      "index": 47
+      "index": 136
     },
     "Burglar #5": {
       "level": 77,
@@ -4653,9 +5179,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Wrap",
+        "Surf",
         "Blizzard"
       ],
-      "index": 148
+      "index": 324
     },
     "Fisherman #1": {
       "level": 27,
@@ -4667,9 +5194,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Wrap"
+        "Wrap",
+        "Surf"
       ],
-      "index": 156
+      "index": 78
     },
     "Fisherman #3": {
       "level": 42,
@@ -4681,9 +5209,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Wrap"
+        "Wrap",
+        "Surf"
       ],
-      "index": 158
+      "index": 179
     },
     "Fisherman #10": {
       "level": 70,
@@ -4696,9 +5225,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Wrap",
+        "Surf",
         "Blizzard"
       ],
-      "index": 165
+      "index": 330
     },
     "Swimmer #6": {
       "level": 62,
@@ -4711,9 +5241,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Wrap",
+        "Surf",
         "Blizzard"
       ],
-      "index": 172
+      "index": 296
     },
     "Swimmer #15": {
       "level": 70,
@@ -4726,9 +5257,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Wrap",
+        "Surf",
         "Blizzard"
       ],
-      "index": 181
+      "index": 334
     },
     "Cue Ball #5": {
       "level": 57,
@@ -4741,9 +5273,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Wrap",
+        "Surf",
         "Blizzard"
       ],
-      "index": 186
+      "index": 225
     },
     "Cue Ball #9": {
       "level": 71,
@@ -4756,9 +5289,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Wrap",
+        "Surf",
         "Blizzard"
       ],
-      "index": 190
+      "index": 335
     },
     "Rocket #18": {
       "level": 49,
@@ -4770,9 +5304,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Wrap"
+        "Wrap",
+        "Surf"
       ],
-      "index": 299
+      "index": 154
     },
     "Rocket #21": {
       "level": 51,
@@ -4785,9 +5320,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Wrap",
+        "Surf",
         "Blizzard"
       ],
-      "index": 302
+      "index": 175
     },
     "Rocket #26": {
       "level": 65,
@@ -4800,9 +5336,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Wrap",
+        "Surf",
         "Blizzard"
       ],
-      "index": 307
+      "index": 257
     },
     "Cooltrainer M #2": {
       "level": 88,
@@ -4815,9 +5352,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Wrap",
+        "Surf",
         "Blizzard"
       ],
-      "index": 332
+      "index": 361
     },
     "Koga": {
       "level": 66,
@@ -4834,7 +5372,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Blizzard"
       ],
-      "index": 354
+      "index": 242
     },
     "Agatha": {
       "level": 115,
@@ -4850,7 +5388,7 @@ var SETDEX_RBY = {
         "Surf",
         "Blizzard"
       ],
-      "index": 401
+      "index": 371
     }
   },
   "Gyarados": {
@@ -4869,7 +5407,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 43
+      "index": 125
     },
     "Lass #17": {
       "level": 46,
@@ -4886,7 +5424,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 46
+      "index": 135
     },
     "Fisherman #4": {
       "level": 42,
@@ -4903,7 +5441,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 159
+      "index": 180
     },
     "Fisherman #10": {
       "level": 70,
@@ -4920,7 +5458,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 165
+      "index": 330
     },
     "Fisherman #11": {
       "level": 51,
@@ -4937,7 +5475,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 166
+      "index": 183
     },
     "Swimmer #9": {
       "level": 64,
@@ -4954,7 +5492,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 175
+      "index": 304
     },
     "Swimmer #15": {
       "level": 70,
@@ -4971,7 +5509,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 181
+      "index": 334
     },
     "Cue Ball #3": {
       "level": 60,
@@ -4988,7 +5526,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 184
+      "index": 234
     },
     "Cue Ball #9": {
       "level": 71,
@@ -5005,7 +5543,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 190
+      "index": 335
     },
     "Bird Keeper #14": {
       "level": 55,
@@ -5022,7 +5560,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 246
+      "index": 202
     },
     "Rocket #15": {
       "level": 48,
@@ -5039,7 +5577,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 296
+      "index": 151
     },
     "Rocket #19": {
       "level": 50,
@@ -5056,7 +5594,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 300
+      "index": 173
     },
     "Rocket #38": {
       "level": 65,
@@ -5073,7 +5611,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 319
+      "index": 278
     },
     "Rocket #44": {
       "level": 60,
@@ -5090,7 +5628,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 325
+      "index": 176
     },
     "Rocket #46": {
       "level": 82,
@@ -5107,7 +5645,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunderbolt"
       ],
-      "index": 327
+      "index": 318
     },
     "Gentleman #3": {
       "level": 31,
@@ -5119,10 +5657,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Dragon Rage",
         "Waterfall",
         "Thunderbolt"
       ],
-      "index": 359
+      "index": 79
     },
     "Gentleman #6": {
       "level": 33,
@@ -5134,62 +5673,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Dragon Rage",
         "Waterfall",
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 362
-    },
-    "Rival #5": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Hydro Pump",
-        "Thunderbolt",
-        "Blizzard",
-        "Body Slam"
-      ],
-      "index": 367
-    },
-    "Rival #6": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Hydro Pump",
-        "Thunderbolt",
-        "Blizzard",
-        "Body Slam"
-      ],
-      "index": 368
-    },
-    "Rival #7": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Hydro Pump",
-        "Thunderbolt",
-        "Blizzard",
-        "Body Slam"
-      ],
-      "index": 369
+      "index": 92
     },
     "Nurse Joy": {
       "level": 91,
@@ -5206,7 +5695,58 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 404
+      "index": 352
+    },
+    "Rival - Silph Co. #1": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Hydro Pump",
+        "Thunderbolt",
+        "Blizzard",
+        "Body Slam"
+      ],
+      "index": 270
+    },
+    "Rival - Silph Co. #2": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Hydro Pump",
+        "Thunderbolt",
+        "Blizzard",
+        "Body Slam"
+      ],
+      "index": 271
+    },
+    "Rival - Silph Co. #3": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Hydro Pump",
+        "Thunderbolt",
+        "Blizzard",
+        "Body Slam"
+      ],
+      "index": 272
     }
   },
   "Wigglytuff": {
@@ -5219,8 +5759,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 44
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Double-Edge",
+        "Thunder Wave"
+      ],
+      "index": 126
     },
     "Lass #16": {
       "level": 43,
@@ -5231,8 +5776,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 45
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Double-Edge",
+        "Thunder Wave"
+      ],
+      "index": 127
     },
     "Jr. Trainer M #8": {
       "level": 37,
@@ -5243,8 +5793,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 66
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Double-Edge",
+        "Thunder Wave"
+      ],
+      "index": 96
     },
     "Jr. Trainer F #7": {
       "level": 39,
@@ -5255,8 +5810,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 75
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Double-Edge",
+        "Thunder Wave"
+      ],
+      "index": 103
     },
     "Jr. Trainer F #12": {
       "level": 53,
@@ -5267,8 +5827,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 80
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Double-Edge",
+        "Thunder Wave"
+      ],
+      "index": 186
     },
     "Jr. Trainer F #14": {
       "level": 54,
@@ -5279,8 +5844,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 82
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Double-Edge",
+        "Thunder Wave"
+      ],
+      "index": 188
     },
     "Jr. Trainer F #24": {
       "level": 67,
@@ -5291,8 +5861,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 92
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Double-Edge",
+        "Thunder Wave"
+      ],
+      "index": 303
     },
     "Jr. Trainer F #25": {
       "level": 24,
@@ -5303,8 +5878,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 93
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Double-Edge",
+        "Thunder Wave"
+      ],
+      "index": 60
     },
     "Hiker #2": {
       "level": 21,
@@ -5315,8 +5895,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 114
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Double-Edge",
+        "Thunder Wave"
+      ],
+      "index": 49
     },
     "Hiker #6": {
       "level": 38,
@@ -5327,8 +5912,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 118
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Double-Edge",
+        "Thunder Wave"
+      ],
+      "index": 100
     },
     "Hiker #16": {
       "level": 41,
@@ -5339,8 +5929,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 128
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Double-Edge",
+        "Thunder Wave"
+      ],
+      "index": 123
     },
     "Rocket #31": {
       "level": 66,
@@ -5351,8 +5946,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 312
+      "moves": [
+        "Psychic",
+        "Blizzard",
+        "Double-Edge",
+        "Thunder Wave"
+      ],
+      "index": 265
     },
     "Nurse Joy": {
       "level": 91,
@@ -5369,7 +5969,7 @@ var SETDEX_RBY = {
         "Sing",
         "Psychic"
       ],
-      "index": 404
+      "index": 352
     }
   },
   "Raichu": {
@@ -5382,8 +5982,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 44
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 126
     },
     "Jr. Trainer F #7": {
       "level": 39,
@@ -5394,8 +5999,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 75
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 103
     },
     "Jr. Trainer F #12": {
       "level": 53,
@@ -5406,8 +6016,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 80
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 186
     },
     "Jr. Trainer F #18": {
       "level": 41,
@@ -5418,8 +6033,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 86
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 110
     },
     "Jr. Trainer F #21": {
       "level": 56,
@@ -5430,8 +6050,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 89
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 207
     },
     "Pokemaniac #6": {
       "level": 88,
@@ -5442,8 +6067,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 99
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 354
     },
     "Cue Ball #2": {
       "level": 59,
@@ -5454,8 +6084,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 183
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 233
     },
     "Cue Ball #3": {
       "level": 60,
@@ -5466,8 +6101,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 184
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 234
     },
     "Beauty #4": {
       "level": 53,
@@ -5478,8 +6118,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 201
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 191
     },
     "Beauty #14": {
       "level": 63,
@@ -5490,25 +6135,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 211
-    },
-    "Prof. Oak": {
-      "level": 115,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
       "moves": [
-        "Thunder Wave",
-        "Surf",
         "Thunderbolt",
-        "Body Slam"
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
       ],
-      "index": 262
+      "index": 301
     },
     "Rocket #7": {
       "level": 44,
@@ -5519,8 +6152,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 288
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 143
     },
     "Rocket #12": {
       "level": 49,
@@ -5531,8 +6169,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 293
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 148
     },
     "Rocket #32": {
       "level": 67,
@@ -5543,8 +6186,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 313
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 267
     },
     "Cooltrainer F #8": {
       "level": 55,
@@ -5555,8 +6203,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 348
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 401
     },
     "Lt. Surge": {
       "level": 39,
@@ -5573,7 +6226,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 352
+      "index": 93
     },
     "Nurse Joy": {
       "level": 91,
@@ -5590,7 +6243,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Sing"
       ],
-      "index": 404
+      "index": 352
     },
     "Jano": {
       "level": 100,
@@ -5605,9 +6258,9 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf",
         "Thunderbolt",
-        "Double Edge"
+        "Double-Edge"
       ],
-      "index": 406
+      "index": 365
     },
     "AJ": {
       "level": 93,
@@ -5618,8 +6271,30 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 409
+      "moves": [
+        "Thunderbolt",
+        "Body Slam",
+        "Thunder Wave",
+        "Surf"
+      ],
+      "index": 368
+    },
+    "Prof. Oak #1": {
+      "level": 115,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Surf",
+        "Thunderbolt",
+        "Body Slam"
+      ],
+      "index": 370
     }
   },
   "Clefable": {
@@ -5632,8 +6307,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 45
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 127
     },
     "Jr. Trainer F #4": {
       "level": 44,
@@ -5644,8 +6324,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 72
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 134
     },
     "Jr. Trainer F #6": {
       "level": 38,
@@ -5656,8 +6341,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 74
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 98
     },
     "Jr. Trainer F #9": {
       "level": 42,
@@ -5668,8 +6358,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 77
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 116
     },
     "Fisherman #2": {
       "level": 27,
@@ -5680,8 +6375,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 157
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 86
     },
     "Beauty #5": {
       "level": 54,
@@ -5692,8 +6392,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 202
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 192
     },
     "Beauty #10": {
       "level": 55,
@@ -5704,8 +6409,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 207
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 213
     },
     "Beauty #12": {
       "level": 62,
@@ -5716,8 +6426,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 209
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 299
     },
     "Juggler #2": {
       "level": 90,
@@ -5728,8 +6443,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 220
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 356
     },
     "Bird Keeper #16": {
       "level": 55,
@@ -5740,8 +6460,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 248
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 204
     },
     "Scientist #1": {
       "level": 73,
@@ -5752,8 +6477,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 266
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 312
     },
     "Cooltrainer F #1": {
       "level": 50,
@@ -5764,8 +6494,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 341
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 141
     },
     "Erika": {
       "level": 54,
@@ -5782,7 +6517,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Body Slam"
       ],
-      "index": 353
+      "index": 142
     },
     "Lorelei": {
       "level": 115,
@@ -5799,7 +6534,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Body Slam"
       ],
-      "index": 376
+      "index": 369
     },
     "AJ": {
       "level": 93,
@@ -5810,8 +6545,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 409
+      "moves": [
+        "Body Slam",
+        "Blizzard",
+        "Psychic",
+        "Thunder Wave"
+      ],
+      "index": 368
     }
   },
   "Geodude": {
@@ -5827,7 +6567,7 @@ var SETDEX_RBY = {
       "moves": [
         "Self-Destruct"
       ],
-      "index": 49
+      "index": 8
     },
     "Super Nerd #1": {
       "level": 18,
@@ -5841,7 +6581,7 @@ var SETDEX_RBY = {
       "moves": [
         "Self-Destruct"
       ],
-      "index": 101
+      "index": 24
     }
   },
   "Cubone": {
@@ -5856,9 +6596,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Headbutt",
-        "Double Edge"
+        "Bone Club",
+        "Double-Edge"
       ],
-      "index": 49
+      "index": 8
     },
     "Jr. Trainer M #2": {
       "level": 22,
@@ -5870,12 +6611,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Headbutt",
-        "Double Edge",
+        "Bone Club",
+        "Double-Edge",
         "Rock Slide",
         "Bonemerang"
       ],
-      "index": 60
+      "index": 40
     },
     "Channeler #17": {
       "level": 49,
@@ -5887,12 +6628,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Headbutt",
-        "Double Edge",
+        "Bone Club",
+        "Double-Edge",
         "Rock Slide",
         "Bonemerang"
       ],
-      "index": 393
+      "index": 168
     }
   },
   "Machoke": {
@@ -5906,9 +6647,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Karate Chop",
+        "Low Kick",
         "Submission"
       ],
-      "index": 50
+      "index": 87
     },
     "Hiker #12": {
       "level": 41,
@@ -5920,10 +6663,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Karate Chop",
+        "Low Kick",
         "Submission",
         "Seismic Toss"
       ],
-      "index": 124
+      "index": 113
     },
     "Blackbelt #3": {
       "level": 65,
@@ -5935,10 +6680,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Karate Chop",
+        "Low Kick",
         "Submission",
         "Seismic Toss"
       ],
-      "index": 252
+      "index": 245
     },
     "Blackbelt #7": {
       "level": 83,
@@ -5950,10 +6697,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Karate Chop",
+        "Low Kick",
         "Submission",
         "Seismic Toss"
       ],
-      "index": 256
+      "index": 339
     }
   },
   "Shellder": {
@@ -5967,10 +6716,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Supersonic",
-        "Clamp"
+        "Explosion",
+        "Clamp",
+        "Aurora Beam",
+        "Supersonic"
       ],
-      "index": 50
+      "index": 87
     },
     "Sailor #5": {
       "level": 30,
@@ -5982,11 +6733,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Supersonic",
+        "Explosion",
         "Clamp",
-        "Aurora Beam"
+        "Aurora Beam",
+        "Supersonic"
       ],
-      "index": 54
+      "index": 83
     },
     "Super Nerd #2": {
       "level": 19,
@@ -5998,9 +6750,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Explosion",
+        "Clamp",
+        "Aurora Beam",
         "Supersonic"
       ],
-      "index": 102
+      "index": 30
     },
     "Rocket #42": {
       "level": 20,
@@ -6014,9 +6769,10 @@ var SETDEX_RBY = {
       "moves": [
         "Explosion",
         "Clamp",
-        "Ice Beam"
+        "Ice Beam",
+        "Supersonic"
       ],
-      "index": 323
+      "index": 31
     }
   },
   "Seel": {
@@ -6029,8 +6785,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 50
+      "moves": [
+        "Aurora Beam",
+        "Headbutt",
+        "Bubble Beam",
+        "Rest"
+      ],
+      "index": 87
     },
     "Jr. Trainer F #3": {
       "level": 23,
@@ -6041,8 +6802,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 71
+      "moves": [
+        "Aurora Beam",
+        "Headbutt",
+        "Bubble Beam",
+        "Rest"
+      ],
+      "index": 59
     },
     "Hiker #4": {
       "level": 23,
@@ -6053,8 +6819,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 116
+      "moves": [
+        "Aurora Beam",
+        "Headbutt",
+        "Bubble Beam",
+        "Rest"
+      ],
+      "index": 51
     }
   },
   "Primeape": {
@@ -6068,9 +6839,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Submission",
+        "Body Slam",
+        "Rock Slide",
         "Seismic Toss"
       ],
-      "index": 51
+      "index": 88
     },
     "Biker #4": {
       "level": 56,
@@ -6082,10 +6856,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
         "Seismic Toss",
-        "Hi Jump Kick"
+        "High Jump Kick"
       ],
-      "index": 132
+      "index": 211
     },
     "Biker #7": {
       "level": 58,
@@ -6097,10 +6873,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
         "Seismic Toss",
-        "Hi Jump Kick"
+        "High Jump Kick"
       ],
-      "index": 135
+      "index": 231
     },
     "Tamer #6": {
       "level": 60,
@@ -6112,10 +6890,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
         "Seismic Toss",
-        "Hi Jump Kick"
+        "High Jump Kick"
       ],
-      "index": 232
+      "index": 388
     },
     "Blackbelt #1": {
       "level": 67,
@@ -6132,7 +6912,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 250
+      "index": 243
     },
     "Blackbelt #2": {
       "level": 66,
@@ -6144,10 +6924,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
         "Seismic Toss",
-        "Hi Jump Kick"
+        "High Jump Kick"
       ],
-      "index": 251
+      "index": 244
     },
     "Blackbelt #5": {
       "level": 65,
@@ -6159,10 +6941,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
         "Seismic Toss",
-        "Hi Jump Kick"
+        "High Jump Kick"
       ],
-      "index": 254
+      "index": 247
     },
     "Blackbelt #6": {
       "level": 83,
@@ -6174,10 +6958,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
         "Seismic Toss",
-        "Hi Jump Kick"
+        "High Jump Kick"
       ],
-      "index": 255
+      "index": 338
     },
     "Gentleman #4": {
       "level": 48,
@@ -6189,10 +6975,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
         "Seismic Toss",
-        "Hi Jump Kick"
+        "High Jump Kick"
       ],
-      "index": 360
+      "index": 185
     }
   },
   "Tentacool": {
@@ -6206,9 +6994,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Toxic"
+        "Wrap",
+        "Supersonic",
+        "Toxic",
+        "Bubble Beam"
       ],
-      "index": 51
+      "index": 88
     },
     "Sailor #4": {
       "level": 30,
@@ -6220,9 +7011,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Toxic"
+        "Wrap",
+        "Supersonic",
+        "Toxic",
+        "Bubble Beam"
       ],
-      "index": 53
+      "index": 82
     },
     "Rocket #26": {
       "level": 65,
@@ -6234,10 +7028,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Supersonic",
         "Toxic",
+        "Bubble Beam",
         "Hydro Pump"
       ],
-      "index": 307
+      "index": 257
     }
   },
   "Dewgong": {
@@ -6250,8 +7046,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 52
+      "moves": [
+        "Ice Beam",
+        "Waterfall",
+        "Body Slam",
+        "Horn Drill"
+      ],
+      "index": 81
     },
     "Jr. Trainer F #18": {
       "level": 41,
@@ -6263,9 +7064,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Waterfall"
+        "Ice Beam",
+        "Waterfall",
+        "Body Slam",
+        "Horn Drill"
       ],
-      "index": 86
+      "index": 110
     },
     "Swimmer #2": {
       "level": 60,
@@ -6277,11 +7081,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Waterfall",
+        "Body Slam",
+        "Horn Drill",
         "Hydro Pump",
         "Rest"
       ],
-      "index": 168
+      "index": 292
     },
     "Swimmer #11": {
       "level": 63,
@@ -6293,11 +7098,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Waterfall",
+        "Body Slam",
+        "Horn Drill",
         "Hydro Pump",
         "Rest"
       ],
-      "index": 177
+      "index": 306
     },
     "Swimmer #14": {
       "level": 70,
@@ -6309,11 +7115,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Waterfall",
+        "Body Slam",
+        "Horn Drill",
         "Hydro Pump",
         "Rest"
       ],
-      "index": 180
+      "index": 333
     },
     "Gambler #2": {
       "level": 25,
@@ -6324,8 +7131,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 192
+      "moves": [
+        "Ice Beam",
+        "Waterfall",
+        "Body Slam",
+        "Horn Drill"
+      ],
+      "index": 68
     },
     "Gambler #5": {
       "level": 44,
@@ -6337,9 +7149,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Waterfall"
+        "Ice Beam",
+        "Waterfall",
+        "Body Slam",
+        "Horn Drill"
       ],
-      "index": 195
+      "index": 131
     },
     "Gambler #7": {
       "level": 43,
@@ -6351,9 +7166,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Waterfall"
+        "Ice Beam",
+        "Waterfall",
+        "Body Slam",
+        "Horn Drill"
       ],
-      "index": 197
+      "index": 132
     },
     "Beauty #5": {
       "level": 54,
@@ -6365,11 +7183,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Waterfall",
+        "Body Slam",
+        "Horn Drill",
         "Hydro Pump",
         "Rest"
       ],
-      "index": 202
+      "index": 192
     },
     "Bird Keeper #9": {
       "level": 57,
@@ -6381,11 +7200,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Waterfall",
+        "Body Slam",
+        "Horn Drill",
         "Hydro Pump",
         "Rest"
       ],
-      "index": 241
+      "index": 217
     },
     "Misty": {
       "level": 25,
@@ -6402,7 +7222,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Waterfall"
       ],
-      "index": 351
+      "index": 54
     }
   },
   "Mankey": {
@@ -6419,9 +7239,9 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Thrash",
         "Submission",
-        "Double Edge"
+        "Double-Edge"
       ],
-      "index": 53
+      "index": 82
     },
     "Jr. Trainer M #2": {
       "level": 22,
@@ -6436,9 +7256,9 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Thrash",
         "Submission",
-        "Double Edge"
+        "Double-Edge"
       ],
-      "index": 60
+      "index": 40
     },
     "Blackbelt #5": {
       "level": 65,
@@ -6453,9 +7273,9 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Thrash",
         "Submission",
-        "Double Edge"
+        "Double-Edge"
       ],
-      "index": 254
+      "index": 247
     }
   },
   "Machop": {
@@ -6469,9 +7289,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Low Kick"
+        "Low Kick",
+        "Karate Chop"
       ],
-      "index": 55
+      "index": 84
     },
     "Hiker #1": {
       "level": 18,
@@ -6482,8 +7303,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 113
+      "moves": [
+        "Low Kick",
+        "Karate Chop"
+      ],
+      "index": 25
     },
     "Blackbelt #3": {
       "level": 65,
@@ -6496,10 +7320,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Low Kick",
+        "Karate Chop",
         "Seismic Toss",
         "Submission"
       ],
-      "index": 252
+      "index": 245
     },
     "Rocket #5": {
       "level": 24,
@@ -6511,9 +7336,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Low Kick"
+        "Low Kick",
+        "Karate Chop"
       ],
-      "index": 286
+      "index": 35
     }
   },
   "Machamp": {
@@ -6527,9 +7353,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission"
+        "Submission",
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake"
       ],
-      "index": 56
+      "index": 85
     },
     "Pokemaniac #6": {
       "level": 88,
@@ -6541,10 +7370,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
-        "Hi Jump Kick"
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
+        "High Jump Kick"
       ],
-      "index": 99
+      "index": 354
     },
     "Hiker #15": {
       "level": 92,
@@ -6556,10 +7387,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
-        "Hi Jump Kick"
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
+        "High Jump Kick"
       ],
-      "index": 127
+      "index": 349
     },
     "Cue Ball #1": {
       "level": 59,
@@ -6571,10 +7404,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
-        "Hi Jump Kick"
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
+        "High Jump Kick"
       ],
-      "index": 182
+      "index": 232
     },
     "Cue Ball #4": {
       "level": 57,
@@ -6586,10 +7421,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
-        "Hi Jump Kick"
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
+        "High Jump Kick"
       ],
-      "index": 185
+      "index": 224
     },
     "Cue Ball #7": {
       "level": 57,
@@ -6601,10 +7438,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
-        "Hi Jump Kick"
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
+        "High Jump Kick"
       ],
-      "index": 188
+      "index": 227
     },
     "Cue Ball #9": {
       "level": 71,
@@ -6616,10 +7455,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
-        "Hi Jump Kick"
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
+        "High Jump Kick"
       ],
-      "index": 190
+      "index": 335
     },
     "Blackbelt #1": {
       "level": 67,
@@ -6636,7 +7477,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 250
+      "index": 243
     },
     "Blackbelt #3": {
       "level": 65,
@@ -6648,10 +7489,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
-        "Hi Jump Kick"
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
+        "High Jump Kick"
       ],
-      "index": 252
+      "index": 245
     },
     "Blackbelt #8": {
       "level": 84,
@@ -6663,10 +7506,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
-        "Hi Jump Kick"
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
+        "High Jump Kick"
       ],
-      "index": 257
+      "index": 340
     },
     "Blackbelt #9": {
       "level": 90,
@@ -6678,27 +7523,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
-        "Hi Jump Kick"
-      ],
-      "index": 258
-    },
-    "Prof. Oak": {
-      "level": 115,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Hi Jump Kick",
-        "Earthquake",
+        "Body Slam",
         "Rock Slide",
-        "Body Slam"
+        "Earthquake",
+        "High Jump Kick"
       ],
-      "index": 262
+      "index": 358
     },
     "Rocket #16": {
       "level": 50,
@@ -6710,9 +7540,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission"
+        "Submission",
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake"
       ],
-      "index": 297
+      "index": 152
     },
     "Rocket #28": {
       "level": 66,
@@ -6724,10 +7557,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Submission",
-        "Hi Jump Kick"
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
+        "High Jump Kick"
       ],
-      "index": 309
+      "index": 261
     },
     "Rocket #43": {
       "level": 55,
@@ -6744,7 +7579,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 324
+      "index": 155
     },
     "Rocket #45": {
       "level": 72,
@@ -6761,7 +7596,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 326
+      "index": 282
     },
     "Rocket #47": {
       "level": 90,
@@ -6778,7 +7613,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 328
+      "index": 344
     },
     "Bruno": {
       "level": 68,
@@ -6795,7 +7630,24 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 349
+      "index": 248
+    },
+    "Prof. Oak #1": {
+      "level": 115,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "High Jump Kick",
+        "Earthquake",
+        "Rock Slide",
+        "Body Slam"
+      ],
+      "index": 370
     }
   },
   "Magnemite": {
@@ -6809,9 +7661,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunderbolt"
+        "Thunderbolt",
+        "Sonic Boom",
+        "Thunder Wave",
+        "Double-Edge"
       ],
-      "index": 57
+      "index": 90
     },
     "Super Nerd #1": {
       "level": 18,
@@ -6822,8 +7677,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 101
+      "moves": [
+        "Thunderbolt",
+        "Sonic Boom",
+        "Thunder Wave",
+        "Double-Edge"
+      ],
+      "index": 24
     },
     "Super Nerd #6": {
       "level": 100,
@@ -6835,9 +7695,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunderbolt"
+        "Thunderbolt",
+        "Sonic Boom",
+        "Thunder Wave",
+        "Double-Edge"
       ],
-      "index": 106
+      "index": 380
     },
     "Super Nerd #7": {
       "level": 20,
@@ -6848,8 +7711,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 107
+      "moves": [
+        "Thunderbolt",
+        "Sonic Boom",
+        "Thunder Wave",
+        "Double-Edge"
+      ],
+      "index": 381
     },
     "Super Nerd #7 (2)": {
       "level": 20,
@@ -6860,8 +7728,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 107
+      "moves": [
+        "Thunderbolt",
+        "Sonic Boom",
+        "Thunder Wave",
+        "Double-Edge"
+      ],
+      "index": 381
     },
     "Super Nerd #7 (3)": {
       "level": 20,
@@ -6872,8 +7745,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 107
+      "moves": [
+        "Thunderbolt",
+        "Sonic Boom",
+        "Thunder Wave",
+        "Double-Edge"
+      ],
+      "index": 381
     },
     "Super Nerd #8": {
       "level": 24,
@@ -6885,9 +7763,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunderbolt"
+        "Thunderbolt",
+        "Sonic Boom",
+        "Thunder Wave",
+        "Double-Edge"
       ],
-      "index": 108
+      "index": 382
     },
     "Engineer #3": {
       "level": 26,
@@ -6899,9 +7780,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunderbolt"
+        "Thunderbolt",
+        "Sonic Boom",
+        "Thunder Wave",
+        "Double-Edge"
       ],
-      "index": 155
+      "index": 66
     },
     "Gentleman #6": {
       "level": 33,
@@ -6913,9 +7797,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunderbolt"
+        "Thunderbolt",
+        "Sonic Boom",
+        "Thunder Wave",
+        "Double-Edge"
       ],
-      "index": 362
+      "index": 92
     }
   },
   "Poliwrath": {
@@ -6929,9 +7816,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Ice Beam",
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard"
       ],
-      "index": 57
+      "index": 90
     },
     "Biker #2": {
       "level": 55,
@@ -6943,10 +7833,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 130
+      "index": 196
     },
     "Biker #11": {
       "level": 58,
@@ -6958,10 +7850,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 139
+      "index": 222
     },
     "Swimmer #4": {
       "level": 62,
@@ -6973,10 +7867,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 170
+      "index": 294
     },
     "Swimmer #7": {
       "level": 62,
@@ -6988,10 +7884,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 173
+      "index": 297
     },
     "Swimmer #8": {
       "level": 62,
@@ -7003,10 +7901,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 174
+      "index": 298
     },
     "Swimmer #11": {
       "level": 63,
@@ -7018,10 +7918,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 177
+      "index": 306
     },
     "Swimmer #14": {
       "level": 70,
@@ -7033,10 +7935,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 180
+      "index": 333
     },
     "Beauty #4": {
       "level": 53,
@@ -7048,10 +7952,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 201
+      "index": 191
     },
     "Blackbelt #1": {
       "level": 67,
@@ -7068,7 +7974,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 250
+      "index": 243
     },
     "Blackbelt #4": {
       "level": 65,
@@ -7080,10 +7986,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 253
+      "index": 246
     },
     "Blackbelt #7": {
       "level": 83,
@@ -7095,10 +8003,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 256
+      "index": 339
     },
     "Rocket #29": {
       "level": 67,
@@ -7110,10 +8020,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 310
+      "index": 262
     },
     "Bruno": {
       "level": 68,
@@ -7130,7 +8042,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hydro Pump"
       ],
-      "index": 349
+      "index": 248
     },
     "Misty": {
       "level": 25,
@@ -7147,7 +8059,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Waterfall"
       ],
-      "index": 351
+      "index": 54
     },
     "Gentleman #4": {
       "level": 48,
@@ -7159,10 +8071,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Lovely Kiss",
+        "Earthquake",
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 360
+      "index": 185
     },
     "Jano": {
       "level": 100,
@@ -7179,7 +8093,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Psychic"
       ],
-      "index": 406
+      "index": 365
     }
   },
   "Graveler": {
@@ -7193,9 +8107,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Dig",
+        "Self-Destruct",
+        "Rock Slide",
         "Explosion"
       ],
-      "index": 58
+      "index": 89
     },
     "Super Nerd #5": {
       "level": 43,
@@ -7207,11 +8124,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion",
+        "Self-Destruct",
         "Rock Slide",
+        "Explosion",
         "Earthquake"
       ],
-      "index": 105
+      "index": 130
     },
     "Hiker #13": {
       "level": 41,
@@ -7223,10 +8141,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion",
-        "Rock Slide"
+        "Dig",
+        "Self-Destruct",
+        "Rock Slide",
+        "Explosion"
       ],
-      "index": 125
+      "index": 114
     }
   },
   "Golduck": {
@@ -7240,9 +8160,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psychic"
+        "Waterfall",
+        "Psychic",
+        "Body Slam",
+        "Hypnosis"
       ],
-      "index": 58
+      "index": 89
     },
     "Jr. Trainer M #3": {
       "level": 20,
@@ -7253,8 +8176,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 61
+      "moves": [
+        "Waterfall",
+        "Psychic",
+        "Body Slam",
+        "Hypnosis"
+      ],
+      "index": 41
     },
     "Hiker #13": {
       "level": 41,
@@ -7266,9 +8194,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psychic"
+        "Waterfall",
+        "Psychic",
+        "Body Slam",
+        "Hypnosis"
       ],
-      "index": 125
+      "index": 114
     },
     "Swimmer #2": {
       "level": 60,
@@ -7281,10 +8212,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Psychic",
-        "Hydro Pump",
-        "Hypnosis"
+        "Body Slam",
+        "Hypnosis",
+        "Hydro Pump"
       ],
-      "index": 168
+      "index": 292
     },
     "Swimmer #8": {
       "level": 62,
@@ -7297,10 +8229,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Psychic",
-        "Hydro Pump",
-        "Hypnosis"
+        "Body Slam",
+        "Hypnosis",
+        "Hydro Pump"
       ],
-      "index": 174
+      "index": 298
     },
     "Swimmer #13": {
       "level": 70,
@@ -7313,10 +8246,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Psychic",
-        "Hydro Pump",
-        "Hypnosis"
+        "Body Slam",
+        "Hypnosis",
+        "Hydro Pump"
       ],
-      "index": 179
+      "index": 332
     },
     "Bird Keeper #3": {
       "level": 54,
@@ -7329,9 +8263,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Psychic",
+        "Body Slam",
+        "Hypnosis",
         "Hydro Pump"
       ],
-      "index": 235
+      "index": 195
     },
     "Bird Keeper #7": {
       "level": 56,
@@ -7344,9 +8280,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Psychic",
+        "Body Slam",
+        "Hypnosis",
         "Hydro Pump"
       ],
-      "index": 239
+      "index": 215
     },
     "Bird Keeper #10": {
       "level": 57,
@@ -7359,9 +8297,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Psychic",
+        "Body Slam",
+        "Hypnosis",
         "Hydro Pump"
       ],
-      "index": 242
+      "index": 218
     },
     "Bird Keeper #11": {
       "level": 65,
@@ -7374,10 +8314,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Psychic",
-        "Hydro Pump",
-        "Hypnosis"
+        "Body Slam",
+        "Hypnosis",
+        "Hydro Pump"
       ],
-      "index": 243
+      "index": 311
     },
     "Bird Keeper #15": {
       "level": 55,
@@ -7390,9 +8331,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Psychic",
+        "Body Slam",
+        "Hypnosis",
         "Hydro Pump"
       ],
-      "index": 247
+      "index": 203
     },
     "Misty": {
       "level": 25,
@@ -7409,7 +8352,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Body Slam"
       ],
-      "index": 351
+      "index": 54
     }
   },
   "Starmie": {
@@ -7422,8 +8365,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 58
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 89
     },
     "Pokemaniac #6": {
       "level": 88,
@@ -7434,8 +8382,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 99
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 354
     },
     "Engineer #1": {
       "level": 48,
@@ -7446,8 +8399,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 153
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 178
     },
     "Fisherman #5": {
       "level": 42,
@@ -7458,8 +8416,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 160
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 181
     },
     "Fisherman #6": {
       "level": 42,
@@ -7470,8 +8433,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 161
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 182
     },
     "Fisherman #7": {
       "level": 70,
@@ -7482,8 +8450,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 162
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 327
     },
     "Fisherman #10": {
       "level": 70,
@@ -7494,8 +8467,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 165
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 330
     },
     "Swimmer #13": {
       "level": 70,
@@ -7506,8 +8484,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 179
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 332
     },
     "Beauty #14": {
       "level": 63,
@@ -7518,8 +8501,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 211
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 301
     },
     "Psychic #2": {
       "level": 69,
@@ -7530,8 +8518,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 214
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 285
     },
     "SHF Cerulean Cave": {
       "level": 127,
@@ -7548,7 +8541,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 264
+      "index": 376
     },
     "SHF Victory Road": {
       "level": 110,
@@ -7565,7 +8558,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 265
+      "index": 359
     },
     "Scientist #5": {
       "level": 65,
@@ -7576,8 +8569,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 270
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 256
     },
     "Scientist #9": {
       "level": 67,
@@ -7588,8 +8586,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 274
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 273
     },
     "Scientist #10": {
       "level": 66,
@@ -7600,8 +8603,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 275
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 276
     },
     "Scientist #11": {
       "level": 66,
@@ -7612,8 +8620,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 276
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 279
     },
     "Scientist #12": {
       "level": 71,
@@ -7624,8 +8637,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 277
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 315
     },
     "Cooltrainer M #3": {
       "level": 92,
@@ -7636,8 +8654,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 333
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 362
     },
     "Cooltrainer M #4": {
       "level": 90,
@@ -7648,8 +8671,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 334
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 394
     },
     "Cooltrainer M #9": {
       "level": 83,
@@ -7660,8 +8688,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 339
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 342
     },
     "Misty": {
       "level": 25,
@@ -7678,7 +8711,7 @@ var SETDEX_RBY = {
         "Recover",
         "Thunderbolt"
       ],
-      "index": 351
+      "index": 54
     },
     "Sabrina": {
       "level": 75,
@@ -7695,9 +8728,26 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 356
+      "index": 291
     },
-    "Rival #8": {
+    "Soldier": {
+      "level": 93,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 366
+    },
+    "Rival - Route 22 #1": {
       "level": 90,
       "dvs": {
         "hp": 8,
@@ -7712,9 +8762,9 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 370
+      "index": 346
     },
-    "Rival #9": {
+    "Rival - Route 22 #2": {
       "level": 90,
       "dvs": {
         "hp": 8,
@@ -7729,9 +8779,9 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 371
+      "index": 347
     },
-    "Rival #10": {
+    "Rival - Route 22 #3": {
       "level": 90,
       "dvs": {
         "hp": 8,
@@ -7740,10 +8790,15 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 372
+      "moves": [
+        "Thunder Wave",
+        "Blizzard",
+        "Thunderbolt",
+        "Recover"
+      ],
+      "index": 348
     },
-    "Rival #1": {
+    "Rival - Champion #1": {
       "level": 115,
       "dvs": {
         "hp": 8,
@@ -7760,7 +8815,7 @@ var SETDEX_RBY = {
       ],
       "index": 373
     },
-    "Rival #2": {
+    "Rival - Champion #2": {
       "level": 115,
       "dvs": {
         "hp": 8,
@@ -7777,7 +8832,7 @@ var SETDEX_RBY = {
       ],
       "index": 374
     },
-    "Rival #3": {
+    "Rival - Champion #3": {
       "level": 115,
       "dvs": {
         "hp": 8,
@@ -7793,18 +8848,6 @@ var SETDEX_RBY = {
         "Blizzard"
       ],
       "index": 375
-    },
-    "Soldier": {
-      "level": 93,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [],
-      "index": 407
     }
   },
   "Diglett": {
@@ -7817,8 +8860,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 59
+      "moves": [
+        "Sand Attack",
+        "Slash"
+      ],
+      "index": 9
     }
   },
   "Rhyhorn": {
@@ -7831,8 +8877,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 59
+      "moves": [
+        "Double-Edge"
+      ],
+      "index": 9
     },
     "Pokemaniac #1": {
       "level": 39,
@@ -7844,9 +8892,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Rock Slide"
       ],
-      "index": 94
+      "index": 105
     },
     "Hiker #1": {
       "level": 18,
@@ -7857,8 +8906,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 113
+      "moves": [
+        "Double-Edge"
+      ],
+      "index": 25
     },
     "Hiker #2": {
       "level": 21,
@@ -7869,8 +8920,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 114
+      "moves": [
+        "Double-Edge"
+      ],
+      "index": 49
     },
     "Hiker #6": {
       "level": 38,
@@ -7882,9 +8935,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Rock Slide"
       ],
-      "index": 118
+      "index": 100
     },
     "Hiker #7": {
       "level": 42,
@@ -7896,10 +8950,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 119
+      "index": 107
     },
     "Tamer #3": {
       "level": 83,
@@ -7911,10 +8966,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 229
+      "index": 336
     },
     "Tamer #6": {
       "level": 60,
@@ -7926,10 +8982,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 232
+      "index": 388
     },
     "Bird Keeper #8": {
       "level": 57,
@@ -7941,10 +8998,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Double-Edge",
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 240
+      "index": 216
     }
   },
   "Jolteon": {
@@ -7958,9 +9016,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
         "Body Slam"
       ],
-      "index": 64
+      "index": 133
     },
     "Jr. Trainer F #16": {
       "level": 64,
@@ -7972,10 +9033,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Body Slam",
-        "Thunderbolt"
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
+        "Body Slam"
       ],
-      "index": 84
+      "index": 302
     },
     "Jr. Trainer F #19": {
       "level": 42,
@@ -7987,9 +9050,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
         "Body Slam"
       ],
-      "index": 87
+      "index": 111
     },
     "Biker #14": {
       "level": 55,
@@ -8001,10 +9067,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Body Slam",
-        "Thunderbolt"
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
+        "Body Slam"
       ],
-      "index": 142
+      "index": 198
     },
     "Burglar #4": {
       "level": 77,
@@ -8016,10 +9084,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Body Slam",
-        "Thunderbolt"
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
+        "Body Slam"
       ],
-      "index": 147
+      "index": 323
     },
     "Burglar #5": {
       "level": 77,
@@ -8031,10 +9101,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Body Slam",
-        "Thunderbolt"
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
+        "Body Slam"
       ],
-      "index": 148
+      "index": 324
     },
     "Rocker #2": {
       "level": 50,
@@ -8046,9 +9118,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
         "Body Slam"
       ],
-      "index": 218
+      "index": 184
     },
     "Blackbelt #8": {
       "level": 84,
@@ -8060,10 +9135,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Body Slam",
-        "Thunderbolt"
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
+        "Body Slam"
       ],
-      "index": 257
+      "index": 340
     },
     "Blackbelt #9": {
       "level": 90,
@@ -8075,10 +9152,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Body Slam",
-        "Thunderbolt"
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
+        "Body Slam"
       ],
-      "index": 258
+      "index": 358
     },
     "Rocket #24": {
       "level": 64,
@@ -8090,10 +9169,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Body Slam",
-        "Thunderbolt"
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
+        "Body Slam"
       ],
-      "index": 305
+      "index": 252
     },
     "Rocket #38": {
       "level": 65,
@@ -8105,10 +9186,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Body Slam",
-        "Thunderbolt"
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
+        "Body Slam"
       ],
-      "index": 319
+      "index": 278
     },
     "Cooltrainer M #2": {
       "level": 88,
@@ -8120,10 +9203,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Body Slam",
-        "Thunderbolt"
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
+        "Body Slam"
       ],
-      "index": 332
+      "index": 361
     },
     "Cooltrainer M #3": {
       "level": 92,
@@ -8135,10 +9220,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Body Slam",
-        "Thunderbolt"
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
+        "Body Slam"
       ],
-      "index": 333
+      "index": 362
     },
     "Lt. Surge": {
       "level": 39,
@@ -8151,111 +9238,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Thunder Wave",
-        "Sand-Attack",
+        "Sand Attack",
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 352
-    },
-    "Rival #1": {
-      "level": 115,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave",
-        "Sand-Attack",
-        "Body Slam",
-        "Thunderbolt"
-      ],
-      "index": 373
-    },
-    "Rival #8": {
-      "level": 90,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave",
-        "Sand-Attack",
-        "Body Slam",
-        "Thunderbolt"
-      ],
-      "index": 370
-    },
-    "Rival #9": {
-      "level": 90,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave",
-        "Sand-Attack",
-        "Body Slam",
-        "Thunderbolt"
-      ],
-      "index": 371
-    },
-    "Rival #10": {
-      "level": 90,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Body Slam",
-        "Thunderbolt"
-      ],
-      "index": 372
-    },
-    "Rival #2": {
-      "level": 115,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave",
-        "Sand-Attack",
-        "Body Slam",
-        "Thunderbolt"
-      ],
-      "index": 374
-    },
-    "Rival #3": {
-      "level": 115,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave",
-        "Sand-Attack",
-        "Body Slam",
-        "Thunderbolt"
-      ],
-      "index": 375
+      "index": 93
     },
     "Officer Jenny": {
       "level": 90,
@@ -8272,7 +9259,126 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Body Slam"
       ],
-      "index": 405
+      "index": 353
+    },
+    "Rival - SS Anne": {
+      "level": 30,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Sand Attack",
+        "Body Slam",
+        "Thunderbolt"
+      ],
+      "index": 76
+    },
+    "Rival - Route 22 #1": {
+      "level": 90,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Sand Attack",
+        "Body Slam",
+        "Thunderbolt"
+      ],
+      "index": 346
+    },
+    "Rival - Route 22 #2": {
+      "level": 90,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Sand Attack",
+        "Body Slam",
+        "Thunderbolt"
+      ],
+      "index": 347
+    },
+    "Rival - Route 22 #3": {
+      "level": 90,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Sand Attack",
+        "Thunder Wave",
+        "Thunderbolt",
+        "Body Slam"
+      ],
+      "index": 348
+    },
+    "Rival - Champion #1": {
+      "level": 115,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Sand Attack",
+        "Body Slam",
+        "Thunderbolt"
+      ],
+      "index": 373
+    },
+    "Rival - Champion #2": {
+      "level": 115,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Sand Attack",
+        "Body Slam",
+        "Thunderbolt"
+      ],
+      "index": 374
+    },
+    "Rival - Champion #3": {
+      "level": 115,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Sand Attack",
+        "Body Slam",
+        "Thunderbolt"
+      ],
+      "index": 375
     }
   },
   "Flareon": {
@@ -8286,9 +9392,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Sand Attack",
         "Fire Blast"
       ],
-      "index": 64
+      "index": 133
     },
     "Jr. Trainer M #10": {
       "level": 24,
@@ -8299,8 +9407,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 68
+      "moves": [
+        "Body Slam",
+        "Sand Attack",
+        "Fire Blast"
+      ],
+      "index": 58
     },
     "Jr. Trainer F #12": {
       "level": 53,
@@ -8312,9 +9424,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Sand Attack",
         "Fire Blast"
       ],
-      "index": 80
+      "index": 186
     },
     "Jr. Trainer F #16": {
       "level": 64,
@@ -8326,9 +9440,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Sand Attack",
         "Fire Blast"
       ],
-      "index": 84
+      "index": 302
     },
     "Jr. Trainer F #19": {
       "level": 42,
@@ -8340,9 +9456,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Sand Attack",
         "Fire Blast"
       ],
-      "index": 87
+      "index": 111
     },
     "Biker #8": {
       "level": 58,
@@ -8354,9 +9472,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Sand Attack",
         "Fire Blast"
       ],
-      "index": 136
+      "index": 219
     },
     "Biker #13": {
       "level": 55,
@@ -8368,9 +9488,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Sand Attack",
         "Fire Blast"
       ],
-      "index": 141
+      "index": 197
     },
     "Burglar #4": {
       "level": 77,
@@ -8382,10 +9504,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Sand Attack",
         "Fire Blast",
         "Solar Beam"
       ],
-      "index": 147
+      "index": 323
     },
     "Burglar #8": {
       "level": 75,
@@ -8397,10 +9521,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Sand Attack",
         "Fire Blast",
         "Solar Beam"
       ],
-      "index": 151
+      "index": 314
     },
     "Blackbelt #9": {
       "level": 90,
@@ -8412,10 +9538,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Sand Attack",
         "Fire Blast",
         "Solar Beam"
       ],
-      "index": 258
+      "index": 358
     },
     "Rocket #24": {
       "level": 64,
@@ -8427,9 +9555,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Sand Attack",
         "Fire Blast"
       ],
-      "index": 305
+      "index": 252
     },
     "Blaine": {
       "level": 84,
@@ -8442,13 +9572,13 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Fire Blast",
-        "Sand-Attack",
+        "Sand Attack",
         "Solar Beam",
         "Body Slam"
       ],
-      "index": 355
+      "index": 326
     },
-    "Rival #1": {
+    "Rival - SS Anne": {
       "level": 30,
       "dvs": {
         "hp": 8,
@@ -8458,9 +9588,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Fire Blast"
+        "Fire Blast",
+        "Sand Attack",
+        "Hyper Beam",
+        "Body Slam"
       ],
-      "index": 363
+      "index": 76
     }
   },
   "Vaporeon": {
@@ -8474,11 +9607,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Body Slam",
         "Blizzard",
-        "Waterfall",
         "Hydro Pump"
       ],
-      "index": 64
+      "index": 133
     },
     "Jr. Trainer F #14": {
       "level": 54,
@@ -8490,11 +9624,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Body Slam",
         "Blizzard",
-        "Waterfall",
         "Hydro Pump"
       ],
-      "index": 82
+      "index": 188
     },
     "Jr. Trainer F #16": {
       "level": 64,
@@ -8506,11 +9641,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Body Slam",
         "Blizzard",
-        "Waterfall",
         "Hydro Pump"
       ],
-      "index": 84
+      "index": 302
     },
     "Jr. Trainer F #19": {
       "level": 42,
@@ -8522,10 +9658,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Blizzard",
-        "Waterfall"
+        "Waterfall",
+        "Sand Attack",
+        "Body Slam",
+        "Blizzard"
       ],
-      "index": 87
+      "index": 111
     },
     "Burglar #4": {
       "level": 77,
@@ -8537,11 +9675,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Body Slam",
         "Blizzard",
-        "Waterfall",
         "Hydro Pump"
       ],
-      "index": 147
+      "index": 323
     },
     "Swimmer #8": {
       "level": 62,
@@ -8553,11 +9692,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Body Slam",
         "Blizzard",
-        "Waterfall",
         "Hydro Pump"
       ],
-      "index": 174
+      "index": 298
     },
     "Swimmer #12": {
       "level": 70,
@@ -8569,11 +9709,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Body Slam",
         "Blizzard",
-        "Waterfall",
         "Hydro Pump"
       ],
-      "index": 178
+      "index": 331
     },
     "Blackbelt #9": {
       "level": 90,
@@ -8585,11 +9726,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Body Slam",
         "Blizzard",
-        "Waterfall",
         "Hydro Pump"
       ],
-      "index": 258
+      "index": 358
     },
     "Rocket #23": {
       "level": 68,
@@ -8601,11 +9743,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Body Slam",
         "Blizzard",
-        "Waterfall",
         "Hydro Pump"
       ],
-      "index": 304
+      "index": 251
     },
     "Rocket #24": {
       "level": 64,
@@ -8617,11 +9760,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Body Slam",
         "Blizzard",
-        "Waterfall",
         "Hydro Pump"
       ],
-      "index": 305
+      "index": 252
     },
     "Cooltrainer F #2": {
       "level": 90,
@@ -8633,11 +9777,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
+        "Body Slam",
         "Blizzard",
-        "Waterfall",
         "Hydro Pump"
       ],
-      "index": 342
+      "index": 363
     },
     "Misty": {
       "level": 25,
@@ -8650,13 +9795,13 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Ice Beam",
-        "Sand-Attack",
+        "Sand Attack",
         "Body Slam",
         "Waterfall"
       ],
-      "index": 351
+      "index": 54
     },
-    "Rival #1": {
+    "Rival - SS Anne": {
       "level": 31,
       "dvs": {
         "hp": 8,
@@ -8666,10 +9811,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sand Attack",
         "Blizzard",
-        "Waterfall"
+        "Body Slam",
+        "Surf"
       ],
-      "index": 363
+      "index": 76
     }
   },
   "Doduo": {
@@ -8684,10 +9831,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Take Down",
+        "Double Kick",
         "Drill Peck",
         "Tri Attack"
       ],
-      "index": 66
+      "index": 96
     },
     "Bird Keeper #8": {
       "level": 57,
@@ -8699,12 +9847,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Take Down",
+        "Double Kick",
         "Drill Peck",
         "Tri Attack",
         "Agility"
       ],
-      "index": 240
+      "index": 216
     }
   },
   "Dugtrio": {
@@ -8718,10 +9866,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Sand Attack",
+        "Body Slam",
+        "Fissure",
         "Slash"
       ],
-      "index": 66
+      "index": 96
     },
     "Pokemaniac #7": {
       "level": 39,
@@ -8733,11 +9883,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 100
+      "index": 112
     },
     "Hiker #8": {
       "level": 43,
@@ -8749,11 +9900,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 120
+      "index": 108
     },
     "Hiker #9": {
       "level": 41,
@@ -8765,7 +9917,8 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
@@ -8781,9 +9934,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig"
+        "Dig",
+        "Sand Attack",
+        "Body Slam",
+        "Fissure"
       ],
-      "index": 193
+      "index": 69
     },
     "Gambler #5": {
       "level": 44,
@@ -8795,11 +9951,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 195
+      "index": 131
     },
     "Gambler #7": {
       "level": 43,
@@ -8811,11 +9968,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 197
+      "index": 132
     },
     "Beauty #9": {
       "level": 55,
@@ -8827,11 +9985,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 206
+      "index": 212
     },
     "Beauty #15": {
       "level": 64,
@@ -8843,11 +10002,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 212
+      "index": 310
     },
     "Tamer #3": {
       "level": 83,
@@ -8859,11 +10019,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 229
+      "index": 336
     },
     "Tamer #5": {
       "level": 90,
@@ -8875,11 +10036,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 231
+      "index": 357
     },
     "Bird Keeper #6": {
       "level": 56,
@@ -8891,11 +10053,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 238
+      "index": 214
     },
     "Giovanni": {
       "level": 55,
@@ -8912,7 +10075,7 @@ var SETDEX_RBY = {
         "Fissure",
         "Body Slam"
       ],
-      "index": 279
+      "index": 156
     },
     "Giovanni #3": {
       "level": 90,
@@ -8929,7 +10092,7 @@ var SETDEX_RBY = {
         "Slash",
         "Body Slam"
       ],
-      "index": 281
+      "index": 345
     },
     "Rocket #5": {
       "level": 24,
@@ -8941,9 +10104,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig"
+        "Dig",
+        "Sand Attack",
+        "Body Slam",
+        "Fissure"
       ],
-      "index": 286
+      "index": 35
     },
     "Rocket #8": {
       "level": 45,
@@ -8955,11 +10121,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 289
+      "index": 144
     },
     "Rocket #10": {
       "level": 46,
@@ -8971,11 +10138,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 291
+      "index": 146
     },
     "Rocket #38": {
       "level": 65,
@@ -8987,11 +10155,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 319
+      "index": 278
     },
     "Cooltrainer M #10": {
       "level": 84,
@@ -9003,11 +10172,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 340
+      "index": 343
     },
     "Cooltrainer F #5": {
       "level": 90,
@@ -9019,11 +10189,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dig",
+        "Body Slam",
+        "Fissure",
         "Slash",
         "Earthquake"
       ],
-      "index": 345
+      "index": 351
     }
   },
   "Seadra": {
@@ -9040,7 +10211,7 @@ var SETDEX_RBY = {
         "Dragon Rage",
         "Toxic"
       ],
-      "index": 69
+      "index": 53
     },
     "Jr. Trainer F #12": {
       "level": 53,
@@ -9057,7 +10228,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Smokescreen"
       ],
-      "index": 80
+      "index": 186
     },
     "Hiker #6": {
       "level": 38,
@@ -9073,7 +10244,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Hydro Pump"
       ],
-      "index": 118
+      "index": 100
     },
     "Swimmer #3": {
       "level": 60,
@@ -9090,7 +10261,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Smokescreen"
       ],
-      "index": 169
+      "index": 293
     },
     "Swimmer #5": {
       "level": 62,
@@ -9107,7 +10278,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Smokescreen"
       ],
-      "index": 171
+      "index": 295
     },
     "Swimmer #11": {
       "level": 63,
@@ -9124,7 +10295,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Smokescreen"
       ],
-      "index": 177
+      "index": 306
     },
     "Swimmer #12": {
       "level": 70,
@@ -9141,7 +10312,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Smokescreen"
       ],
-      "index": 178
+      "index": 331
     },
     "Bird Keeper #6": {
       "level": 56,
@@ -9158,7 +10329,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Smokescreen"
       ],
-      "index": 238
+      "index": 214
     }
   },
   "Jynx": {
@@ -9172,9 +10343,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Lovely Kiss"
+        "Psychic",
+        "Lovely Kiss",
+        "Blizzard"
       ],
-      "index": 72
+      "index": 134
     },
     "Jr. Trainer F #20": {
       "level": 54,
@@ -9186,9 +10359,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Lovely Kiss"
+        "Psychic",
+        "Lovely Kiss",
+        "Blizzard"
       ],
-      "index": 88
+      "index": 206
     },
     "Beauty #13": {
       "level": 63,
@@ -9200,9 +10375,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Lovely Kiss"
+        "Psychic",
+        "Lovely Kiss",
+        "Blizzard"
       ],
-      "index": 210
+      "index": 300
     },
     "Psychic #3": {
       "level": 69,
@@ -9214,9 +10391,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Lovely Kiss"
+        "Psychic",
+        "Lovely Kiss",
+        "Blizzard"
       ],
-      "index": 215
+      "index": 286
     },
     "Juggler #5": {
       "level": 94,
@@ -9228,9 +10407,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Lovely Kiss"
+        "Psychic",
+        "Lovely Kiss",
+        "Blizzard"
       ],
-      "index": 223
+      "index": 360
     },
     "Rocket #11": {
       "level": 46,
@@ -9242,9 +10423,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Lovely Kiss"
+        "Psychic",
+        "Lovely Kiss",
+        "Blizzard"
       ],
-      "index": 292
+      "index": 147
     },
     "Rocket #36": {
       "level": 66,
@@ -9256,9 +10439,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Lovely Kiss"
+        "Psychic",
+        "Lovely Kiss",
+        "Blizzard"
       ],
-      "index": 317
+      "index": 275
     },
     "Cooltrainer F #2": {
       "level": 90,
@@ -9270,9 +10455,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Lovely Kiss"
+        "Psychic",
+        "Lovely Kiss",
+        "Blizzard"
       ],
-      "index": 342
+      "index": 363
     },
     "Cooltrainer F #3": {
       "level": 90,
@@ -9284,9 +10471,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Lovely Kiss"
+        "Psychic",
+        "Lovely Kiss",
+        "Blizzard"
       ],
-      "index": 343
+      "index": 364
     },
     "Sabrina": {
       "level": 75,
@@ -9302,7 +10491,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Blizzard"
       ],
-      "index": 356
+      "index": 291
     },
     "Lorelei": {
       "level": 115,
@@ -9318,7 +10507,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Blizzard"
       ],
-      "index": 376
+      "index": 369
     },
     "Channeler #14": {
       "level": 47,
@@ -9330,9 +10519,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Lovely Kiss"
+        "Psychic",
+        "Lovely Kiss",
+        "Blizzard"
       ],
-      "index": 390
+      "index": 166
     },
     "Agatha": {
       "level": 115,
@@ -9348,7 +10539,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Blizzard"
       ],
-      "index": 401
+      "index": 371
     },
     "Nurse Joy": {
       "level": 92,
@@ -9365,7 +10556,7 @@ var SETDEX_RBY = {
         "Petal Dance",
         "Blizzard"
       ],
-      "index": 404
+      "index": 352
     }
   },
   "Gloom": {
@@ -9383,7 +10574,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Stun Spore"
       ],
-      "index": 73
+      "index": 97
     },
     "Jr. Trainer F #9": {
       "level": 42,
@@ -9399,7 +10590,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Stun Spore"
       ],
-      "index": 77
+      "index": 116
     },
     "Jr. Trainer F #11": {
       "level": 47,
@@ -9415,7 +10606,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Stun Spore"
       ],
-      "index": 79
+      "index": 137
     }
   },
   "Electabuzz": {
@@ -9429,9 +10620,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psychic"
+        "Psychic",
+        "Thunderbolt",
+        "Ice Punch",
+        "Thunder Wave"
       ],
-      "index": 76
+      "index": 104
     },
     "Super Nerd #4": {
       "level": 44,
@@ -9443,9 +10637,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psychic"
+        "Psychic",
+        "Thunderbolt",
+        "Ice Punch",
+        "Thunder Wave"
       ],
-      "index": 104
+      "index": 129
     },
     "Hiker #16": {
       "level": 41,
@@ -9457,9 +10654,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psychic"
+        "Psychic",
+        "Thunderbolt",
+        "Ice Punch",
+        "Thunder Wave"
       ],
-      "index": 128
+      "index": 123
     },
     "Biker #9": {
       "level": 58,
@@ -9471,9 +10671,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psychic"
+        "Psychic",
+        "Thunderbolt",
+        "Ice Punch",
+        "Thunder Wave"
       ],
-      "index": 137
+      "index": 220
     },
     "Biker #13": {
       "level": 55,
@@ -9485,9 +10688,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psychic"
+        "Psychic",
+        "Thunderbolt",
+        "Ice Punch",
+        "Thunder Wave"
       ],
-      "index": 141
+      "index": 197
     },
     "Rocker #2": {
       "level": 50,
@@ -9499,9 +10705,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psychic"
+        "Psychic",
+        "Thunderbolt",
+        "Ice Punch",
+        "Thunder Wave"
       ],
-      "index": 218
+      "index": 184
     },
     "Rocket #11": {
       "level": 46,
@@ -9513,9 +10722,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psychic"
+        "Psychic",
+        "Thunderbolt",
+        "Ice Punch",
+        "Thunder Wave"
       ],
-      "index": 292
+      "index": 147
     },
     "Rocket #28": {
       "level": 66,
@@ -9527,9 +10739,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psychic"
+        "Psychic",
+        "Thunderbolt",
+        "Ice Punch",
+        "Thunder Wave"
       ],
-      "index": 309
+      "index": 261
     },
     "Cooltrainer F #3": {
       "level": 90,
@@ -9541,9 +10756,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psychic"
+        "Psychic",
+        "Thunderbolt",
+        "Ice Punch",
+        "Thunder Wave"
       ],
-      "index": 343
+      "index": 364
     },
     "Bruno": {
       "level": 68,
@@ -9560,7 +10778,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Ice Punch"
       ],
-      "index": 349
+      "index": 248
     },
     "Lt. Surge": {
       "level": 39,
@@ -9577,7 +10795,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Psychic"
       ],
-      "index": 352
+      "index": 93
     }
   },
   "Magmar": {
@@ -9591,9 +10809,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray"
+        "Confuse Ray",
+        "Thunderbolt",
+        "Body Slam",
+        "Fire Blast"
       ],
-      "index": 76
+      "index": 104
     },
     "Super Nerd #12": {
       "level": 80,
@@ -9605,10 +10826,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray",
+        "Thunderbolt",
+        "Body Slam",
+        "Fire Blast",
         "Solar Beam"
       ],
-      "index": 112
+      "index": 322
     },
     "Biker #11": {
       "level": 58,
@@ -9620,9 +10843,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray"
+        "Confuse Ray",
+        "Thunderbolt",
+        "Body Slam",
+        "Fire Blast"
       ],
-      "index": 139
+      "index": 222
     },
     "Biker #14": {
       "level": 55,
@@ -9634,9 +10860,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray"
+        "Confuse Ray",
+        "Thunderbolt",
+        "Body Slam",
+        "Fire Blast"
       ],
-      "index": 142
+      "index": 198
     },
     "Engineer #1": {
       "level": 48,
@@ -9648,9 +10877,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray"
+        "Confuse Ray",
+        "Thunderbolt",
+        "Body Slam",
+        "Fire Blast"
       ],
-      "index": 153
+      "index": 178
     },
     "Juggler #5": {
       "level": 94,
@@ -9662,10 +10894,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray",
+        "Thunderbolt",
+        "Body Slam",
+        "Fire Blast",
         "Solar Beam"
       ],
-      "index": 223
+      "index": 360
     },
     "Bird Keeper #7": {
       "level": 56,
@@ -9677,9 +10911,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray"
+        "Confuse Ray",
+        "Thunderbolt",
+        "Body Slam",
+        "Fire Blast"
       ],
-      "index": 239
+      "index": 215
     },
     "Bird Keeper #17": {
       "level": 55,
@@ -9691,9 +10928,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray"
+        "Confuse Ray",
+        "Thunderbolt",
+        "Body Slam",
+        "Fire Blast"
       ],
-      "index": 249
+      "index": 205
     },
     "Rocket #11": {
       "level": 46,
@@ -9705,9 +10945,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray"
+        "Confuse Ray",
+        "Thunderbolt",
+        "Body Slam",
+        "Fire Blast"
       ],
-      "index": 292
+      "index": 147
     },
     "Cooltrainer F #3": {
       "level": 90,
@@ -9719,10 +10962,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray",
+        "Thunderbolt",
+        "Body Slam",
+        "Fire Blast",
         "Solar Beam"
       ],
-      "index": 343
+      "index": 364
     },
     "Blaine": {
       "level": 84,
@@ -9739,7 +10984,7 @@ var SETDEX_RBY = {
         "Solar Beam",
         "Body Slam"
       ],
-      "index": 355
+      "index": 326
     },
     "Channeler #9": {
       "level": 47,
@@ -9751,9 +10996,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray"
+        "Confuse Ray",
+        "Thunderbolt",
+        "Body Slam",
+        "Fire Blast"
       ],
-      "index": 385
+      "index": 163
     },
     "Soldier": {
       "level": 93,
@@ -9765,10 +11013,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Confuse Ray",
+        "Thunderbolt",
+        "Body Slam",
+        "Fire Blast",
         "Solar Beam"
       ],
-      "index": 407
+      "index": 366
     }
   },
   "Weepinbell": {
@@ -9782,10 +11032,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf",
-        "Stun Spore"
+        "Sleep Powder",
+        "Stun Spore",
+        "Body Slam",
+        "Razor Leaf"
       ],
-      "index": 77
+      "index": 116
     },
     "Beauty #1": {
       "level": 45,
@@ -9797,10 +11049,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf",
-        "Stun Spore"
+        "Sleep Powder",
+        "Stun Spore",
+        "Body Slam",
+        "Razor Leaf"
       ],
-      "index": 198
+      "index": 138
     },
     "Beauty #11": {
       "level": 33,
@@ -9812,10 +11066,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf",
-        "Stun Spore"
+        "Sleep Powder",
+        "Stun Spore",
+        "Body Slam",
+        "Razor Leaf"
       ],
-      "index": 208
+      "index": 386
     },
     "Beauty #11 (2)": {
       "level": 33,
@@ -9827,10 +11083,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf",
-        "Stun Spore"
+        "Sleep Powder",
+        "Stun Spore",
+        "Body Slam",
+        "Razor Leaf"
       ],
-      "index": 208
+      "index": 386
     },
     "Rocket #42": {
       "level": 20,
@@ -9847,7 +11105,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 323
+      "index": 31
     },
     "Cooltrainer F #1": {
       "level": 50,
@@ -9859,11 +11117,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf",
+        "Sleep Powder",
         "Stun Spore",
-        "Sleep Powder"
+        "Body Slam",
+        "Razor Leaf"
       ],
-      "index": 341
+      "index": 141
     }
   },
   "Kabutops": {
@@ -9877,9 +11136,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Hydro Pump",
+        "Blizzard",
+        "Slash",
+        "Dig"
       ],
-      "index": 79
+      "index": 137
     },
     "Swimmer #5": {
       "level": 62,
@@ -9891,10 +11153,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hydro Pump",
+        "Blizzard",
         "Slash",
-        "Hydro Pump"
+        "Dig"
       ],
-      "index": 171
+      "index": 295
     },
     "Scientist #3": {
       "level": 64,
@@ -9906,10 +11170,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hydro Pump",
+        "Blizzard",
         "Slash",
-        "Hydro Pump"
+        "Dig"
       ],
-      "index": 268
+      "index": 250
     },
     "Rocket #34": {
       "level": 66,
@@ -9921,10 +11187,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hydro Pump",
+        "Blizzard",
         "Slash",
-        "Hydro Pump"
+        "Dig"
       ],
-      "index": 315
+      "index": 269
     },
     "AJ": {
       "level": 93,
@@ -9936,10 +11204,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hydro Pump",
+        "Blizzard",
         "Slash",
-        "Hydro Pump"
+        "Dig"
       ],
-      "index": 409
+      "index": 368
     }
   },
   "Vileplume": {
@@ -9953,11 +11223,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Petal Dance",
         "Stun Spore",
-        "Sleep Powder",
-        "Petal Dance"
+        "Sleep Powder"
       ],
-      "index": 80
+      "index": 186
     },
     "Jr. Trainer F #24": {
       "level": 67,
@@ -9969,11 +11239,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Petal Dance",
         "Stun Spore",
-        "Sleep Powder",
-        "Petal Dance"
+        "Sleep Powder"
       ],
-      "index": 92
+      "index": 303
     },
     "Beauty #1": {
       "level": 45,
@@ -9985,11 +11255,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Petal Dance",
         "Stun Spore",
-        "Sleep Powder",
-        "Petal Dance"
+        "Sleep Powder"
       ],
-      "index": 198
+      "index": 138
     },
     "Beauty #9": {
       "level": 55,
@@ -10001,11 +11271,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Petal Dance",
         "Stun Spore",
-        "Sleep Powder",
-        "Petal Dance"
+        "Sleep Powder"
       ],
-      "index": 206
+      "index": 212
     },
     "Beauty #13": {
       "level": 63,
@@ -10017,11 +11287,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Petal Dance",
         "Stun Spore",
-        "Sleep Powder",
-        "Petal Dance"
+        "Sleep Powder"
       ],
-      "index": 210
+      "index": 300
     },
     "Cooltrainer F #4": {
       "level": 46,
@@ -10033,11 +11303,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Petal Dance",
         "Stun Spore",
-        "Sleep Powder",
-        "Petal Dance"
+        "Sleep Powder"
       ],
-      "index": 344
+      "index": 398
     },
     "Erika": {
       "level": 54,
@@ -10053,7 +11323,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Petal Dance"
       ],
-      "index": 353
+      "index": 142
     }
   },
   "Victreebel": {
@@ -10067,9 +11337,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf"
+        "Razor Leaf",
+        "Stun Spore",
+        "Body Slam",
+        "Lovely Kiss"
       ],
-      "index": 81
+      "index": 187
     },
     "Biker #3": {
       "level": 56,
@@ -10081,9 +11354,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf"
+        "Razor Leaf",
+        "Stun Spore",
+        "Body Slam",
+        "Lovely Kiss"
       ],
-      "index": 131
+      "index": 210
     },
     "Beauty #12": {
       "level": 62,
@@ -10095,9 +11371,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf"
+        "Razor Leaf",
+        "Stun Spore",
+        "Body Slam",
+        "Lovely Kiss"
       ],
-      "index": 209
+      "index": 299
     },
     "Juggler #5": {
       "level": 94,
@@ -10109,9 +11388,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf"
+        "Razor Leaf",
+        "Stun Spore",
+        "Body Slam",
+        "Lovely Kiss"
       ],
-      "index": 223
+      "index": 360
     },
     "Tamer #1": {
       "level": 62,
@@ -10123,9 +11405,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf"
+        "Razor Leaf",
+        "Stun Spore",
+        "Body Slam",
+        "Lovely Kiss"
       ],
-      "index": 227
+      "index": 239
     },
     "Rocket #44": {
       "level": 60,
@@ -10142,7 +11427,7 @@ var SETDEX_RBY = {
         "Slam",
         "Razor Leaf"
       ],
-      "index": 325
+      "index": 176
     },
     "Rocket #45": {
       "level": 72,
@@ -10159,7 +11444,7 @@ var SETDEX_RBY = {
         "Slam",
         "Razor Leaf"
       ],
-      "index": 326
+      "index": 282
     },
     "Rocket #46": {
       "level": 82,
@@ -10176,7 +11461,7 @@ var SETDEX_RBY = {
         "Slam",
         "Razor Leaf"
       ],
-      "index": 327
+      "index": 318
     },
     "Rocket #47": {
       "level": 90,
@@ -10193,7 +11478,7 @@ var SETDEX_RBY = {
         "Slam",
         "Razor Leaf"
       ],
-      "index": 328
+      "index": 344
     },
     "Erika": {
       "level": 54,
@@ -10210,7 +11495,7 @@ var SETDEX_RBY = {
         "Razor Leaf",
         "Body Slam"
       ],
-      "index": 353
+      "index": 142
     }
   },
   "Pidgeot": {
@@ -10224,11 +11509,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
         "Razor Wind",
-        "Quick Attack"
+        "Sand Attack",
+        "Quick Attack",
+        "Hyper Beam"
       ],
-      "index": 81
+      "index": 187
     },
     "Bird Keeper #1": {
       "level": 53,
@@ -10240,11 +11526,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
         "Razor Wind",
-        "Quick Attack"
+        "Sand Attack",
+        "Quick Attack",
+        "Hyper Beam"
       ],
-      "index": 233
+      "index": 193
     },
     "Bird Keeper #3": {
       "level": 54,
@@ -10256,11 +11543,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
         "Razor Wind",
-        "Quick Attack"
+        "Sand Attack",
+        "Quick Attack",
+        "Hyper Beam"
       ],
-      "index": 235
+      "index": 195
     },
     "Bird Keeper #5": {
       "level": 56,
@@ -10272,11 +11560,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
         "Razor Wind",
-        "Quick Attack"
+        "Sand Attack",
+        "Quick Attack",
+        "Hyper Beam"
       ],
-      "index": 237
+      "index": 201
     },
     "Bird Keeper #6": {
       "level": 56,
@@ -10288,11 +11577,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
         "Razor Wind",
-        "Quick Attack"
+        "Sand Attack",
+        "Quick Attack",
+        "Hyper Beam"
       ],
-      "index": 238
+      "index": 214
     },
     "Bird Keeper #10": {
       "level": 57,
@@ -10304,11 +11594,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
         "Razor Wind",
-        "Quick Attack"
+        "Sand Attack",
+        "Quick Attack",
+        "Hyper Beam"
       ],
-      "index": 242
+      "index": 218
     },
     "Bird Keeper #11": {
       "level": 65,
@@ -10320,11 +11611,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
         "Razor Wind",
-        "Quick Attack"
+        "Sand Attack",
+        "Quick Attack",
+        "Hyper Beam"
       ],
-      "index": 243
+      "index": 311
     },
     "Bird Keeper #15": {
       "level": 55,
@@ -10336,11 +11628,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
         "Razor Wind",
-        "Quick Attack"
+        "Sand Attack",
+        "Quick Attack",
+        "Hyper Beam"
       ],
-      "index": 247
+      "index": 203
     },
     "Bird Keeper #17": {
       "level": 55,
@@ -10352,62 +11645,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
         "Razor Wind",
-        "Quick Attack"
-      ],
-      "index": 249
-    },
-    "Rival #2": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Hyper Beam",
+        "Sand Attack",
         "Quick Attack",
-        "Sand-Attack",
-        "Razor Wind"
+        "Hyper Beam"
       ],
-      "index": 364
-    },
-    "Rival #3": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Hyper Beam",
-        "Quick Attack",
-        "Sand-Attack",
-        "Razor Wind"
-      ],
-      "index": 365
-    },
-    "Rival #4": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Hyper Beam",
-        "Quick Attack",
-        "Sand-Attack",
-        "Razor Wind"
-      ],
-      "index": 366
+      "index": 205
     },
     "Officer Jenny": {
       "level": 90,
@@ -10421,10 +11664,61 @@ var SETDEX_RBY = {
       "moves": [
         "Sky Attack",
         "Hyper Beam",
-        "Sand-Attack",
+        "Sand Attack",
         "Quick Attack"
       ],
-      "index": 405
+      "index": 353
+    },
+    "Rival - Pokemon Tower #1": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Hyper Beam",
+        "Quick Attack",
+        "Sand Attack",
+        "Razor Wind"
+      ],
+      "index": 157
+    },
+    "Rival - Pokemon Tower #2": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Hyper Beam",
+        "Quick Attack",
+        "Sand Attack",
+        "Razor Wind"
+      ],
+      "index": 158
+    },
+    "Rival - Pokemon Tower #3": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Hyper Beam",
+        "Quick Attack",
+        "Sand Attack",
+        "Razor Wind"
+      ],
+      "index": 159
     }
   },
   "Rapidash": {
@@ -10437,8 +11731,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 82
+      "moves": [
+        "Horn Drill"
+      ],
+      "index": 188
     },
     "Super Nerd #11": {
       "level": 80,
@@ -10450,9 +11746,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Horn Drill",
         "Hypnosis"
       ],
-      "index": 111
+      "index": 321
     },
     "Biker #2": {
       "level": 55,
@@ -10463,8 +11760,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 130
+      "moves": [
+        "Horn Drill"
+      ],
+      "index": 196
     },
     "Gambler #2": {
       "level": 25,
@@ -10475,8 +11774,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 192
+      "moves": [
+        "Horn Drill"
+      ],
+      "index": 68
     },
     "Gambler #5": {
       "level": 44,
@@ -10487,8 +11788,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 195
+      "moves": [
+        "Horn Drill"
+      ],
+      "index": 131
     },
     "Gambler #6": {
       "level": 95,
@@ -10504,7 +11807,7 @@ var SETDEX_RBY = {
         "Horn Drill",
         "Fire Spin"
       ],
-      "index": 196
+      "index": 355
     },
     "Beauty #7": {
       "level": 67,
@@ -10515,8 +11818,10 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 204
+      "moves": [
+        "Horn Drill"
+      ],
+      "index": 308
     },
     "Juggler #5": {
       "level": 94,
@@ -10528,9 +11833,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Horn Drill",
         "Hypnosis"
       ],
-      "index": 223
+      "index": 360
     },
     "Tamer #5": {
       "level": 90,
@@ -10542,9 +11848,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Horn Drill",
         "Hypnosis"
       ],
-      "index": 231
+      "index": 357
     },
     "Blaine": {
       "level": 84,
@@ -10559,7 +11866,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Horn Drill"
       ],
-      "index": 355
+      "index": 326
     }
   },
   "Seaking": {
@@ -10573,11 +11880,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Horn Drill",
         "Bubble Beam",
-        "Waterfall",
-        "Horn Drill"
+        "Waterfall"
       ],
-      "index": 83
+      "index": 189
     },
     "Jr. Trainer F #21": {
       "level": 56,
@@ -10589,12 +11896,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Horn Drill",
         "Bubble Beam",
         "Waterfall",
-        "Horn Drill",
         "Agility"
       ],
-      "index": 89
+      "index": 207
     },
     "Swimmer #1": {
       "level": 24,
@@ -10606,9 +11913,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Horn Drill",
         "Bubble Beam"
       ],
-      "index": 167
+      "index": 52
     },
     "Swimmer #3": {
       "level": 60,
@@ -10620,12 +11928,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Horn Drill",
         "Bubble Beam",
         "Waterfall",
-        "Horn Drill",
         "Agility"
       ],
-      "index": 169
+      "index": 293
     },
     "Swimmer #5": {
       "level": 62,
@@ -10637,12 +11945,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Horn Drill",
         "Bubble Beam",
         "Waterfall",
-        "Horn Drill",
         "Agility"
       ],
-      "index": 171
+      "index": 295
     },
     "Gambler #4": {
       "level": 25,
@@ -10654,9 +11962,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Horn Drill",
         "Bubble Beam"
       ],
-      "index": 194
+      "index": 70
     },
     "Beauty #13": {
       "level": 63,
@@ -10668,12 +11977,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Horn Drill",
         "Bubble Beam",
         "Waterfall",
-        "Horn Drill",
         "Agility"
       ],
-      "index": 210
+      "index": 300
     }
   },
   "Marowak": {
@@ -10687,9 +11996,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bonemerang"
+        "Bonemerang",
+        "Rock Slide",
+        "Earthquake",
+        "Body Slam"
       ],
-      "index": 83
+      "index": 189
     },
     "Pokemaniac #3": {
       "level": 41,
@@ -10701,9 +12013,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bonemerang"
+        "Bonemerang",
+        "Rock Slide",
+        "Earthquake",
+        "Body Slam"
       ],
-      "index": 96
+      "index": 118
     },
     "Biker #13": {
       "level": 55,
@@ -10715,9 +12030,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bonemerang"
+        "Bonemerang",
+        "Rock Slide",
+        "Earthquake",
+        "Body Slam"
       ],
-      "index": 141
+      "index": 197
     },
     "Juggler #2": {
       "level": 90,
@@ -10729,9 +12047,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bonemerang"
+        "Bonemerang",
+        "Rock Slide",
+        "Earthquake",
+        "Body Slam"
       ],
-      "index": 220
+      "index": 356
     },
     "Bird Keeper #10": {
       "level": 57,
@@ -10743,9 +12064,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bonemerang"
+        "Bonemerang",
+        "Rock Slide",
+        "Earthquake",
+        "Body Slam"
       ],
-      "index": 242
+      "index": 218
     },
     "Rocket #20": {
       "level": 51,
@@ -10757,9 +12081,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bonemerang"
+        "Bonemerang",
+        "Rock Slide",
+        "Earthquake",
+        "Body Slam"
       ],
-      "index": 301
+      "index": 174
     },
     "Channeler #17": {
       "level": 49,
@@ -10771,9 +12098,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bonemerang"
+        "Bonemerang",
+        "Rock Slide",
+        "Earthquake",
+        "Body Slam"
       ],
-      "index": 393
+      "index": 168
     },
     "Agatha": {
       "level": 115,
@@ -10790,7 +12120,7 @@ var SETDEX_RBY = {
         "Dig",
         "Rock Slide"
       ],
-      "index": 401
+      "index": 371
     }
   },
   "Golem": {
@@ -10804,9 +12134,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 88
+      "index": 206
     },
     "Super Nerd #3": {
       "level": 43,
@@ -10818,9 +12151,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 103
+      "index": 128
     },
     "Super Nerd #10": {
       "level": 77,
@@ -10832,9 +12168,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 110
+      "index": 320
     },
     "Hiker #15": {
       "level": 92,
@@ -10846,9 +12185,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 127
+      "index": 349
     },
     "Biker #6": {
       "level": 60,
@@ -10860,9 +12202,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 134
+      "index": 230
     },
     "Fisherman #6": {
       "level": 42,
@@ -10874,9 +12219,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 161
+      "index": 182
     },
     "Cue Ball #8": {
       "level": 58,
@@ -10888,9 +12236,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 189
+      "index": 228
     },
     "Blackbelt #1": {
       "level": 67,
@@ -10907,7 +12258,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Body Slam"
       ],
-      "index": 250
+      "index": 243
     },
     "Blackbelt #6": {
       "level": 83,
@@ -10919,9 +12270,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 255
+      "index": 338
     },
     "Rocket #28": {
       "level": 66,
@@ -10933,9 +12287,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 309
+      "index": 261
     },
     "Rocket #33": {
       "level": 65,
@@ -10947,9 +12304,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 314
+      "index": 268
     },
     "Rocket #43": {
       "level": 55,
@@ -10966,7 +12326,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 324
+      "index": 155
     },
     "Cooltrainer M #5": {
       "level": 88,
@@ -10978,9 +12338,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 335
+      "index": 350
     },
     "Bruno": {
       "level": 68,
@@ -10997,58 +12360,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 349
-    },
-    "Rival #2": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Explosion",
-        "Earthquake",
-        "Rock Slide",
-        "Body Slam"
-      ],
-      "index": 364
-    },
-    "Rival #3": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Explosion",
-        "Earthquake",
-        "Rock Slide",
-        "Body Slam"
-      ],
-      "index": 365
-    },
-    "Rival #4": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Explosion",
-        "Earthquake",
-        "Rock Slide",
-        "Body Slam"
-      ],
-      "index": 366
+      "index": 248
     },
     "Channeler #16": {
       "level": 47,
@@ -11060,9 +12372,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 392
+      "index": 167
     },
     "Soldier": {
       "level": 93,
@@ -11074,9 +12389,63 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Rock Slide",
+        "Earthquake",
         "Explosion"
       ],
-      "index": 407
+      "index": 366
+    },
+    "Rival - Pokemon Tower #1": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Explosion",
+        "Earthquake",
+        "Rock Slide",
+        "Body Slam"
+      ],
+      "index": 157
+    },
+    "Rival - Pokemon Tower #2": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Explosion",
+        "Earthquake",
+        "Rock Slide",
+        "Body Slam"
+      ],
+      "index": 158
+    },
+    "Rival - Pokemon Tower #3": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Explosion",
+        "Earthquake",
+        "Rock Slide",
+        "Body Slam"
+      ],
+      "index": 159
     }
   },
   "Kingler": {
@@ -11090,9 +12459,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Crabhammer"
+        "Crabhammer",
+        "Body Slam",
+        "Guillotine"
       ],
-      "index": 89
+      "index": 207
     },
     "Biker #1": {
       "level": 55,
@@ -11104,9 +12475,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Crabhammer"
+        "Crabhammer",
+        "Body Slam",
+        "Guillotine"
       ],
-      "index": 129
+      "index": 190
     },
     "Biker #12": {
       "level": 58,
@@ -11118,9 +12491,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Crabhammer"
+        "Crabhammer",
+        "Body Slam",
+        "Guillotine"
       ],
-      "index": 140
+      "index": 223
     },
     "Swimmer #1": {
       "level": 24,
@@ -11132,9 +12507,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Crabhammer"
+        "Crabhammer",
+        "Body Slam",
+        "Guillotine"
       ],
-      "index": 167
+      "index": 52
     },
     "Swimmer #7": {
       "level": 62,
@@ -11146,9 +12523,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Crabhammer"
+        "Crabhammer",
+        "Body Slam",
+        "Guillotine"
       ],
-      "index": 173
+      "index": 297
     },
     "Swimmer #8": {
       "level": 62,
@@ -11160,9 +12539,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Crabhammer"
+        "Crabhammer",
+        "Body Slam",
+        "Guillotine"
       ],
-      "index": 174
+      "index": 298
     },
     "Gambler #1": {
       "level": 26,
@@ -11174,9 +12555,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Crabhammer"
+        "Crabhammer",
+        "Body Slam",
+        "Guillotine"
       ],
-      "index": 191
+      "index": 67
     },
     "Gambler #5": {
       "level": 44,
@@ -11188,9 +12571,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Crabhammer"
+        "Crabhammer",
+        "Body Slam",
+        "Guillotine"
       ],
-      "index": 195
+      "index": 131
     },
     "Tamer #5": {
       "level": 90,
@@ -11202,9 +12587,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Crabhammer"
+        "Crabhammer",
+        "Body Slam",
+        "Guillotine"
       ],
-      "index": 231
+      "index": 357
     },
     "Rocket #43": {
       "level": 55,
@@ -11219,9 +12606,9 @@ var SETDEX_RBY = {
         "Crabhammer",
         "Body Slam",
         "Guillotine",
-        "Vice Grip"
+        "Vise Grip"
       ],
-      "index": 324
+      "index": 155
     },
     "Rocket #47": {
       "level": 90,
@@ -11236,9 +12623,9 @@ var SETDEX_RBY = {
         "Guillotine",
         "Crabhammer",
         "Body Slam",
-        "Vice Grip"
+        "Vise Grip"
       ],
-      "index": 328
+      "index": 344
     },
     "Cooltrainer M #4": {
       "level": 90,
@@ -11250,9 +12637,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Crabhammer"
+        "Crabhammer",
+        "Body Slam",
+        "Guillotine"
       ],
-      "index": 334
+      "index": 394
     },
     "Cooltrainer M #8": {
       "level": 44,
@@ -11264,9 +12653,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Crabhammer"
+        "Crabhammer",
+        "Body Slam",
+        "Guillotine"
       ],
-      "index": 338
+      "index": 397
     }
   },
   "Gengar": {
@@ -11280,9 +12671,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 90
+      "index": 208
     },
     "Pokemaniac #6": {
       "level": 88,
@@ -11294,9 +12688,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 99
+      "index": 354
     },
     "Hiker #15": {
       "level": 92,
@@ -11308,9 +12705,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 127
+      "index": 349
     },
     "Psychic #4": {
       "level": 73,
@@ -11322,9 +12722,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 216
+      "index": 287
     },
     "SHF Cerulean Cave": {
       "level": 127,
@@ -11341,7 +12744,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Explosion"
       ],
-      "index": 264
+      "index": 376
     },
     "SHF Victory Road": {
       "level": 110,
@@ -11358,7 +12761,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Explosion"
       ],
-      "index": 265
+      "index": 359
     },
     "Scientist #13": {
       "level": 73,
@@ -11370,9 +12773,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 278
+      "index": 317
     },
     "Giovanni #2": {
       "level": 72,
@@ -11389,7 +12795,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Ice Punch"
       ],
-      "index": 280
+      "index": 283
     },
     "Giovanni #3": {
       "level": 90,
@@ -11406,7 +12812,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Explosion"
       ],
-      "index": 281
+      "index": 345
     },
     "Rocket #17": {
       "level": 50,
@@ -11418,9 +12824,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 298
+      "index": 153
     },
     "Rocket #20": {
       "level": 51,
@@ -11432,9 +12841,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 301
+      "index": 174
     },
     "Rocket #23": {
       "level": 68,
@@ -11446,9 +12858,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 304
+      "index": 251
     },
     "Rocket #33": {
       "level": 65,
@@ -11460,9 +12875,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 314
+      "index": 268
     },
     "Rocket #37": {
       "level": 65,
@@ -11474,9 +12892,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 318
+      "index": 277
     },
     "Rocket #38": {
       "level": 65,
@@ -11488,9 +12909,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 319
+      "index": 278
     },
     "Rocket #39": {
       "level": 68,
@@ -11502,9 +12926,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 320
+      "index": 280
     },
     "Rocket #40": {
       "level": 69,
@@ -11516,9 +12943,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 321
+      "index": 281
     },
     "Cooltrainer M #5": {
       "level": 88,
@@ -11530,9 +12960,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 335
+      "index": 350
     },
     "Cooltrainer F #5": {
       "level": 90,
@@ -11544,9 +12977,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 345
+      "index": 351
     },
     "Koga": {
       "level": 66,
@@ -11563,7 +12999,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Night Shade"
       ],
-      "index": 354
+      "index": 242
     },
     "Channeler #18": {
       "level": 48,
@@ -11575,9 +13011,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 394
+      "index": 169
     },
     "Channeler #22": {
       "level": 70,
@@ -11589,9 +13028,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Explosion",
+        "Night Shade"
       ],
-      "index": 398
+      "index": 288
     },
     "Agatha": {
       "level": 115,
@@ -11605,9 +13047,10 @@ var SETDEX_RBY = {
       "moves": [
         "Night Shade",
         "Ice Punch",
-        "Thunderbolt"
+        "Thunderbolt",
+        "Seismic Toss"
       ],
-      "index": 401
+      "index": 371
     },
     "Officer Jenny": {
       "level": 93,
@@ -11624,7 +13067,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Ice Punch"
       ],
-      "index": 405
+      "index": 353
     },
     "Jano": {
       "level": 100,
@@ -11641,7 +13084,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Explosion"
       ],
-      "index": 406
+      "index": 365
     }
   },
   "Hypno": {
@@ -11656,9 +13099,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 90
+      "index": 208
     },
     "Hiker #10": {
       "level": 42,
@@ -11670,7 +13114,9 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Psychic",
+        "Thunder Wave"
       ],
       "index": 122
     },
@@ -11685,9 +13131,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 149
+      "index": 325
     },
     "Burglar #9": {
       "level": 75,
@@ -11700,9 +13147,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 152
+      "index": 316
     },
     "Psychic #1": {
       "level": 69,
@@ -11715,9 +13163,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 213
+      "index": 284
     },
     "Juggler #1": {
       "level": 65,
@@ -11730,9 +13179,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 219
+      "index": 259
     },
     "Juggler #2": {
       "level": 90,
@@ -11745,9 +13195,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 220
+      "index": 356
     },
     "Juggler #3": {
       "level": 62,
@@ -11760,9 +13211,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 221
+      "index": 235
     },
     "Juggler #6": {
       "level": 100,
@@ -11775,9 +13227,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 224
+      "index": 387
     },
     "Juggler #7": {
       "level": 61,
@@ -11790,9 +13243,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 225
+      "index": 237
     },
     "SHF Victory Road": {
       "level": 110,
@@ -11808,7 +13262,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Psychic"
       ],
-      "index": 265
+      "index": 359
     },
     "Rocket #13": {
       "level": 47,
@@ -11821,9 +13275,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 294
+      "index": 149
     },
     "Rocket #17": {
       "level": 50,
@@ -11836,9 +13291,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 298
+      "index": 153
     },
     "Rocket #21": {
       "level": 51,
@@ -11851,9 +13307,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 302
+      "index": 175
     },
     "Rocket #23": {
       "level": 68,
@@ -11866,9 +13323,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 304
+      "index": 251
     },
     "Rocket #25": {
       "level": 66,
@@ -11881,9 +13339,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 306
+      "index": 254
     },
     "Rocket #34": {
       "level": 66,
@@ -11896,9 +13355,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 315
+      "index": 269
     },
     "Rocket #38": {
       "level": 65,
@@ -11911,9 +13371,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 319
+      "index": 278
     },
     "Cooltrainer M #3": {
       "level": 92,
@@ -11926,9 +13387,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 333
+      "index": 362
     },
     "Cooltrainer F #3": {
       "level": 90,
@@ -11941,9 +13403,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 343
+      "index": 364
     },
     "Sabrina": {
       "level": 75,
@@ -11959,7 +13422,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Hypnosis"
       ],
-      "index": 356
+      "index": 291
     },
     "Channeler #22": {
       "level": 70,
@@ -11972,9 +13435,10 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Hypnosis",
-        "Psychic"
+        "Psychic",
+        "Thunder Wave"
       ],
-      "index": 398
+      "index": 288
     },
     "Agatha": {
       "level": 115,
@@ -11991,7 +13455,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Tri Attack"
       ],
-      "index": 401
+      "index": 371
     }
   },
   "Blastoise": {
@@ -12005,12 +13469,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hydro Pump",
-        "Earthquake",
         "Body Slam",
-        "Blizzard"
+        "Hydro Pump",
+        "Blizzard",
+        "Earthquake"
       ],
-      "index": 91
+      "index": 209
     },
     "Fisherman #4": {
       "level": 42,
@@ -12022,12 +13486,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hydro Pump",
-        "Earthquake",
         "Body Slam",
-        "Blizzard"
+        "Hydro Pump",
+        "Blizzard",
+        "Earthquake"
       ],
-      "index": 159
+      "index": 180
     },
     "Swimmer #7": {
       "level": 62,
@@ -12039,12 +13503,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hydro Pump",
-        "Earthquake",
         "Body Slam",
-        "Blizzard"
+        "Hydro Pump",
+        "Blizzard",
+        "Earthquake"
       ],
-      "index": 173
+      "index": 297
     },
     "Swimmer #8": {
       "level": 62,
@@ -12056,12 +13520,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hydro Pump",
-        "Earthquake",
         "Body Slam",
-        "Blizzard"
+        "Hydro Pump",
+        "Blizzard",
+        "Earthquake"
       ],
-      "index": 174
+      "index": 298
     },
     "Swimmer #10": {
       "level": 69,
@@ -12073,12 +13537,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hydro Pump",
-        "Earthquake",
         "Body Slam",
-        "Blizzard"
+        "Hydro Pump",
+        "Blizzard",
+        "Earthquake"
       ],
-      "index": 176
+      "index": 305
     },
     "Swimmer #12": {
       "level": 70,
@@ -12090,12 +13554,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hydro Pump",
-        "Earthquake",
         "Body Slam",
-        "Blizzard"
+        "Hydro Pump",
+        "Blizzard",
+        "Earthquake"
       ],
-      "index": 178
+      "index": 331
     },
     "Beauty #1": {
       "level": 45,
@@ -12107,80 +13571,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hydro Pump",
-        "Earthquake",
         "Body Slam",
-        "Blizzard"
-      ],
-      "index": 198
-    },
-    "Prof. Oak": {
-      "level": 115,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
         "Hydro Pump",
         "Blizzard",
-        "Earthquake",
-        "Body Slam"
-      ],
-      "index": 262
-    },
-    "Rival #2": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Hydro Pump",
-        "Blizzard",
-        "Body Slam",
         "Earthquake"
       ],
-      "index": 364
-    },
-    "Rival #3": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Hydro Pump",
-        "Blizzard",
-        "Body Slam",
-        "Earthquake"
-      ],
-      "index": 365
-    },
-    "Rival #4": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Hydro Pump",
-        "Blizzard",
-        "Body Slam",
-        "Earthquake"
-      ],
-      "index": 366
+      "index": 138
     },
     "Officer Jenny": {
       "level": 91,
@@ -12197,7 +13593,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Body Slam"
       ],
-      "index": 405
+      "index": 353
     },
     "Jano": {
       "level": 100,
@@ -12214,7 +13610,75 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 406
+      "index": 365
+    },
+    "Rival - Pokemon Tower #1": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Body Slam",
+        "Earthquake"
+      ],
+      "index": 157
+    },
+    "Rival - Pokemon Tower #2": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Body Slam",
+        "Earthquake"
+      ],
+      "index": 158
+    },
+    "Rival - Pokemon Tower #3": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Body Slam",
+        "Earthquake"
+      ],
+      "index": 159
+    },
+    "Prof. Oak #1": {
+      "level": 115,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Hydro Pump",
+        "Blizzard",
+        "Earthquake",
+        "Body Slam"
+      ],
+      "index": 370
     }
   },
   "Venusaur": {
@@ -12228,10 +13692,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sleep Powder",
         "Razor Leaf",
-        "Sleep Powder"
+        "Body Slam",
+        "Double Team"
       ],
-      "index": 91
+      "index": 209
     },
     "Beauty #3": {
       "level": 48,
@@ -12243,9 +13709,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf"
+        "Sleep Powder",
+        "Razor Leaf",
+        "Body Slam",
+        "Double Team"
       ],
-      "index": 200
+      "index": 140
     },
     "Beauty #7": {
       "level": 67,
@@ -12257,10 +13726,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sleep Powder",
         "Razor Leaf",
-        "Sleep Powder"
+        "Body Slam",
+        "Double Team"
       ],
-      "index": 204
+      "index": 308
     },
     "Beauty #15": {
       "level": 64,
@@ -12272,10 +13743,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sleep Powder",
         "Razor Leaf",
-        "Sleep Powder"
+        "Body Slam",
+        "Double Team"
       ],
-      "index": 212
+      "index": 310
     },
     "Tamer #2": {
       "level": 62,
@@ -12287,10 +13760,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sleep Powder",
         "Razor Leaf",
-        "Sleep Powder"
+        "Body Slam",
+        "Double Team"
       ],
-      "index": 228
+      "index": 240
     },
     "Bird Keeper #14": {
       "level": 55,
@@ -12302,27 +13777,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf",
-        "Sleep Powder"
-      ],
-      "index": 246
-    },
-    "Prof. Oak": {
-      "level": 115,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
         "Sleep Powder",
         "Razor Leaf",
-        "Double Team",
-        "Body Slam"
+        "Body Slam",
+        "Double Team"
       ],
-      "index": 262
+      "index": 202
     },
     "Cooltrainer F #6": {
       "level": 55,
@@ -12334,10 +13794,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Sleep Powder",
         "Razor Leaf",
-        "Sleep Powder"
+        "Body Slam",
+        "Double Team"
       ],
-      "index": 346
+      "index": 399
     },
     "Erika": {
       "level": 54,
@@ -12354,58 +13816,7 @@ var SETDEX_RBY = {
         "Razor Leaf",
         "Body Slam"
       ],
-      "index": 353
-    },
-    "Rival #2": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Sleep Powder",
-        "Double Team",
-        "Body Slam",
-        "Razor Leaf"
-      ],
-      "index": 364
-    },
-    "Rival #3": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Sleep Powder",
-        "Double Team",
-        "Body Slam",
-        "Razor Leaf"
-      ],
-      "index": 365
-    },
-    "Rival #4": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Sleep Powder",
-        "Body Slam",
-        "Double Team",
-        "Razor Leaf"
-      ],
-      "index": 366
+      "index": 142
     },
     "Channeler #10": {
       "level": 47,
@@ -12417,9 +13828,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Razor Leaf"
+        "Sleep Powder",
+        "Razor Leaf",
+        "Body Slam",
+        "Double Team"
       ],
-      "index": 386
+      "index": 164
     },
     "Nurse Joy": {
       "level": 92,
@@ -12436,7 +13850,75 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Body Slam"
       ],
-      "index": 404
+      "index": 352
+    },
+    "Rival - Pokemon Tower #1": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Sleep Powder",
+        "Double Team",
+        "Body Slam",
+        "Razor Leaf"
+      ],
+      "index": 157
+    },
+    "Rival - Pokemon Tower #2": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Sleep Powder",
+        "Double Team",
+        "Body Slam",
+        "Razor Leaf"
+      ],
+      "index": 158
+    },
+    "Rival - Pokemon Tower #3": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Sleep Powder",
+        "Body Slam",
+        "Double Team",
+        "Razor Leaf"
+      ],
+      "index": 159
+    },
+    "Prof. Oak #1": {
+      "level": 115,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Sleep Powder",
+        "Razor Leaf",
+        "Double Team",
+        "Body Slam"
+      ],
+      "index": 370
     }
   },
   "Charizard": {
@@ -12450,10 +13932,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Flamethrower",
         "Slash",
-        "Flamethrower"
+        "Body Slam",
+        "Earthquake"
       ],
-      "index": 91
+      "index": 209
     },
     "Biker #7": {
       "level": 58,
@@ -12465,10 +13949,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Flamethrower",
         "Slash",
-        "Flamethrower"
+        "Body Slam",
+        "Earthquake"
       ],
-      "index": 135
+      "index": 231
     },
     "Burglar #6": {
       "level": 78,
@@ -12481,10 +13967,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Slash",
-        "Flamethrower",
+        "Body Slam",
+        "Earthquake",
         "Fire Blast"
       ],
-      "index": 149
+      "index": 325
     },
     "Burglar #7": {
       "level": 75,
@@ -12497,10 +13984,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Slash",
-        "Flamethrower",
+        "Body Slam",
+        "Earthquake",
         "Fire Blast"
       ],
-      "index": 150
+      "index": 313
     },
     "Gambler #6": {
       "level": 95,
@@ -12514,9 +14002,10 @@ var SETDEX_RBY = {
       "moves": [
         "Guillotine",
         "Body Slam",
-        "Crabhammer"
+        "Crabhammer",
+        "Fire Blast"
       ],
-      "index": 196
+      "index": 355
     },
     "Bird Keeper #2": {
       "level": 54,
@@ -12528,9 +14017,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Flamethrower",
+        "Slash",
+        "Body Slam",
+        "Earthquake"
       ],
-      "index": 234
+      "index": 194
     },
     "Bird Keeper #11": {
       "level": 65,
@@ -12542,27 +14034,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Flamethrower",
         "Slash",
-        "Flamethrower"
+        "Body Slam",
+        "Earthquake"
       ],
-      "index": 243
-    },
-    "Prof. Oak": {
-      "level": 115,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Fire Blast",
-        "Earthquake",
-        "Slash",
-        "Fly"
-      ],
-      "index": 262
+      "index": 311
     },
     "Rocket #7": {
       "level": 44,
@@ -12574,9 +14051,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Flamethrower",
+        "Slash",
+        "Body Slam",
+        "Earthquake"
       ],
-      "index": 288
+      "index": 143
     },
     "Rocket #32": {
       "level": 67,
@@ -12588,10 +14068,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Flamethrower",
         "Slash",
-        "Flamethrower"
+        "Body Slam",
+        "Earthquake"
       ],
-      "index": 313
+      "index": 267
     },
     "Blaine": {
       "level": 84,
@@ -12608,58 +14090,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 355
-    },
-    "Rival #2": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Fire Blast",
-        "Slash",
-        "Body Slam",
-        "Earthquake"
-      ],
-      "index": 364
-    },
-    "Rival #3": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Fire Blast",
-        "Slash",
-        "Body Slam",
-        "Earthquake"
-      ],
-      "index": 365
-    },
-    "Rival #4": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Fire Blast",
-        "Slash",
-        "Body Slam",
-        "Earthquake"
-      ],
-      "index": 366
+      "index": 326
     },
     "Channeler #9": {
       "level": 47,
@@ -12671,9 +14102,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Flamethrower",
+        "Slash",
+        "Body Slam",
+        "Earthquake"
       ],
-      "index": 385
+      "index": 163
     },
     "Jano": {
       "level": 100,
@@ -12690,7 +14124,75 @@ var SETDEX_RBY = {
         "Earthquake",
         "Dragon Rage"
       ],
-      "index": 406
+      "index": 365
+    },
+    "Rival - Pokemon Tower #1": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Fire Blast",
+        "Slash",
+        "Body Slam",
+        "Earthquake"
+      ],
+      "index": 157
+    },
+    "Rival - Pokemon Tower #2": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Fire Blast",
+        "Slash",
+        "Body Slam",
+        "Earthquake"
+      ],
+      "index": 158
+    },
+    "Rival - Pokemon Tower #3": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Fire Blast",
+        "Slash",
+        "Body Slam",
+        "Earthquake"
+      ],
+      "index": 159
+    },
+    "Prof. Oak #1": {
+      "level": 115,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Fire Blast",
+        "Earthquake",
+        "Slash",
+        "Fly"
+      ],
+      "index": 370
     }
   },
   "Dratini": {
@@ -12704,12 +14206,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunder Wave",
+        "Dragon Rage",
         "Headbutt",
-        "Double Edge",
+        "Double-Edge",
         "Hyper Beam"
       ],
-      "index": 94
+      "index": 105
     },
     "Fisherman #6": {
       "level": 42,
@@ -12721,26 +14223,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunder Wave",
+        "Dragon Rage",
         "Headbutt",
-        "Double Edge",
+        "Double-Edge",
         "Hyper Beam"
       ],
-      "index": 161
-    },
-    "Rival #3": {
-      "level": 20,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave"
-      ],
-      "index": 261
+      "index": 182
     },
     "Rocket #2": {
       "level": 18,
@@ -12752,9 +14240,27 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Thunder Wave"
+        "Wrap",
+        "Thunder Wave",
+        "Dragon Rage"
       ],
-      "index": 283
+      "index": 28
+    },
+    "Rival - Cerulean City": {
+      "level": 20,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Wrap",
+        "Thunder Wave",
+        "Dragon Rage"
+      ],
+      "index": 34
     }
   },
   "Kangaskhan": {
@@ -12768,11 +14274,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake",
         "Body Slam",
+        "Earthquake",
         "Hyper Beam"
       ],
-      "index": 95
+      "index": 106
     },
     "Hiker #15": {
       "level": 92,
@@ -12784,11 +14290,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake",
         "Body Slam",
+        "Earthquake",
         "Hyper Beam"
       ],
-      "index": 127
+      "index": 349
     },
     "Biker #4": {
       "level": 56,
@@ -12800,11 +14306,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake",
         "Body Slam",
+        "Earthquake",
         "Hyper Beam"
       ],
-      "index": 132
+      "index": 211
     },
     "Cue Ball #5": {
       "level": 57,
@@ -12816,11 +14322,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake",
         "Body Slam",
+        "Earthquake",
         "Hyper Beam"
       ],
-      "index": 186
+      "index": 225
     },
     "Beauty #15": {
       "level": 64,
@@ -12832,11 +14338,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake",
         "Body Slam",
+        "Earthquake",
         "Hyper Beam"
       ],
-      "index": 212
+      "index": 310
     },
     "Giovanni #2": {
       "level": 72,
@@ -12852,7 +14358,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Hyper Beam"
       ],
-      "index": 280
+      "index": 283
     },
     "Rocket #18": {
       "level": 49,
@@ -12864,11 +14370,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake",
         "Body Slam",
+        "Earthquake",
         "Hyper Beam"
       ],
-      "index": 299
+      "index": 154
     },
     "Rocket #28": {
       "level": 66,
@@ -12880,11 +14386,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake",
         "Body Slam",
+        "Earthquake",
         "Hyper Beam"
       ],
-      "index": 309
+      "index": 261
     },
     "Rocket #39": {
       "level": 68,
@@ -12896,11 +14402,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake",
         "Body Slam",
+        "Earthquake",
         "Hyper Beam"
       ],
-      "index": 320
+      "index": 280
     },
     "Rocket #41": {
       "level": 68,
@@ -12912,11 +14418,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake",
         "Body Slam",
+        "Earthquake",
         "Hyper Beam"
       ],
-      "index": 322
+      "index": 255
     },
     "Gentleman #5": {
       "level": 29,
@@ -12928,9 +14434,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
         "Earthquake"
       ],
-      "index": 361
+      "index": 80
     },
     "Lance": {
       "level": 115,
@@ -12946,7 +14453,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 402
+      "index": 372
     },
     "Ranger": {
       "level": 93,
@@ -12958,11 +14465,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake",
         "Body Slam",
+        "Earthquake",
         "Hyper Beam"
       ],
-      "index": 408
+      "index": 367
     }
   },
   "Slowbro": {
@@ -12976,11 +14483,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 96
+      "index": 118
     },
     "Super Nerd #11": {
       "level": 80,
@@ -12992,11 +14500,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 111
+      "index": 321
     },
     "Fisherman #2": {
       "level": 27,
@@ -13008,10 +14517,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Waterfall",
+        "Thunder Wave",
         "Psychic",
         "Surf"
       ],
-      "index": 157
+      "index": 86
     },
     "Fisherman #3": {
       "level": 42,
@@ -13023,11 +14534,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 158
+      "index": 179
     },
     "Fisherman #7": {
       "level": 70,
@@ -13039,11 +14551,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 162
+      "index": 327
     },
     "Swimmer #4": {
       "level": 62,
@@ -13055,11 +14568,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 170
+      "index": 294
     },
     "Swimmer #11": {
       "level": 63,
@@ -13071,11 +14585,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 177
+      "index": 306
     },
     "Cue Ball #4": {
       "level": 57,
@@ -13087,11 +14602,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 185
+      "index": 224
     },
     "Cue Ball #7": {
       "level": 57,
@@ -13103,11 +14619,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 188
+      "index": 227
     },
     "Beauty #10": {
       "level": 55,
@@ -13119,11 +14636,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 207
+      "index": 213
     },
     "Psychic #3": {
       "level": 69,
@@ -13135,11 +14653,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 215
+      "index": 286
     },
     "Juggler #2": {
       "level": 90,
@@ -13151,11 +14670,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 220
+      "index": 356
     },
     "Juggler #7": {
       "level": 61,
@@ -13167,11 +14687,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 225
+      "index": 237
     },
     "Rocket #7": {
       "level": 44,
@@ -13183,11 +14704,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 288
+      "index": 143
     },
     "Rocket #36": {
       "level": 66,
@@ -13199,11 +14721,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 317
+      "index": 275
     },
     "Cooltrainer F #5": {
       "level": 90,
@@ -13215,11 +14738,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
         "Psychic",
         "Surf",
         "Amnesia"
       ],
-      "index": 345
+      "index": 351
     },
     "Sabrina": {
       "level": 75,
@@ -13236,7 +14760,7 @@ var SETDEX_RBY = {
         "Surf",
         "Psychic"
       ],
-      "index": 356
+      "index": 291
     }
   },
   "Dragonair": {
@@ -13250,9 +14774,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 97
+      "index": 119
     },
     "Fisherman #1": {
       "level": 27,
@@ -13264,9 +14790,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 156
+      "index": 78
     },
     "Fisherman #2": {
       "level": 27,
@@ -13278,9 +14806,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 157
+      "index": 86
     },
     "Fisherman #3": {
       "level": 42,
@@ -13292,9 +14822,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 158
+      "index": 179
     },
     "Fisherman #6": {
       "level": 42,
@@ -13306,9 +14838,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 161
+      "index": 182
     },
     "Fisherman #7": {
       "level": 70,
@@ -13320,11 +14854,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Dragon Rage",
         "Thunder Wave",
         "Blizzard",
         "Hyper Beam"
       ],
-      "index": 162
+      "index": 327
     },
     "Fisherman #11": {
       "level": 51,
@@ -13336,10 +14871,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Dragon Rage",
         "Thunder Wave",
         "Blizzard"
       ],
-      "index": 166
+      "index": 183
     },
     "Bird Keeper #2": {
       "level": 54,
@@ -13351,24 +14888,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Dragon Rage",
         "Thunder Wave",
         "Blizzard"
       ],
-      "index": 234
-    },
-    "Rival #3": {
-      "level": 19,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave"
-      ],
-      "index": 261
+      "index": 194
     },
     "Rocket #6": {
       "level": 22,
@@ -13380,9 +14905,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 287
+      "index": 42
     },
     "Rocket #9": {
       "level": 45,
@@ -13394,10 +14921,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Dragon Rage",
         "Thunder Wave",
         "Blizzard"
       ],
-      "index": 290
+      "index": 145
     },
     "Rocket #15": {
       "level": 48,
@@ -13409,10 +14938,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Dragon Rage",
         "Thunder Wave",
         "Blizzard"
       ],
-      "index": 296
+      "index": 151
     },
     "Rocket #27": {
       "level": 66,
@@ -13424,11 +14955,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Dragon Rage",
         "Thunder Wave",
         "Blizzard",
         "Hyper Beam"
       ],
-      "index": 308
+      "index": 258
     },
     "Gentleman #5": {
       "level": 29,
@@ -13440,9 +14972,27 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 361
+      "index": 80
+    },
+    "Rival - Cerulean City": {
+      "level": 19,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Wrap",
+        "Dragon Rage",
+        "Thunder Wave"
+      ],
+      "index": 34
     }
   },
   "Dragonite": {
@@ -13456,9 +15006,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Blizzard",
         "Thunder Wave"
       ],
-      "index": 99
+      "index": 354
     },
     "Fisherman #7": {
       "level": 70,
@@ -13470,9 +15022,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Blizzard",
         "Thunder Wave"
       ],
-      "index": 162
+      "index": 327
     },
     "Fisherman #8": {
       "level": 71,
@@ -13484,9 +15038,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Blizzard",
         "Thunder Wave"
       ],
-      "index": 163
+      "index": 328
     },
     "Fisherman #10": {
       "level": 70,
@@ -13498,9 +15054,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Blizzard",
         "Thunder Wave"
       ],
-      "index": 165
+      "index": 330
     },
     "Gambler #6": {
       "level": 95,
@@ -13516,7 +15074,7 @@ var SETDEX_RBY = {
         "Horn Drill",
         "Blizzard"
       ],
-      "index": 196
+      "index": 355
     },
     "Juggler #5": {
       "level": 94,
@@ -13528,9 +15086,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Blizzard",
         "Thunder Wave"
       ],
-      "index": 223
+      "index": 360
     },
     "Rocket #27": {
       "level": 66,
@@ -13542,9 +15102,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Blizzard",
         "Thunder Wave"
       ],
-      "index": 308
+      "index": 258
     },
     "Rocket #28": {
       "level": 66,
@@ -13556,9 +15118,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Blizzard",
         "Thunder Wave"
       ],
-      "index": 309
+      "index": 261
     },
     "Rocket #30": {
       "level": 64,
@@ -13570,9 +15134,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Blizzard",
         "Thunder Wave"
       ],
-      "index": 311
+      "index": 264
     },
     "Cooltrainer M #1": {
       "level": 82,
@@ -13584,9 +15150,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Blizzard",
         "Thunder Wave"
       ],
-      "index": 331
+      "index": 341
     },
     "Cooltrainer M #2": {
       "level": 88,
@@ -13598,9 +15166,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Blizzard",
         "Thunder Wave"
       ],
-      "index": 332
+      "index": 361
     },
     "Lance": {
       "level": 115,
@@ -13617,7 +15187,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Body Slam"
       ],
-      "index": 402
+      "index": 372
     },
     "Soldier": {
       "level": 94,
@@ -13629,9 +15199,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
+        "Blizzard",
         "Thunder Wave"
       ],
-      "index": 407
+      "index": 366
     }
   },
   "Snorlax": {
@@ -13650,7 +15222,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 99
+      "index": 354
     },
     "Super Nerd #10": {
       "level": 77,
@@ -13662,11 +15234,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Self-Destruct",
         "Body Slam",
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 110
+      "index": 320
     },
     "Super Nerd #12": {
       "level": 80,
@@ -13678,11 +15251,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Self-Destruct",
         "Body Slam",
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 112
+      "index": 322
     },
     "Hiker #15": {
       "level": 92,
@@ -13699,7 +15273,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 127
+      "index": 349
     },
     "Cue Ball #7": {
       "level": 57,
@@ -13711,28 +15285,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Self-Destruct",
         "Body Slam",
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 188
-    },
-    "Prof. Oak": {
-      "level": 115,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Hyper Beam",
-        "Thunderbolt",
-        "Explosion",
-        "Fire Blast"
-      ],
-      "index": 262
+      "index": 227
     },
     "SHF Cerulean Cave": {
       "level": 127,
@@ -13749,7 +15307,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 264
+      "index": 376
     },
     "Rocket #30": {
       "level": 64,
@@ -13761,11 +15319,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Self-Destruct",
         "Body Slam",
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 311
+      "index": 264
     },
     "Rocket #33": {
       "level": 65,
@@ -13777,11 +15336,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Self-Destruct",
         "Body Slam",
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 314
+      "index": 268
     },
     "Rocket #36": {
       "level": 66,
@@ -13793,11 +15353,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Self-Destruct",
         "Body Slam",
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 317
+      "index": 275
     },
     "Rocket #40": {
       "level": 69,
@@ -13809,11 +15370,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Self-Destruct",
         "Body Slam",
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 321
+      "index": 281
     },
     "Cooltrainer M #2": {
       "level": 88,
@@ -13830,7 +15392,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 332
+      "index": 361
     },
     "Cooltrainer M #5": {
       "level": 88,
@@ -13847,7 +15409,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 335
+      "index": 350
     },
     "Cooltrainer M #9": {
       "level": 83,
@@ -13859,11 +15421,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Self-Destruct",
         "Body Slam",
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 339
+      "index": 342
     },
     "Cooltrainer F #3": {
       "level": 90,
@@ -13880,7 +15443,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 343
+      "index": 364
     },
     "Bruno": {
       "level": 68,
@@ -13897,7 +15460,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 349
+      "index": 248
     },
     "Soldier": {
       "level": 92,
@@ -13914,7 +15477,24 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 407
+      "index": 366
+    },
+    "Prof. Oak #1": {
+      "level": 115,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Hyper Beam",
+        "Thunderbolt",
+        "Explosion",
+        "Fire Blast"
+      ],
+      "index": 370
     }
   },
   "Koffing": {
@@ -13927,8 +15507,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 101
+      "moves": [
+        "Smokescreen",
+        "Sludge",
+        "Explosion",
+        "Toxic"
+      ],
+      "index": 24
     },
     "Super Nerd #6": {
       "level": 100,
@@ -13940,9 +15525,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Smokescreen",
+        "Sludge",
+        "Explosion",
+        "Toxic"
       ],
-      "index": 106
+      "index": 380
     },
     "Super Nerd #7": {
       "level": 20,
@@ -13953,8 +15541,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 107
+      "moves": [
+        "Smokescreen",
+        "Sludge",
+        "Explosion",
+        "Toxic"
+      ],
+      "index": 381
     },
     "Rocket #22": {
       "level": 26,
@@ -13965,8 +15558,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 303
+      "moves": [
+        "Smokescreen",
+        "Sludge",
+        "Explosion",
+        "Toxic"
+      ],
+      "index": 391
     }
   },
   "Voltorb": {
@@ -13980,9 +15578,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sonic Boom"
+        "Sonic Boom",
+        "Self-Destruct",
+        "Explosion",
+        "Thunder Wave"
       ],
-      "index": 102
+      "index": 30
     },
     "Super Nerd #8": {
       "level": 24,
@@ -13995,9 +15596,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Sonic Boom",
-        "Self-Destruct"
+        "Self-Destruct",
+        "Explosion",
+        "Thunder Wave"
       ],
-      "index": 108
+      "index": 382
     },
     "Biker #9": {
       "level": 58,
@@ -14010,11 +15613,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Self-Destruct",
-        "Thunderbolt",
+        "Explosion",
         "Thunder Wave",
-        "Explosion"
+        "Thunderbolt"
       ],
-      "index": 137
+      "index": 220
     },
     "Biker #10": {
       "level": 100,
@@ -14027,11 +15630,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Self-Destruct",
-        "Thunderbolt",
+        "Explosion",
         "Thunder Wave",
-        "Explosion"
+        "Thunderbolt"
       ],
-      "index": 138
+      "index": 221
     },
     "Biker #10 (2)": {
       "level": 100,
@@ -14044,11 +15647,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Self-Destruct",
-        "Thunderbolt",
+        "Explosion",
         "Thunder Wave",
-        "Explosion"
+        "Thunderbolt"
       ],
-      "index": 138
+      "index": 221
     },
     "Engineer #2": {
       "level": 26,
@@ -14061,9 +15664,11 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Sonic Boom",
-        "Self-Destruct"
+        "Self-Destruct",
+        "Explosion",
+        "Thunder Wave"
       ],
-      "index": 154
+      "index": 65
     },
     "Gentleman #6": {
       "level": 33,
@@ -14075,11 +15680,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sonic Boom",
         "Self-Destruct",
+        "Explosion",
+        "Thunder Wave",
         "Thunderbolt"
       ],
-      "index": 362
+      "index": 92
     }
   },
   "Exeggcute": {
@@ -14092,8 +15698,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 102
+      "moves": [
+        "Hypnosis",
+        "Psybeam",
+        "Explosion",
+        "Stun Spore"
+      ],
+      "index": 30
     },
     "Super Nerd #5": {
       "level": 43,
@@ -14105,10 +15716,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Explosion",
+        "Stun Spore",
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 105
+      "index": 130
     },
     "Hiker #8": {
       "level": 43,
@@ -14120,10 +15733,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Explosion",
+        "Stun Spore",
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 120
+      "index": 108
     },
     "Beauty #2": {
       "level": 47,
@@ -14135,10 +15750,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Explosion",
+        "Stun Spore",
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 199
+      "index": 139
     }
   },
   "Electrode": {
@@ -14152,9 +15769,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 103
+      "index": 128
     },
     "Super Nerd #5": {
       "level": 43,
@@ -14166,9 +15785,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 105
+      "index": 130
     },
     "Super Nerd #9": {
       "level": 76,
@@ -14180,9 +15801,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 109
+      "index": 319
     },
     "Super Nerd #10": {
       "level": 77,
@@ -14194,9 +15817,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 110
+      "index": 320
     },
     "Biker #5": {
       "level": 59,
@@ -14208,9 +15833,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 133
+      "index": 229
     },
     "Engineer #1": {
       "level": 48,
@@ -14222,9 +15849,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 153
+      "index": 178
     },
     "Engineer #3": {
       "level": 26,
@@ -14236,9 +15865,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 155
+      "index": 66
     },
     "Fisherman #7": {
       "level": 70,
@@ -14250,9 +15881,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 162
+      "index": 327
     },
     "Rocker #1": {
       "level": 34,
@@ -14264,9 +15897,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 217
+      "index": 91
     },
     "Rocker #2": {
       "level": 50,
@@ -14278,9 +15913,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 218
+      "index": 184
     },
     "Juggler #2": {
       "level": 90,
@@ -14292,9 +15929,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 220
+      "index": 356
     },
     "Juggler #4": {
       "level": 61,
@@ -14306,9 +15945,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 222
+      "index": 236
     },
     "Scientist #2": {
       "level": 67,
@@ -14320,9 +15961,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 267
+      "index": 249
     },
     "Scientist #4": {
       "level": 65,
@@ -14334,9 +15977,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 269
+      "index": 253
     },
     "Scientist #5": {
       "level": 65,
@@ -14348,9 +15993,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 270
+      "index": 256
     },
     "Scientist #6": {
       "level": 66,
@@ -14362,9 +16009,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 271
+      "index": 260
     },
     "Scientist #8": {
       "level": 67,
@@ -14376,9 +16025,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 273
+      "index": 266
     },
     "Scientist #9": {
       "level": 67,
@@ -14390,9 +16041,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 274
+      "index": 273
     },
     "Scientist #11": {
       "level": 66,
@@ -14404,9 +16057,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 276
+      "index": 279
     },
     "Rocket #13": {
       "level": 47,
@@ -14418,9 +16073,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 294
+      "index": 149
     },
     "Rocket #30": {
       "level": 64,
@@ -14432,9 +16089,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 311
+      "index": 264
     },
     "Rocket #33": {
       "level": 65,
@@ -14446,9 +16105,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 314
+      "index": 268
     },
     "Cooltrainer M #5": {
       "level": 88,
@@ -14460,9 +16121,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Explosion",
+        "Thunderbolt",
+        "Thunder Wave"
       ],
-      "index": 335
+      "index": 350
     },
     "Lt. Surge": {
       "level": 39,
@@ -14478,7 +16141,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Explosion"
       ],
-      "index": 352
+      "index": 93
     }
   },
   "Cloyster": {
@@ -14491,8 +16154,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 103
+      "moves": [
+        "Blizzard",
+        "Explosion",
+        "Clamp"
+      ],
+      "index": 128
     },
     "Super Nerd #4": {
       "level": 44,
@@ -14503,8 +16170,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 104
+      "moves": [
+        "Blizzard",
+        "Explosion",
+        "Clamp"
+      ],
+      "index": 129
     },
     "Super Nerd #9": {
       "level": 76,
@@ -14516,9 +16187,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Blizzard",
+        "Explosion",
+        "Clamp"
       ],
-      "index": 109
+      "index": 319
     },
     "Super Nerd #10": {
       "level": 77,
@@ -14530,9 +16203,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Blizzard",
+        "Explosion",
+        "Clamp"
       ],
-      "index": 110
+      "index": 320
     },
     "Fisherman #1": {
       "level": 27,
@@ -14543,8 +16218,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 156
+      "moves": [
+        "Blizzard",
+        "Explosion",
+        "Clamp"
+      ],
+      "index": 78
     },
     "Fisherman #4": {
       "level": 42,
@@ -14555,8 +16234,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 159
+      "moves": [
+        "Blizzard",
+        "Explosion",
+        "Clamp"
+      ],
+      "index": 180
     },
     "Fisherman #8": {
       "level": 71,
@@ -14568,9 +16251,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Blizzard",
+        "Explosion",
+        "Clamp"
       ],
-      "index": 163
+      "index": 328
     },
     "Fisherman #10": {
       "level": 70,
@@ -14582,9 +16267,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Blizzard",
+        "Explosion",
+        "Clamp"
       ],
-      "index": 165
+      "index": 330
     },
     "Swimmer #4": {
       "level": 62,
@@ -14596,9 +16283,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Blizzard",
+        "Explosion",
+        "Clamp"
       ],
-      "index": 170
+      "index": 294
     },
     "Swimmer #9": {
       "level": 64,
@@ -14610,9 +16299,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Blizzard",
+        "Explosion",
+        "Clamp"
       ],
-      "index": 175
+      "index": 304
     },
     "Cue Ball #8": {
       "level": 58,
@@ -14624,9 +16315,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Blizzard",
+        "Explosion",
+        "Clamp"
       ],
-      "index": 189
+      "index": 228
     },
     "Beauty #7": {
       "level": 67,
@@ -14638,9 +16331,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Blizzard",
+        "Explosion",
+        "Clamp"
       ],
-      "index": 204
+      "index": 308
     },
     "Giovanni #2": {
       "level": 72,
@@ -14656,7 +16351,7 @@ var SETDEX_RBY = {
         "Clamp",
         "Explosion"
       ],
-      "index": 280
+      "index": 283
     },
     "Rocket #13": {
       "level": 47,
@@ -14667,8 +16362,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 294
+      "moves": [
+        "Blizzard",
+        "Explosion",
+        "Clamp"
+      ],
+      "index": 149
     },
     "Rocket #21": {
       "level": 51,
@@ -14680,9 +16379,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Blizzard",
+        "Explosion",
+        "Clamp"
       ],
-      "index": 302
+      "index": 175
     },
     "Rocket #33": {
       "level": 65,
@@ -14694,9 +16395,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Blizzard",
+        "Explosion",
+        "Clamp"
       ],
-      "index": 314
+      "index": 268
     },
     "Rocket #40": {
       "level": 69,
@@ -14708,9 +16411,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Blizzard",
+        "Explosion",
+        "Clamp"
       ],
-      "index": 321
+      "index": 281
     },
     "Rocket #45": {
       "level": 72,
@@ -14726,7 +16431,7 @@ var SETDEX_RBY = {
         "Clamp",
         "Explosion"
       ],
-      "index": 326
+      "index": 282
     },
     "Cooltrainer M #5": {
       "level": 88,
@@ -14738,9 +16443,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Explosion"
+        "Blizzard",
+        "Explosion",
+        "Clamp"
       ],
-      "index": 335
+      "index": 350
     },
     "Cooltrainer M #8": {
       "level": 44,
@@ -14751,8 +16458,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 338
+      "moves": [
+        "Blizzard",
+        "Explosion",
+        "Clamp"
+      ],
+      "index": 397
     },
     "Lorelei": {
       "level": 115,
@@ -14768,7 +16479,7 @@ var SETDEX_RBY = {
         "Clamp",
         "Explosion"
       ],
-      "index": 376
+      "index": 369
     }
   },
   "Weezing": {
@@ -14782,9 +16493,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Toxic",
+        "Explosion",
+        "Sludge",
+        "Fire Blast"
       ],
-      "index": 103
+      "index": 128
     },
     "Super Nerd #6": {
       "level": 100,
@@ -14796,11 +16510,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge",
         "Explosion",
+        "Sludge",
+        "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 106
+      "index": 380
     },
     "Biker #3": {
       "level": 56,
@@ -14812,11 +16527,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge",
         "Explosion",
+        "Sludge",
+        "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 131
+      "index": 210
     },
     "Biker #12": {
       "level": 58,
@@ -14828,11 +16544,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge",
         "Explosion",
+        "Sludge",
+        "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 140
+      "index": 223
     },
     "Scientist #4": {
       "level": 65,
@@ -14844,11 +16561,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge",
         "Explosion",
+        "Sludge",
+        "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 269
+      "index": 253
     },
     "Rocket #8": {
       "level": 45,
@@ -14860,9 +16578,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Toxic",
+        "Explosion",
+        "Sludge",
+        "Fire Blast"
       ],
-      "index": 289
+      "index": 144
     },
     "Rocket #29": {
       "level": 67,
@@ -14874,11 +16595,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge",
         "Explosion",
+        "Sludge",
+        "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 310
+      "index": 262
     },
     "Rocket #42": {
       "level": 20,
@@ -14895,7 +16617,7 @@ var SETDEX_RBY = {
         "Psybeam",
         "Self-Destruct"
       ],
-      "index": 323
+      "index": 31
     },
     "Rocket #43": {
       "level": 55,
@@ -14912,7 +16634,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Sludge"
       ],
-      "index": 324
+      "index": 155
     },
     "Rocket #44": {
       "level": 60,
@@ -14926,9 +16648,10 @@ var SETDEX_RBY = {
       "moves": [
         "Explosion",
         "Sludge",
+        "Thunderbolt",
         "Thunderbolt"
       ],
-      "index": 325
+      "index": 176
     },
     "Rocket #46": {
       "level": 82,
@@ -14945,7 +16668,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Fire Blast"
       ],
-      "index": 327
+      "index": 318
     },
     "Rocket #48": {
       "level": 29,
@@ -14956,8 +16679,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 329
+      "moves": [
+        "Toxic",
+        "Explosion",
+        "Sludge",
+        "Fire Blast"
+      ],
+      "index": 392
     },
     "Rocket #49": {
       "level": 33,
@@ -14969,9 +16697,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Toxic",
+        "Explosion",
+        "Sludge",
+        "Fire Blast"
       ],
-      "index": 330
+      "index": 393
     },
     "AJ": {
       "level": 93,
@@ -14983,11 +16714,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge",
         "Explosion",
+        "Sludge",
+        "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 409
+      "index": 368
     }
   },
   "Muk": {
@@ -15001,9 +16733,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Sludge",
+        "Explosion",
+        "Toxic",
+        "Body Slam"
       ],
-      "index": 104
+      "index": 129
     },
     "Super Nerd #5": {
       "level": 43,
@@ -15015,9 +16750,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Sludge",
+        "Explosion",
+        "Toxic",
+        "Body Slam"
       ],
-      "index": 105
+      "index": 130
     },
     "Biker #1": {
       "level": 55,
@@ -15029,9 +16767,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Sludge",
+        "Explosion",
+        "Toxic",
+        "Body Slam"
       ],
-      "index": 129
+      "index": 190
     },
     "Biker #6": {
       "level": 60,
@@ -15043,9 +16784,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Sludge",
+        "Explosion",
+        "Toxic",
+        "Body Slam"
       ],
-      "index": 134
+      "index": 230
     },
     "Biker #8": {
       "level": 58,
@@ -15057,9 +16801,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Sludge",
+        "Explosion",
+        "Toxic",
+        "Body Slam"
       ],
-      "index": 136
+      "index": 219
     },
     "Biker #13": {
       "level": 55,
@@ -15071,9 +16818,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Sludge",
+        "Explosion",
+        "Toxic",
+        "Body Slam"
       ],
-      "index": 141
+      "index": 197
     },
     "Juggler #8": {
       "level": 61,
@@ -15085,9 +16835,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Sludge",
+        "Explosion",
+        "Toxic",
+        "Body Slam"
       ],
-      "index": 226
+      "index": 238
     },
     "Rocket #14": {
       "level": 47,
@@ -15099,9 +16852,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Sludge",
+        "Explosion",
+        "Toxic",
+        "Body Slam"
       ],
-      "index": 295
+      "index": 150
     },
     "Koga": {
       "level": 66,
@@ -15118,7 +16874,7 @@ var SETDEX_RBY = {
         "Dig",
         "Explosion"
       ],
-      "index": 354
+      "index": 242
     },
     "Channeler #8": {
       "level": 47,
@@ -15130,9 +16886,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Sludge",
+        "Explosion",
+        "Toxic",
+        "Body Slam"
       ],
-      "index": 384
+      "index": 162
     },
     "Janine": {
       "level": 63,
@@ -15144,9 +16903,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sludge"
+        "Sludge",
+        "Explosion",
+        "Toxic",
+        "Body Slam"
       ],
-      "index": 403
+      "index": 241
     },
     "Jano": {
       "level": 100,
@@ -15163,7 +16925,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Explosion"
       ],
-      "index": 406
+      "index": 365
     }
   },
   "Exeggutor": {
@@ -15177,9 +16939,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 109
+      "index": 319
     },
     "Fisherman #7": {
       "level": 70,
@@ -15191,9 +16955,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 162
+      "index": 327
     },
     "Psychic #3": {
       "level": 69,
@@ -15205,9 +16971,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 215
+      "index": 286
     },
     "Scientist #10": {
       "level": 66,
@@ -15219,9 +16987,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 275
+      "index": 276
     },
     "Scientist #11": {
       "level": 66,
@@ -15233,9 +17003,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 276
+      "index": 279
     },
     "Rocket #13": {
       "level": 47,
@@ -15247,9 +17019,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 294
+      "index": 149
     },
     "Rocket #31": {
       "level": 66,
@@ -15261,9 +17035,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 312
+      "index": 265
     },
     "Rocket #33": {
       "level": 65,
@@ -15275,9 +17051,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 314
+      "index": 268
     },
     "Rocket #36": {
       "level": 66,
@@ -15289,9 +17067,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 317
+      "index": 275
     },
     "Rocket #40": {
       "level": 69,
@@ -15303,9 +17083,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 321
+      "index": 281
     },
     "Cooltrainer M #3": {
       "level": 92,
@@ -15317,9 +17099,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 333
+      "index": 362
     },
     "Cooltrainer F #2": {
       "level": 90,
@@ -15331,9 +17115,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 342
+      "index": 363
     },
     "Cooltrainer F #5": {
       "level": 90,
@@ -15345,9 +17131,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 345
+      "index": 351
     },
     "Erika": {
       "level": 54,
@@ -15363,7 +17151,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Psychic"
       ],
-      "index": 353
+      "index": 142
     },
     "Sabrina": {
       "level": 75,
@@ -15379,154 +17167,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 356
-    },
-    "Rival #5": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Sleep Powder",
-        "Stun Spore",
-        "Psychic"
-      ],
-      "index": 367
-    },
-    "Rival #6": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Sleep Powder",
-        "Stun Spore",
-        "Psychic"
-      ],
-      "index": 368
-    },
-    "Rival #7": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Sleep Powder",
-        "Stun Spore",
-        "Psychic"
-      ],
-      "index": 369
-    },
-    "Rival #8": {
-      "level": 90,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Stun Spore",
-        "Sleep Powder",
-        "Psychic",
-        "Egg Bomb"
-      ],
-      "index": 370
-    },
-    "Rival #9": {
-      "level": 90,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Stun Spore",
-        "Sleep Powder",
-        "Psychic",
-        "Egg Bomb"
-      ],
-      "index": 371
-    },
-    "Rival #10": {
-      "level": 90,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Psychic"
-      ],
-      "index": 372
-    },
-    "Rival #1": {
-      "level": 115,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Stun Spore",
-        "Sleep Powder",
-        "Psychic",
-        "Egg Bomb"
-      ],
-      "index": 373
-    },
-    "Rival #2": {
-      "level": 115,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Stun Spore",
-        "Sleep Powder",
-        "Psychic",
-        "Egg Bomb"
-      ],
-      "index": 374
-    },
-    "Rival #3": {
-      "level": 115,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Stun Spore",
-        "Sleep Powder",
-        "Psychic",
-        "Egg Bomb"
-      ],
-      "index": 375
+      "index": 291
     },
     "Lance": {
       "level": 115,
@@ -15543,7 +17184,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Hyper Beam"
       ],
-      "index": 402
+      "index": 372
     },
     "Ranger": {
       "level": 93,
@@ -15555,9 +17196,160 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Stun Spore",
+        "Sleep Powder",
         "Psychic"
       ],
-      "index": 408
+      "index": 367
+    },
+    "Rival - Silph Co. #1": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Sleep Powder",
+        "Stun Spore",
+        "Psychic"
+      ],
+      "index": 270
+    },
+    "Rival - Silph Co. #2": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Sleep Powder",
+        "Stun Spore",
+        "Psychic"
+      ],
+      "index": 271
+    },
+    "Rival - Silph Co. #3": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Sleep Powder",
+        "Stun Spore",
+        "Psychic"
+      ],
+      "index": 272
+    },
+    "Rival - Route 22 #1": {
+      "level": 90,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Stun Spore",
+        "Sleep Powder",
+        "Psychic",
+        "Egg Bomb"
+      ],
+      "index": 346
+    },
+    "Rival - Route 22 #2": {
+      "level": 90,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Stun Spore",
+        "Sleep Powder",
+        "Psychic",
+        "Egg Bomb"
+      ],
+      "index": 347
+    },
+    "Rival - Route 22 #3": {
+      "level": 90,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Stun Spore",
+        "Sleep Powder",
+        "Psychic"
+      ],
+      "index": 348
+    },
+    "Rival - Champion #1": {
+      "level": 115,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Stun Spore",
+        "Sleep Powder",
+        "Psychic",
+        "Egg Bomb"
+      ],
+      "index": 373
+    },
+    "Rival - Champion #2": {
+      "level": 115,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Stun Spore",
+        "Sleep Powder",
+        "Psychic",
+        "Egg Bomb"
+      ],
+      "index": 374
+    },
+    "Rival - Champion #3": {
+      "level": 115,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Stun Spore",
+        "Sleep Powder",
+        "Psychic",
+        "Egg Bomb"
+      ],
+      "index": 375
     }
   },
   "Chansey": {
@@ -15571,11 +17363,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
+        "Soft-Boiled",
         "Thunderbolt",
-        "Ice Beam",
-        "Soft-Boiled"
+        "Ice Beam"
       ],
-      "index": 112
+      "index": 322
     },
     "Gambler #6": {
       "level": 95,
@@ -15592,7 +17385,7 @@ var SETDEX_RBY = {
         "Soft-Boiled",
         "Blizzard"
       ],
-      "index": 196
+      "index": 355
     },
     "Rocket #7": {
       "level": 44,
@@ -15604,10 +17397,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
+        "Soft-Boiled",
         "Thunderbolt",
         "Ice Beam"
       ],
-      "index": 288
+      "index": 143
     },
     "Rocket #36": {
       "level": 66,
@@ -15619,11 +17414,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
+        "Soft-Boiled",
         "Thunderbolt",
-        "Ice Beam",
-        "Soft-Boiled"
+        "Ice Beam"
       ],
-      "index": 317
+      "index": 275
     },
     "Cooltrainer F #2": {
       "level": 90,
@@ -15635,11 +17431,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
+        "Soft-Boiled",
         "Thunderbolt",
-        "Ice Beam",
-        "Soft-Boiled"
+        "Ice Beam"
       ],
-      "index": 342
+      "index": 363
     },
     "Blaine": {
       "level": 84,
@@ -15656,7 +17453,7 @@ var SETDEX_RBY = {
         "Ice Beam",
         "Thunderbolt"
       ],
-      "index": 355
+      "index": 326
     },
     "Lance": {
       "level": 115,
@@ -15673,7 +17470,7 @@ var SETDEX_RBY = {
         "Ice Beam",
         "Thunderbolt"
       ],
-      "index": 402
+      "index": 372
     },
     "Nurse Joy": {
       "level": 92,
@@ -15690,7 +17487,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Ice Beam"
       ],
-      "index": 404
+      "index": 352
     },
     "Ranger": {
       "level": 94,
@@ -15702,11 +17499,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Thunder Wave",
+        "Soft-Boiled",
         "Thunderbolt",
-        "Ice Beam",
-        "Soft-Boiled"
+        "Ice Beam"
       ],
-      "index": 408
+      "index": 367
     }
   },
   "Psyduck": {
@@ -15725,7 +17523,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Hypnosis"
       ],
-      "index": 113
+      "index": 25
     }
   },
   "Onix": {
@@ -15739,9 +17537,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bind"
+        "Bind",
+        "Earthquake",
+        "Rock Slide"
       ],
-      "index": 115
+      "index": 50
     },
     "Hiker #4": {
       "level": 23,
@@ -15753,9 +17553,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bind"
+        "Bind",
+        "Earthquake",
+        "Rock Slide"
       ],
-      "index": 116
+      "index": 51
     },
     "Hiker #5": {
       "level": 38,
@@ -15767,9 +17569,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bind"
+        "Bind",
+        "Earthquake",
+        "Rock Slide"
       ],
-      "index": 117
+      "index": 99
     },
     "Hiker #7": {
       "level": 42,
@@ -15781,9 +17585,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bind"
+        "Bind",
+        "Earthquake",
+        "Rock Slide"
       ],
-      "index": 119
+      "index": 107
     },
     "Hiker #12": {
       "level": 41,
@@ -15795,9 +17601,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bind"
+        "Bind",
+        "Earthquake",
+        "Rock Slide"
       ],
-      "index": 124
+      "index": 113
     },
     "Hiker #16": {
       "level": 41,
@@ -15809,9 +17617,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bind"
+        "Bind",
+        "Earthquake",
+        "Rock Slide"
       ],
-      "index": 128
+      "index": 123
     },
     "Biker #12": {
       "level": 58,
@@ -15823,9 +17633,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bind"
+        "Bind",
+        "Earthquake",
+        "Rock Slide"
       ],
-      "index": 140
+      "index": 223
     },
     "Swimmer #6": {
       "level": 62,
@@ -15837,9 +17649,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Bind"
+        "Bind",
+        "Earthquake",
+        "Rock Slide"
       ],
-      "index": 172
+      "index": 296
     },
     "Brock": {
       "level": 16,
@@ -15856,7 +17670,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Body Slam"
       ],
-      "index": 350
+      "index": 10
     }
   },
   "Gastly": {
@@ -15870,9 +17684,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
       ],
-      "index": 117
+      "index": 99
     },
     "Rocket #4": {
       "level": 20,
@@ -15883,8 +17699,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 285
+      "moves": [
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
+      ],
+      "index": 26
     },
     "Rocket #37": {
       "level": 65,
@@ -15896,9 +17716,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
       ],
-      "index": 318
+      "index": 277
     },
     "Channeler #1": {
       "level": 22,
@@ -15909,8 +17731,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 377
+      "moves": [
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
+      ],
+      "index": 402
     },
     "Channeler #2": {
       "level": 24,
@@ -15921,8 +17747,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 378
+      "moves": [
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
+      ],
+      "index": 403
     },
     "Channeler #3": {
       "level": 23,
@@ -15933,8 +17763,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 379
+      "moves": [
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
+      ],
+      "index": 404
     },
     "Channeler #3 (2)": {
       "level": 23,
@@ -15945,8 +17779,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 379
+      "moves": [
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
+      ],
+      "index": 404
     },
     "Channeler #4": {
       "level": 24,
@@ -15957,8 +17795,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 380
+      "moves": [
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
+      ],
+      "index": 405
     },
     "Channeler #5": {
       "level": 47,
@@ -15970,9 +17812,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
       ],
-      "index": 381
+      "index": 160
     },
     "Channeler #6": {
       "level": 53,
@@ -15984,9 +17828,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
       ],
-      "index": 382
+      "index": 161
     },
     "Channeler #11": {
       "level": 24,
@@ -15997,8 +17843,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 387
+      "moves": [
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
+      ],
+      "index": 407
     },
     "Channeler #12": {
       "level": 49,
@@ -16010,9 +17860,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
       ],
-      "index": 388
+      "index": 165
     },
     "Channeler #13": {
       "level": 24,
@@ -16023,8 +17875,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 389
+      "moves": [
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
+      ],
+      "index": 408
     },
     "Channeler #15": {
       "level": 25,
@@ -16035,8 +17891,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 391
+      "moves": [
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
+      ],
+      "index": 409
     },
     "Channeler #19": {
       "level": 44,
@@ -16048,9 +17908,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Hypnosis",
+        "Confuse Ray",
+        "Night Shade"
       ],
-      "index": 395
+      "index": 170
     }
   },
   "Haunter": {
@@ -16064,9 +17926,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
       ],
-      "index": 119
+      "index": 107
     },
     "Hiker #9": {
       "level": 41,
@@ -16078,7 +17942,9 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
       ],
       "index": 121
     },
@@ -16092,9 +17958,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
       ],
-      "index": 126
+      "index": 115
     },
     "Cue Ball #1": {
       "level": 59,
@@ -16106,10 +17974,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confuse Ray",
         "Hypnosis",
+        "Night Shade",
         "Psychic"
       ],
-      "index": 182
+      "index": 232
     },
     "Juggler #3": {
       "level": 62,
@@ -16121,10 +17991,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confuse Ray",
         "Hypnosis",
+        "Night Shade",
         "Psychic"
       ],
-      "index": 221
+      "index": 235
     },
     "Rocket #6": {
       "level": 22,
@@ -16135,8 +18007,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 287
+      "moves": [
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
+      ],
+      "index": 42
     },
     "Rocket #13": {
       "level": 47,
@@ -16148,9 +18024,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
       ],
-      "index": 294
+      "index": 149
     },
     "Rocket #16": {
       "level": 50,
@@ -16162,9 +18040,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
       ],
-      "index": 297
+      "index": 152
     },
     "Rocket #19": {
       "level": 50,
@@ -16176,9 +18056,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
       ],
-      "index": 300
+      "index": 173
     },
     "Rocket #37": {
       "level": 65,
@@ -16190,10 +18072,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confuse Ray",
         "Hypnosis",
+        "Night Shade",
         "Psychic"
       ],
-      "index": 318
+      "index": 277
     },
     "Channeler #5": {
       "level": 47,
@@ -16205,9 +18089,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
       ],
-      "index": 381
+      "index": 160
     },
     "Channeler #6": {
       "level": 53,
@@ -16219,9 +18105,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
       ],
-      "index": 382
+      "index": 161
     },
     "Channeler #7": {
       "level": 24,
@@ -16232,8 +18120,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 383
+      "moves": [
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
+      ],
+      "index": 406
     },
     "Channeler #12": {
       "level": 49,
@@ -16245,9 +18137,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
       ],
-      "index": 388
+      "index": 165
     },
     "Channeler #18": {
       "level": 48,
@@ -16259,9 +18153,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
       ],
-      "index": 394
+      "index": 169
     },
     "Channeler #19": {
       "level": 44,
@@ -16273,9 +18169,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hypnosis"
+        "Confuse Ray",
+        "Hypnosis",
+        "Night Shade"
       ],
-      "index": 395
+      "index": 170
     },
     "Channeler #24": {
       "level": 72,
@@ -16287,10 +18185,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confuse Ray",
         "Hypnosis",
+        "Night Shade",
         "Psychic"
       ],
-      "index": 400
+      "index": 290
     }
   },
   "Kadabra": {
@@ -16305,6 +18205,7 @@ var SETDEX_RBY = {
       },
       "moves": [
         "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic"
       ],
@@ -16320,12 +18221,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 187
+      "index": 226
     },
     "Psychic #1": {
       "level": 69,
@@ -16337,12 +18238,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 213
+      "index": 284
     },
     "Juggler #3": {
       "level": 62,
@@ -16354,12 +18255,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 221
+      "index": 235
     },
     "Juggler #8": {
       "level": 61,
@@ -16371,26 +18272,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 226
-    },
-    "Rival #3": {
-      "level": 19,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Psybeam"
-      ],
-      "index": 261
+      "index": 238
     },
     "Scientist #5": {
       "level": 65,
@@ -16402,12 +18289,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 270
+      "index": 256
     },
     "Scientist #7": {
       "level": 66,
@@ -16419,12 +18306,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 272
+      "index": 263
     },
     "Scientist #11": {
       "level": 66,
@@ -16436,12 +18323,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 276
+      "index": 279
     },
     "Rocket #4": {
       "level": 20,
@@ -16453,9 +18340,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam"
+        "Kinesis",
+        "Psybeam",
+        "Thunder Wave"
       ],
-      "index": 285
+      "index": 26
     },
     "Rocket #11": {
       "level": 46,
@@ -16467,12 +18356,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 292
+      "index": 147
     },
     "Rocket #17": {
       "level": 50,
@@ -16484,12 +18373,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 298
+      "index": 153
     },
     "Rocket #19": {
       "level": 50,
@@ -16501,12 +18390,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 300
+      "index": 173
     },
     "Channeler #10": {
       "level": 47,
@@ -16518,12 +18407,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 386
+      "index": 164
     },
     "Channeler #24": {
       "level": 72,
@@ -16535,12 +18424,28 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Psybeam",
+        "Thunder Wave",
         "Recover",
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 400
+      "index": 290
+    },
+    "Rival - Cerulean City": {
+      "level": 19,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Kinesis",
+        "Psybeam",
+        "Thunder Wave"
+      ],
+      "index": 34
     }
   },
   "Drowzee": {
@@ -16554,6 +18459,7 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confusion",
         "Thunder Wave",
         "Toxic",
         "Psychic"
@@ -16570,11 +18476,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confusion",
         "Thunder Wave",
         "Toxic",
         "Psychic"
       ],
-      "index": 132
+      "index": 211
     },
     "Biker #12": {
       "level": 58,
@@ -16586,11 +18493,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confusion",
         "Thunder Wave",
         "Toxic",
         "Psychic"
       ],
-      "index": 140
+      "index": 223
     },
     "Juggler #1": {
       "level": 65,
@@ -16602,11 +18510,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confusion",
         "Thunder Wave",
         "Toxic",
         "Psychic"
       ],
-      "index": 219
+      "index": 259
     },
     "Juggler #4": {
       "level": 61,
@@ -16618,11 +18527,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confusion",
         "Thunder Wave",
         "Toxic",
         "Psychic"
       ],
-      "index": 222
+      "index": 236
     },
     "Rocket #3": {
       "level": 19,
@@ -16634,10 +18544,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hypnosis",
+        "Confusion",
         "Thunder Wave",
         "Toxic"
       ],
-      "index": 284
+      "index": 29
     },
     "Rocket #22": {
       "level": 26,
@@ -16649,11 +18561,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confusion",
         "Thunder Wave",
         "Toxic",
         "Psychic"
       ],
-      "index": 303
+      "index": 391
     },
     "Channeler #10": {
       "level": 47,
@@ -16665,11 +18578,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confusion",
         "Thunder Wave",
         "Toxic",
         "Psychic"
       ],
-      "index": 386
+      "index": 164
     },
     "Channeler #19": {
       "level": 44,
@@ -16681,11 +18595,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confusion",
         "Thunder Wave",
         "Toxic",
         "Psychic"
       ],
-      "index": 395
+      "index": 170
     },
     "Channeler #23": {
       "level": 73,
@@ -16697,11 +18612,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Confusion",
         "Thunder Wave",
         "Toxic",
         "Psychic"
       ],
-      "index": 399
+      "index": 289
     }
   },
   "Hitmonlee": {
@@ -16715,9 +18631,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hi Jump Kick"
+        "High Jump Kick",
+        "Body Slam",
+        "Seismic Toss"
       ],
-      "index": 123
+      "index": 101
     },
     "Blackbelt #1": {
       "level": 67,
@@ -16729,12 +18647,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hi Jump Kick",
+        "High Jump Kick",
         "Mega Kick",
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 250
+      "index": 243
     },
     "Blackbelt #2": {
       "level": 66,
@@ -16746,9 +18664,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hi Jump Kick"
+        "High Jump Kick",
+        "Body Slam",
+        "Seismic Toss"
       ],
-      "index": 251
+      "index": 244
     },
     "Rocket #29": {
       "level": 67,
@@ -16760,9 +18680,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Hi Jump Kick"
+        "High Jump Kick",
+        "Body Slam",
+        "Seismic Toss"
       ],
-      "index": 310
+      "index": 262
     }
   },
   "Sandslash": {
@@ -16776,11 +18698,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
+        "Dig",
         "Slash",
+        "Sand Attack",
         "Rock Slide"
       ],
-      "index": 123
+      "index": 101
     },
     "Hiker #14": {
       "level": 41,
@@ -16792,12 +18715,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
         "Slash",
+        "Sand Attack",
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 126
+      "index": 115
     },
     "Cue Ball #2": {
       "level": 59,
@@ -16809,12 +18732,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash",
+        "Sand Attack",
         "Rock Slide",
         "Earthquake",
         "Body Slam"
       ],
-      "index": 183
+      "index": 233
     },
     "Beauty #1": {
       "level": 45,
@@ -16826,12 +18749,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
         "Slash",
+        "Sand Attack",
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 198
+      "index": 138
     },
     "Beauty #4": {
       "level": 53,
@@ -16843,12 +18766,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash",
+        "Sand Attack",
         "Rock Slide",
         "Earthquake",
         "Body Slam"
       ],
-      "index": 201
+      "index": 191
     },
     "Tamer #4": {
       "level": 81,
@@ -16860,12 +18783,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash",
+        "Sand Attack",
         "Rock Slide",
         "Earthquake",
         "Body Slam"
       ],
-      "index": 230
+      "index": 337
     },
     "Rocket #28": {
       "level": 66,
@@ -16877,12 +18800,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash",
+        "Sand Attack",
         "Rock Slide",
         "Earthquake",
         "Body Slam"
       ],
-      "index": 309
+      "index": 261
     },
     "Cooltrainer M #9": {
       "level": 83,
@@ -16894,12 +18817,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash",
+        "Sand Attack",
         "Rock Slide",
         "Earthquake",
         "Body Slam"
       ],
-      "index": 339
+      "index": 342
     },
     "Gentleman #3": {
       "level": 31,
@@ -16911,62 +18834,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Sand-Attack",
+        "Dig",
         "Slash",
+        "Sand Attack",
         "Rock Slide"
       ],
-      "index": 359
-    },
-    "Rival #5": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Sand-Attack",
-        "Slash",
-        "Body Slam",
-        "Earthquake"
-      ],
-      "index": 367
-    },
-    "Rival #6": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Sand-Attack",
-        "Slash",
-        "Body Slam",
-        "Earthquake"
-      ],
-      "index": 368
-    },
-    "Rival #7": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Sand-Attack",
-        "Slash",
-        "Body Slam",
-        "Earthquake"
-      ],
-      "index": 369
+      "index": 79
     },
     "Lorelei": {
       "level": 115,
@@ -16983,7 +18856,7 @@ var SETDEX_RBY = {
         "Dig",
         "Body Slam"
       ],
-      "index": 376
+      "index": 369
     },
     "AJ": {
       "level": 93,
@@ -16995,12 +18868,63 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash",
+        "Sand Attack",
         "Rock Slide",
         "Earthquake",
         "Body Slam"
       ],
-      "index": 409
+      "index": 368
+    },
+    "Rival - Silph Co. #1": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Sand Attack",
+        "Slash",
+        "Body Slam",
+        "Earthquake"
+      ],
+      "index": 270
+    },
+    "Rival - Silph Co. #2": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Sand Attack",
+        "Slash",
+        "Body Slam",
+        "Earthquake"
+      ],
+      "index": 271
+    },
+    "Rival - Silph Co. #3": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Sand Attack",
+        "Slash",
+        "Body Slam",
+        "Earthquake"
+      ],
+      "index": 272
     }
   },
   "Mr. Mime": {
@@ -17013,8 +18937,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 125
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 114
     },
     "Cue Ball #1": {
       "level": 59,
@@ -17025,8 +18954,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 182
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 232
     },
     "Gambler #1": {
       "level": 26,
@@ -17037,8 +18971,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 191
+      "moves": [
+        "Psybeam",
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt"
+      ],
+      "index": 67
     },
     "Psychic #1": {
       "level": 69,
@@ -17049,8 +18988,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 213
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 284
     },
     "Psychic #2": {
       "level": 69,
@@ -17061,8 +19005,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 214
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 285
     },
     "Psychic #4": {
       "level": 73,
@@ -17073,8 +19022,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 216
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 287
     },
     "Juggler #1": {
       "level": 65,
@@ -17085,8 +19039,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 219
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 259
     },
     "Juggler #3": {
       "level": 62,
@@ -17097,8 +19056,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 221
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 235
     },
     "Juggler #4": {
       "level": 61,
@@ -17109,8 +19073,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 222
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 236
     },
     "Rocket #5": {
       "level": 24,
@@ -17121,8 +19090,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 286
+      "moves": [
+        "Psybeam",
+        "Thunder Wave",
+        "Hypnosis"
+      ],
+      "index": 35
     },
     "Rocket #9": {
       "level": 45,
@@ -17133,8 +19106,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 290
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 145
     },
     "Rocket #14": {
       "level": 47,
@@ -17145,8 +19123,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 295
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 150
     },
     "Rocket #21": {
       "level": 51,
@@ -17157,8 +19140,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 302
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 175
     },
     "Cooltrainer M #5": {
       "level": 88,
@@ -17169,8 +19157,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 335
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 350
     },
     "Koga": {
       "level": 66,
@@ -17187,7 +19180,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Psychic"
       ],
-      "index": 354
+      "index": 242
     },
     "Channeler #23": {
       "level": 73,
@@ -17198,8 +19191,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 399
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 289
     },
     "Channeler #24": {
       "level": 72,
@@ -17210,8 +19208,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 400
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 290
     },
     "Janine": {
       "level": 66,
@@ -17222,8 +19225,13 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 403
+      "moves": [
+        "Thunder Wave",
+        "Hypnosis",
+        "Thunderbolt",
+        "Psychic"
+      ],
+      "index": 241
     }
   },
   "Alakazam": {
@@ -17237,10 +19245,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Recover",
-        "Psychic"
+        "Thunder Wave",
+        "Psychic",
+        "Recover"
       ],
-      "index": 127
+      "index": 349
     },
     "Burglar #9": {
       "level": 75,
@@ -17252,10 +19261,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Recover",
-        "Psychic"
+        "Thunder Wave",
+        "Psychic",
+        "Recover"
       ],
-      "index": 152
+      "index": 316
     },
     "Psychic #1": {
       "level": 69,
@@ -17267,10 +19277,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Recover",
-        "Psychic"
+        "Thunder Wave",
+        "Psychic",
+        "Recover"
       ],
-      "index": 213
+      "index": 284
     },
     "Psychic #2": {
       "level": 69,
@@ -17282,10 +19293,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Recover",
-        "Psychic"
+        "Thunder Wave",
+        "Psychic",
+        "Recover"
       ],
-      "index": 214
+      "index": 285
     },
     "Juggler #2": {
       "level": 90,
@@ -17297,10 +19309,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Recover",
-        "Psychic"
+        "Thunder Wave",
+        "Psychic",
+        "Recover"
       ],
-      "index": 220
+      "index": 356
     },
     "Scientist #4": {
       "level": 65,
@@ -17312,10 +19325,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Recover",
-        "Psychic"
+        "Thunder Wave",
+        "Psychic",
+        "Recover"
       ],
-      "index": 269
+      "index": 253
     },
     "Scientist #7": {
       "level": 66,
@@ -17327,10 +19341,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Recover",
-        "Psychic"
+        "Thunder Wave",
+        "Psychic",
+        "Recover"
       ],
-      "index": 272
+      "index": 263
     },
     "Rocket #16": {
       "level": 50,
@@ -17342,10 +19357,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Recover",
-        "Psychic"
+        "Thunder Wave",
+        "Psychic",
+        "Recover"
       ],
-      "index": 297
+      "index": 152
     },
     "Rocket #40": {
       "level": 69,
@@ -17357,10 +19373,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Recover",
-        "Psychic"
+        "Thunder Wave",
+        "Psychic",
+        "Recover"
       ],
-      "index": 321
+      "index": 281
     },
     "Cooltrainer M #1": {
       "level": 82,
@@ -17372,10 +19389,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Recover",
-        "Psychic"
+        "Thunder Wave",
+        "Psychic",
+        "Recover"
       ],
-      "index": 331
+      "index": 341
     },
     "Cooltrainer F #2": {
       "level": 90,
@@ -17387,10 +19405,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Recover",
-        "Psychic"
+        "Thunder Wave",
+        "Psychic",
+        "Recover"
       ],
-      "index": 342
+      "index": 363
     },
     "Cooltrainer F #5": {
       "level": 90,
@@ -17402,10 +19421,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Recover",
-        "Psychic"
+        "Thunder Wave",
+        "Psychic",
+        "Recover"
       ],
-      "index": 345
+      "index": 351
     },
     "Sabrina": {
       "level": 75,
@@ -17421,7 +19441,7 @@ var SETDEX_RBY = {
         "Recover",
         "Psychic"
       ],
-      "index": 356
+      "index": 291
     },
     "Agatha": {
       "level": 115,
@@ -17437,7 +19457,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 401
+      "index": 371
     }
   },
   "Arcanine": {
@@ -17450,8 +19470,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 129
+      "moves": [
+        "Fire Blast",
+        "Body Slam",
+        "Dig"
+      ],
+      "index": 190
     },
     "Burglar #5": {
       "level": 77,
@@ -17462,8 +19486,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 148
+      "moves": [
+        "Fire Blast",
+        "Body Slam",
+        "Dig"
+      ],
+      "index": 324
     },
     "Burglar #6": {
       "level": 78,
@@ -17474,8 +19502,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 149
+      "moves": [
+        "Fire Blast",
+        "Body Slam",
+        "Dig"
+      ],
+      "index": 325
     },
     "Beauty #8": {
       "level": 68,
@@ -17486,8 +19518,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 205
+      "moves": [
+        "Fire Blast",
+        "Body Slam",
+        "Dig"
+      ],
+      "index": 309
     },
     "Gentleman #1": {
       "level": 27,
@@ -17498,59 +19534,12 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 357
-    },
-    "Rival #5": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
       "moves": [
         "Fire Blast",
         "Body Slam",
-        "Dig",
-        "Hyper Beam"
+        "Dig"
       ],
-      "index": 367
-    },
-    "Rival #6": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Fire Blast",
-        "Body Slam",
-        "Dig",
-        "Hyper Beam"
-      ],
-      "index": 368
-    },
-    "Rival #7": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Fire Blast",
-        "Body Slam",
-        "Dig",
-        "Hyper Beam"
-      ],
-      "index": 369
+      "index": 74
     },
     "Officer Jenny": {
       "level": 92,
@@ -17567,7 +19556,58 @@ var SETDEX_RBY = {
         "Body Slam",
         "Hyper Beam"
       ],
-      "index": 405
+      "index": 353
+    },
+    "Rival - Silph Co. #1": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Fire Blast",
+        "Body Slam",
+        "Dig",
+        "Hyper Beam"
+      ],
+      "index": 270
+    },
+    "Rival - Silph Co. #2": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Fire Blast",
+        "Body Slam",
+        "Dig",
+        "Hyper Beam"
+      ],
+      "index": 271
+    },
+    "Rival - Silph Co. #3": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Fire Blast",
+        "Body Slam",
+        "Dig",
+        "Hyper Beam"
+      ],
+      "index": 272
     }
   },
   "Arbok": {
@@ -17581,10 +19621,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare",
         "Fissure"
       ],
-      "index": 131
+      "index": 210
     },
     "Gambler #1": {
       "level": 26,
@@ -17596,10 +19637,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare",
         "Fissure"
       ],
-      "index": 191
+      "index": 67
     },
     "Gambler #4": {
       "level": 25,
@@ -17611,10 +19653,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare",
         "Fissure"
       ],
-      "index": 194
+      "index": 70
     },
     "Gambler #5": {
       "level": 44,
@@ -17626,10 +19669,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare",
         "Fissure"
       ],
-      "index": 195
+      "index": 131
     },
     "Tamer #1": {
       "level": 62,
@@ -17641,10 +19685,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare",
         "Fissure"
       ],
-      "index": 227
+      "index": 239
     },
     "Tamer #2": {
       "level": 62,
@@ -17656,10 +19701,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare",
         "Fissure"
       ],
-      "index": 228
+      "index": 240
     },
     "Tamer #4": {
       "level": 81,
@@ -17671,10 +19717,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare",
         "Fissure"
       ],
-      "index": 230
+      "index": 337
     },
     "Tamer #6": {
       "level": 60,
@@ -17686,10 +19733,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare",
         "Fissure"
       ],
-      "index": 232
+      "index": 388
     },
     "Scientist #1": {
       "level": 73,
@@ -17701,10 +19749,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare",
         "Fissure"
       ],
-      "index": 266
+      "index": 312
     },
     "Rocket #2": {
       "level": 18,
@@ -17716,9 +19765,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare"
       ],
-      "index": 283
+      "index": 28
     },
     "Rocket #32": {
       "level": 67,
@@ -17730,10 +19780,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare",
         "Fissure"
       ],
-      "index": 313
+      "index": 267
     },
     "Rocket #35": {
       "level": 66,
@@ -17745,10 +19796,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare",
         "Fissure"
       ],
-      "index": 316
+      "index": 274
     },
     "Rocket #42": {
       "level": 20,
@@ -17764,7 +19816,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Fissure"
       ],
-      "index": 323
+      "index": 31
     },
     "Rocket #43": {
       "level": 55,
@@ -17781,7 +19833,7 @@ var SETDEX_RBY = {
         "Fissure",
         "Glare"
       ],
-      "index": 324
+      "index": 155
     },
     "Rocket #44": {
       "level": 60,
@@ -17798,7 +19850,7 @@ var SETDEX_RBY = {
         "Fissure",
         "Earthquake"
       ],
-      "index": 325
+      "index": 176
     },
     "Rocket #46": {
       "level": 82,
@@ -17815,7 +19867,7 @@ var SETDEX_RBY = {
         "Lick",
         "Wrap"
       ],
-      "index": 327
+      "index": 318
     },
     "Channeler #20": {
       "level": 44,
@@ -17827,10 +19879,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Wrap",
         "Glare",
         "Fissure"
       ],
-      "index": 396
+      "index": 171
     }
   },
   "Dodrio": {
@@ -17844,9 +19897,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 133
+      "index": 229
     },
     "Bird Keeper #1": {
       "level": 53,
@@ -17858,9 +19913,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 233
+      "index": 193
     },
     "Bird Keeper #3": {
       "level": 54,
@@ -17872,9 +19929,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 235
+      "index": 195
     },
     "Bird Keeper #7": {
       "level": 56,
@@ -17886,9 +19945,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 239
+      "index": 215
     },
     "Bird Keeper #8": {
       "level": 57,
@@ -17900,9 +19961,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 240
+      "index": 216
     },
     "Bird Keeper #11": {
       "level": 65,
@@ -17914,9 +19977,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 243
+      "index": 311
     },
     "Bird Keeper #15": {
       "level": 55,
@@ -17928,9 +19993,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 247
+      "index": 203
     },
     "Blackbelt #9": {
       "level": 90,
@@ -17942,9 +20009,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 258
+      "index": 358
     },
     "Rocket #10": {
       "level": 46,
@@ -17956,9 +20025,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 291
+      "index": 146
     },
     "Rocket #30": {
       "level": 64,
@@ -17970,11 +20041,13 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Body Slam",
+        "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 311
+      "index": 264
     },
-    "Rival #5": {
+    "Rival - Silph Co. #1": {
       "level": 70,
       "dvs": {
         "hp": 8,
@@ -17989,9 +20062,9 @@ var SETDEX_RBY = {
         "Body Slam",
         "Drill Peck"
       ],
-      "index": 367
+      "index": 270
     },
-    "Rival #6": {
+    "Rival - Silph Co. #2": {
       "level": 70,
       "dvs": {
         "hp": 8,
@@ -18006,9 +20079,9 @@ var SETDEX_RBY = {
         "Body Slam",
         "Drill Peck"
       ],
-      "index": 368
+      "index": 271
     },
-    "Rival #7": {
+    "Rival - Silph Co. #3": {
       "level": 70,
       "dvs": {
         "hp": 8,
@@ -18023,7 +20096,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Drill Peck"
       ],
-      "index": 369
+      "index": 272
     }
   },
   "Omastar": {
@@ -18037,10 +20110,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hydro Pump",
+        "Blizzard",
         "Seismic Toss",
-        "Hydro Pump"
+        "Body Slam"
       ],
-      "index": 149
+      "index": 325
     },
     "Swimmer #5": {
       "level": 62,
@@ -18052,10 +20127,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hydro Pump",
+        "Blizzard",
         "Seismic Toss",
-        "Hydro Pump"
+        "Body Slam"
       ],
-      "index": 171
+      "index": 295
     },
     "Swimmer #15": {
       "level": 70,
@@ -18067,10 +20144,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hydro Pump",
+        "Blizzard",
         "Seismic Toss",
-        "Hydro Pump"
+        "Body Slam"
       ],
-      "index": 181
+      "index": 334
     },
     "Beauty #2": {
       "level": 47,
@@ -18082,9 +20161,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Seismic Toss"
+        "Hydro Pump",
+        "Blizzard",
+        "Seismic Toss",
+        "Body Slam"
       ],
-      "index": 199
+      "index": 139
     },
     "Scientist #2": {
       "level": 67,
@@ -18096,10 +20178,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hydro Pump",
+        "Blizzard",
         "Seismic Toss",
-        "Hydro Pump"
+        "Body Slam"
       ],
-      "index": 267
+      "index": 249
     },
     "Scientist #3": {
       "level": 64,
@@ -18111,10 +20195,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hydro Pump",
+        "Blizzard",
         "Seismic Toss",
-        "Hydro Pump"
+        "Body Slam"
       ],
-      "index": 268
+      "index": 250
     },
     "Rocket #34": {
       "level": 66,
@@ -18126,10 +20212,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Hydro Pump",
+        "Blizzard",
         "Seismic Toss",
-        "Hydro Pump"
+        "Body Slam"
       ],
-      "index": 315
+      "index": 269
     }
   },
   "Magneton": {
@@ -18143,9 +20231,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge"
+        "Thunder Wave",
+        "Thunderbolt",
+        "Double Team",
+        "Double-Edge"
       ],
-      "index": 149
+      "index": 325
     },
     "Engineer #2": {
       "level": 26,
@@ -18157,9 +20248,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge"
+        "Thunder Wave",
+        "Thunderbolt",
+        "Double Team",
+        "Double-Edge"
       ],
-      "index": 154
+      "index": 65
     },
     "Rocker #1": {
       "level": 34,
@@ -18171,9 +20265,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge"
+        "Thunder Wave",
+        "Thunderbolt",
+        "Double Team",
+        "Double-Edge"
       ],
-      "index": 217
+      "index": 91
     },
     "Bird Keeper #2": {
       "level": 54,
@@ -18185,9 +20282,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge"
+        "Thunder Wave",
+        "Thunderbolt",
+        "Double Team",
+        "Double-Edge"
       ],
-      "index": 234
+      "index": 194
     },
     "SHF Victory Road": {
       "level": 110,
@@ -18204,7 +20304,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 265
+      "index": 359
     },
     "Scientist #7": {
       "level": 66,
@@ -18216,9 +20316,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge"
+        "Thunder Wave",
+        "Thunderbolt",
+        "Double Team",
+        "Double-Edge"
       ],
-      "index": 272
+      "index": 263
     },
     "Scientist #12": {
       "level": 71,
@@ -18230,9 +20333,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge"
+        "Thunder Wave",
+        "Thunderbolt",
+        "Double Team",
+        "Double-Edge"
       ],
-      "index": 277
+      "index": 315
     },
     "Rocket #10": {
       "level": 46,
@@ -18244,9 +20350,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Double Edge"
+        "Thunder Wave",
+        "Thunderbolt",
+        "Double Team",
+        "Double-Edge"
       ],
-      "index": 291
+      "index": 146
     },
     "Lt. Surge": {
       "level": 39,
@@ -18261,9 +20370,9 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Double Team",
         "Thunderbolt",
-        "Double Edge"
+        "Double-Edge"
       ],
-      "index": 352
+      "index": 93
     }
   },
   "Porygon": {
@@ -18277,10 +20386,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Conversion",
+        "Psybeam",
         "Blizzard",
         "Recover"
       ],
-      "index": 154
+      "index": 65
     },
     "Engineer #3": {
       "level": 26,
@@ -18292,10 +20403,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Conversion",
+        "Psybeam",
         "Blizzard",
         "Recover"
       ],
-      "index": 155
+      "index": 66
     },
     "Bird Keeper #4": {
       "level": 55,
@@ -18312,7 +20425,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 236
+      "index": 200
     },
     "Bird Keeper #11": {
       "level": 65,
@@ -18329,7 +20442,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 243
+      "index": 311
     },
     "Scientist #2": {
       "level": 67,
@@ -18346,7 +20459,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 267
+      "index": 249
     },
     "Scientist #6": {
       "level": 66,
@@ -18363,7 +20476,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 271
+      "index": 260
     },
     "Scientist #7": {
       "level": 66,
@@ -18380,7 +20493,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 272
+      "index": 263
     },
     "Rocket #14": {
       "level": 47,
@@ -18397,7 +20510,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 295
+      "index": 150
     },
     "Rocket #45": {
       "level": 72,
@@ -18414,7 +20527,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunderbolt"
       ],
-      "index": 326
+      "index": 282
     },
     "Rocket #46": {
       "level": 82,
@@ -18431,7 +20544,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Recover"
       ],
-      "index": 327
+      "index": 318
     },
     "Rocket #47": {
       "level": 90,
@@ -18448,7 +20561,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunderbolt"
       ],
-      "index": 328
+      "index": 344
     },
     "Lt. Surge": {
       "level": 39,
@@ -18465,7 +20578,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 352
+      "index": 93
     },
     "Gentleman #2": {
       "level": 28,
@@ -18477,11 +20590,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Psybeam",
         "Blizzard",
         "Recover",
         "Thunderbolt"
       ],
-      "index": 358
+      "index": 75
     },
     "Soldier": {
       "level": 92,
@@ -18498,7 +20612,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 407
+      "index": 366
     }
   },
   "Lapras": {
@@ -18517,7 +20631,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 160
+      "index": 181
     },
     "Fisherman #10": {
       "level": 70,
@@ -18534,7 +20648,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 165
+      "index": 330
     },
     "Scientist #7": {
       "level": 66,
@@ -18551,7 +20665,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 272
+      "index": 263
     },
     "Scientist #10": {
       "level": 66,
@@ -18568,7 +20682,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 275
+      "index": 276
     },
     "Scientist #11": {
       "level": 66,
@@ -18585,7 +20699,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 276
+      "index": 279
     },
     "Scientist #13": {
       "level": 73,
@@ -18602,7 +20716,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 278
+      "index": 317
     },
     "Rocket #25": {
       "level": 66,
@@ -18619,7 +20733,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 306
+      "index": 254
     },
     "Rocket #30": {
       "level": 64,
@@ -18636,7 +20750,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 311
+      "index": 264
     },
     "Cooltrainer F #1": {
       "level": 50,
@@ -18653,7 +20767,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 341
+      "index": 141
     },
     "Cooltrainer F #3": {
       "level": 90,
@@ -18670,7 +20784,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Surf"
       ],
-      "index": 343
+      "index": 364
     },
     "Lorelei": {
       "level": 115,
@@ -18687,7 +20801,7 @@ var SETDEX_RBY = {
         "Surf",
         "Body Slam"
       ],
-      "index": 376
+      "index": 369
     },
     "Channeler #16": {
       "level": 47,
@@ -18704,7 +20818,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 392
+      "index": 167
     },
     "Channeler #23": {
       "level": 73,
@@ -18721,7 +20835,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 399
+      "index": 289
     },
     "Lance": {
       "level": 115,
@@ -18738,7 +20852,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 402
+      "index": 372
     }
   },
   "Magikarp": {
@@ -18752,9 +20866,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Splash",
+        "Bubble",
         "Tackle"
       ],
-      "index": 164
+      "index": 329
     },
     "Fisherman #9 (2)": {
       "level": 100,
@@ -18766,9 +20882,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Splash",
+        "Bubble",
         "Tackle"
       ],
-      "index": 164
+      "index": 329
     },
     "Rocket #42": {
       "level": 20,
@@ -18780,9 +20898,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Dragon Rage"
+        "Dragon Rage",
+        "Bubble",
+        "Tackle"
       ],
-      "index": 323
+      "index": 31
     }
   },
   "Abra": {
@@ -18795,8 +20915,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 187
+      "moves": [
+        "Confusion",
+        "Kinesis"
+      ],
+      "index": 226
     },
     "Rocket #2": {
       "level": 18,
@@ -18807,8 +20930,11 @@ var SETDEX_RBY = {
         "sl": 8,
         "sp": 8
       },
-      "moves": [],
-      "index": 283
+      "moves": [
+        "Confusion",
+        "Kinesis"
+      ],
+      "index": 28
     }
   },
   "Tauros": {
@@ -18827,7 +20953,7 @@ var SETDEX_RBY = {
         "Fissure",
         "Earthquake"
       ],
-      "index": 196
+      "index": 355
     },
     "Tamer #6": {
       "level": 60,
@@ -18839,9 +20965,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake"
+        "Body Slam",
+        "Earthquake",
+        "Hyper Beam"
       ],
-      "index": 232
+      "index": 388
     },
     "Blackbelt #2": {
       "level": 66,
@@ -18853,9 +20981,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake"
+        "Body Slam",
+        "Earthquake",
+        "Hyper Beam"
       ],
-      "index": 251
+      "index": 244
     },
     "Blackbelt #4": {
       "level": 65,
@@ -18867,9 +20997,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake"
+        "Body Slam",
+        "Earthquake",
+        "Hyper Beam"
       ],
-      "index": 253
+      "index": 246
     },
     "SHF Cerulean Cave": {
       "level": 127,
@@ -18886,7 +21018,7 @@ var SETDEX_RBY = {
         "Fissure",
         "Blizzard"
       ],
-      "index": 264
+      "index": 376
     },
     "SHF Victory Road": {
       "level": 110,
@@ -18903,7 +21035,7 @@ var SETDEX_RBY = {
         "Fissure",
         "Blizzard"
       ],
-      "index": 265
+      "index": 359
     },
     "Giovanni": {
       "level": 55,
@@ -18920,7 +21052,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Fissure"
       ],
-      "index": 279
+      "index": 156
     },
     "Giovanni #2": {
       "level": 72,
@@ -18936,7 +21068,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Earthquake"
       ],
-      "index": 280
+      "index": 283
     },
     "Giovanni #3": {
       "level": 90,
@@ -18953,7 +21085,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Fissure"
       ],
-      "index": 281
+      "index": 345
     },
     "Rocket #40": {
       "level": 69,
@@ -18965,9 +21097,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake"
+        "Body Slam",
+        "Earthquake",
+        "Hyper Beam"
       ],
-      "index": 321
+      "index": 281
     },
     "Cooltrainer M #2": {
       "level": 88,
@@ -18979,9 +21113,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake"
+        "Body Slam",
+        "Earthquake",
+        "Hyper Beam"
       ],
-      "index": 332
+      "index": 361
     },
     "Cooltrainer M #3": {
       "level": 92,
@@ -18993,9 +21129,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake"
+        "Body Slam",
+        "Earthquake",
+        "Hyper Beam"
       ],
-      "index": 333
+      "index": 362
     },
     "Cooltrainer M #10": {
       "level": 84,
@@ -19007,9 +21145,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake"
+        "Body Slam",
+        "Earthquake",
+        "Hyper Beam"
       ],
-      "index": 340
+      "index": 343
     },
     "Cooltrainer F #2": {
       "level": 90,
@@ -19021,9 +21161,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake"
+        "Body Slam",
+        "Earthquake",
+        "Hyper Beam"
       ],
-      "index": 342
+      "index": 363
     },
     "Bruno": {
       "level": 68,
@@ -19040,9 +21182,9 @@ var SETDEX_RBY = {
         "Body Slam",
         "Thunderbolt"
       ],
-      "index": 349
+      "index": 248
     },
-    "Rival #8": {
+    "Rival - Route 22 #1": {
       "level": 90,
       "dvs": {
         "hp": 8,
@@ -19057,9 +21199,9 @@ var SETDEX_RBY = {
         "Earthquake",
         "Fissure"
       ],
-      "index": 370
+      "index": 346
     },
-    "Rival #9": {
+    "Rival - Route 22 #2": {
       "level": 90,
       "dvs": {
         "hp": 8,
@@ -19074,9 +21216,9 @@ var SETDEX_RBY = {
         "Earthquake",
         "Fissure"
       ],
-      "index": 371
+      "index": 347
     },
-    "Rival #10": {
+    "Rival - Route 22 #3": {
       "level": 90,
       "dvs": {
         "hp": 8,
@@ -19086,11 +21228,13 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Earthquake"
+        "Body Slam",
+        "Earthquake",
+        "Hyper Beam"
       ],
-      "index": 372
+      "index": 348
     },
-    "Rival #1": {
+    "Rival - Champion #1": {
       "level": 115,
       "dvs": {
         "hp": 8,
@@ -19106,7 +21250,7 @@ var SETDEX_RBY = {
       ],
       "index": 373
     },
-    "Rival #2": {
+    "Rival - Champion #2": {
       "level": 115,
       "dvs": {
         "hp": 8,
@@ -19122,7 +21266,7 @@ var SETDEX_RBY = {
       ],
       "index": 374
     },
-    "Rival #3": {
+    "Rival - Champion #3": {
       "level": 115,
       "dvs": {
         "hp": 8,
@@ -19150,10 +21294,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Rock Slide",
-        "Earthquake"
+        "Earthquake",
+        "Body Slam",
+        "Rock Slide"
       ],
-      "index": 209
+      "index": 299
     },
     "Blackbelt #8": {
       "level": 84,
@@ -19165,10 +21310,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Rock Slide",
-        "Earthquake"
+        "Earthquake",
+        "Body Slam",
+        "Rock Slide"
       ],
-      "index": 257
+      "index": 340
     },
     "Giovanni": {
       "level": 55,
@@ -19184,7 +21330,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Rock Slide"
       ],
-      "index": 279
+      "index": 156
     },
     "Rocket #30": {
       "level": 64,
@@ -19196,10 +21342,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Rock Slide",
-        "Earthquake"
+        "Earthquake",
+        "Body Slam",
+        "Rock Slide"
       ],
-      "index": 311
+      "index": 264
     },
     "Rocket #39": {
       "level": 68,
@@ -19211,10 +21358,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Rock Slide",
-        "Earthquake"
+        "Earthquake",
+        "Body Slam",
+        "Rock Slide"
       ],
-      "index": 320
+      "index": 280
     },
     "Rocket #41": {
       "level": 68,
@@ -19226,10 +21374,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Rock Slide",
-        "Earthquake"
+        "Earthquake",
+        "Body Slam",
+        "Rock Slide"
       ],
-      "index": 322
+      "index": 255
     },
     "Rocket #45": {
       "level": 72,
@@ -19245,7 +21394,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 326
+      "index": 282
     },
     "Rocket #47": {
       "level": 90,
@@ -19261,7 +21410,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 328
+      "index": 344
     },
     "Cooltrainer M #3": {
       "level": 92,
@@ -19273,10 +21422,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Rock Slide",
-        "Earthquake"
+        "Earthquake",
+        "Body Slam",
+        "Rock Slide"
       ],
-      "index": 333
+      "index": 362
     },
     "Cooltrainer M #10": {
       "level": 84,
@@ -19288,12 +21438,13 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Rock Slide",
-        "Earthquake"
+        "Earthquake",
+        "Body Slam",
+        "Rock Slide"
       ],
-      "index": 340
+      "index": 343
     },
-    "Rival #8": {
+    "Rival - Route 22 #1": {
       "level": 90,
       "dvs": {
         "hp": 8,
@@ -19308,9 +21459,9 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 370
+      "index": 346
     },
-    "Rival #9": {
+    "Rival - Route 22 #2": {
       "level": 90,
       "dvs": {
         "hp": 8,
@@ -19325,9 +21476,9 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 371
+      "index": 347
     },
-    "Rival #10": {
+    "Rival - Route 22 #3": {
       "level": 90,
       "dvs": {
         "hp": 8,
@@ -19337,10 +21488,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Rock Slide",
-        "Earthquake"
+        "Earthquake",
+        "Body Slam",
+        "Rock Slide"
       ],
-      "index": 372
+      "index": 348
     }
   },
   "Persian": {
@@ -19354,9 +21506,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Slash",
+        "Hypnosis"
       ],
-      "index": 209
+      "index": 299
     },
     "Juggler #5": {
       "level": 94,
@@ -19371,7 +21524,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 223
+      "index": 360
     },
     "Tamer #4": {
       "level": 81,
@@ -19386,7 +21539,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 230
+      "index": 337
     },
     "Tamer #5": {
       "level": 90,
@@ -19401,7 +21554,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 231
+      "index": 357
     },
     "Giovanni": {
       "level": 55,
@@ -19416,7 +21569,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Slash"
       ],
-      "index": 279
+      "index": 156
     },
     "Giovanni #2": {
       "level": 72,
@@ -19431,7 +21584,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Slash"
       ],
-      "index": 280
+      "index": 283
     },
     "Giovanni #3": {
       "level": 90,
@@ -19446,7 +21599,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Slash"
       ],
-      "index": 281
+      "index": 345
     },
     "Rocket #35": {
       "level": 66,
@@ -19461,7 +21614,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 316
+      "index": 274
     },
     "Rocket #36": {
       "level": 66,
@@ -19476,7 +21629,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 317
+      "index": 275
     },
     "Cooltrainer M #9": {
       "level": 83,
@@ -19491,7 +21644,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 339
+      "index": 342
     },
     "Cooltrainer F #5": {
       "level": 90,
@@ -19506,7 +21659,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 345
+      "index": 351
     },
     "Cooltrainer F #8": {
       "level": 55,
@@ -19518,9 +21671,10 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
-        "Slash"
+        "Slash",
+        "Hypnosis"
       ],
-      "index": 348
+      "index": 401
     }
   },
   "Hitmonchan": {
@@ -19534,9 +21688,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Submission",
+        "Body Slam",
         "Seismic Toss"
       ],
-      "index": 238
+      "index": 214
     },
     "Blackbelt #1": {
       "level": 67,
@@ -19551,9 +21707,9 @@ var SETDEX_RBY = {
         "Thunder Punch",
         "Ice Punch",
         "Earthquake",
-        "Hi Jump Kick"
+        "High Jump Kick"
       ],
-      "index": 250
+      "index": 243
     },
     "Blackbelt #5": {
       "level": 65,
@@ -19565,9 +21721,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Submission",
+        "Body Slam",
         "Seismic Toss"
       ],
-      "index": 254
+      "index": 247
     }
   },
   "Aerodactyl": {
@@ -19581,11 +21739,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Fly",
         "Razor Wind",
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 243
+      "index": 311
     },
     "SHF Cerulean Cave": {
       "level": 127,
@@ -19602,7 +21761,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 264
+      "index": 376
     },
     "SHF Victory Road": {
       "level": 110,
@@ -19619,7 +21778,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 265
+      "index": 359
     },
     "Scientist #3": {
       "level": 64,
@@ -19631,11 +21790,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Fly",
         "Razor Wind",
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 268
+      "index": 250
     },
     "Scientist #6": {
       "level": 66,
@@ -19647,11 +21807,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Fly",
         "Razor Wind",
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 271
+      "index": 260
     },
     "Scientist #9": {
       "level": 67,
@@ -19663,11 +21824,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Fly",
         "Razor Wind",
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 274
+      "index": 273
     },
     "Scientist #11": {
       "level": 66,
@@ -19679,11 +21841,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Fly",
         "Razor Wind",
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 276
+      "index": 279
     },
     "Scientist #12": {
       "level": 71,
@@ -19695,11 +21858,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Fly",
         "Razor Wind",
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 277
+      "index": 315
     },
     "Rocket #35": {
       "level": 66,
@@ -19711,11 +21875,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Fly",
         "Razor Wind",
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 316
+      "index": 274
     },
     "Cooltrainer M #2": {
       "level": 88,
@@ -19727,11 +21892,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Fly",
         "Razor Wind",
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 332
+      "index": 361
     },
     "Brock": {
       "level": 16,
@@ -19745,7 +21911,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fly"
       ],
-      "index": 350
+      "index": 10
     },
     "Lance": {
       "level": 115,
@@ -19762,11 +21928,230 @@ var SETDEX_RBY = {
         "Earthquake",
         "Twister"
       ],
-      "index": 402
+      "index": 372
     }
   },
   "Mew": {
-    "Rival #1": {
+    "Rival - Oak Lab": {
+      "level": 3,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Pound",
+        "Thunder Wave"
+      ],
+      "index": 1
+    },
+    "Rival - Route 22": {
+      "level": 10,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Pound",
+        "Thunder Wave",
+        "Soft-Boiled",
+        "Body Slam"
+      ],
+      "index": 2
+    },
+    "Rival - Cerulean City": {
+      "level": 20,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Soft-Boiled",
+        "Body Slam",
+        "Psychic"
+      ],
+      "index": 34
+    },
+    "Rival - SS Anne": {
+      "level": 31,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Psychic",
+        "Soft-Boiled",
+        "Body Slam"
+      ],
+      "index": 76
+    },
+    "Rival - Pokemon Tower #1": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Psychic",
+        "Soft-Boiled",
+        "Body Slam"
+      ],
+      "index": 157
+    },
+    "Rival - Pokemon Tower #2": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Psychic",
+        "Soft-Boiled",
+        "Body Slam"
+      ],
+      "index": 158
+    },
+    "Rival - Pokemon Tower #3": {
+      "level": 53,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Psychic",
+        "Soft-Boiled",
+        "Body Slam"
+      ],
+      "index": 159
+    },
+    "Rival - Silph Co. #1": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Psychic",
+        "Soft-Boiled",
+        "Body Slam"
+      ],
+      "index": 270
+    },
+    "Rival - Silph Co. #2": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Psychic",
+        "Soft-Boiled",
+        "Body Slam"
+      ],
+      "index": 271
+    },
+    "Rival - Silph Co. #3": {
+      "level": 70,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Psychic",
+        "Soft-Boiled",
+        "Body Slam"
+      ],
+      "index": 272
+    },
+    "Rival - Route 22 #1": {
+      "level": 91,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Recover",
+        "Ice Beam",
+        "Psychic"
+      ],
+      "index": 346
+    },
+    "Rival - Route 22 #2": {
+      "level": 91,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Recover",
+        "Ice Beam",
+        "Psychic"
+      ],
+      "index": 347
+    },
+    "Rival - Route 22 #3": {
+      "level": 91,
+      "dvs": {
+        "hp": 8,
+        "at": 9,
+        "df": 8,
+        "sl": 8,
+        "sp": 8
+      },
+      "moves": [
+        "Thunder Wave",
+        "Soft-Boiled",
+        "Body Slam",
+        "Psychic"
+      ],
+      "index": 348
+    },
+    "Rival - Champion #1": {
       "level": 115,
       "dvs": {
         "hp": 8,
@@ -19783,7 +22168,7 @@ var SETDEX_RBY = {
       ],
       "index": 373
     },
-    "Rival #2": {
+    "Rival - Champion #2": {
       "level": 115,
       "dvs": {
         "hp": 8,
@@ -19800,7 +22185,7 @@ var SETDEX_RBY = {
       ],
       "index": 374
     },
-    "Rival #3": {
+    "Rival - Champion #3": {
       "level": 115,
       "dvs": {
         "hp": 8,
@@ -19816,125 +22201,6 @@ var SETDEX_RBY = {
         "Body Slam"
       ],
       "index": 375
-    },
-    "Rival #4": {
-      "level": 53,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave",
-        "Psychic",
-        "Soft-Boiled",
-        "Body Slam"
-      ],
-      "index": 366
-    },
-    "Rival #5": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave",
-        "Psychic",
-        "Soft-Boiled",
-        "Body Slam"
-      ],
-      "index": 367
-    },
-    "Rival #6": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave",
-        "Psychic",
-        "Soft-Boiled",
-        "Body Slam"
-      ],
-      "index": 368
-    },
-    "Rival #7": {
-      "level": 70,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave",
-        "Psychic",
-        "Soft-Boiled",
-        "Body Slam"
-      ],
-      "index": 369
-    },
-    "Rival #8": {
-      "level": 91,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave",
-        "Recover",
-        "Ice Beam",
-        "Psychic"
-      ],
-      "index": 370
-    },
-    "Rival #9": {
-      "level": 91,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave",
-        "Recover",
-        "Ice Beam",
-        "Psychic"
-      ],
-      "index": 371
-    },
-    "Rival #10": {
-      "level": 91,
-      "dvs": {
-        "hp": 8,
-        "at": 9,
-        "df": 8,
-        "sl": 8,
-        "sp": 8
-      },
-      "moves": [
-        "Thunder Wave",
-        "Soft-Boiled",
-        "Body Slam",
-        "Psychic"
-      ],
-      "index": 372
     }
   },
   "Mewtwo": {
@@ -19953,7 +22219,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 264
+      "index": 376
     },
     "Giovanni #3": {
       "level": 90,
@@ -19970,9 +22236,9 @@ var SETDEX_RBY = {
         "Recover",
         "Body Slam"
       ],
-      "index": 281
+      "index": 345
     },
-    "Rival #1": {
+    "Rival - Champion #1": {
       "level": 115,
       "dvs": {
         "hp": 8,
@@ -19989,7 +22255,7 @@ var SETDEX_RBY = {
       ],
       "index": 373
     },
-    "Rival #2": {
+    "Rival - Champion #2": {
       "level": 115,
       "dvs": {
         "hp": 8,
@@ -20006,7 +22272,7 @@ var SETDEX_RBY = {
       ],
       "index": 374
     },
-    "Rival #3": {
+    "Rival - Champion #3": {
       "level": 115,
       "dvs": {
         "hp": 8,
@@ -20040,7 +22306,7 @@ var SETDEX_RBY = {
         "Drill Peck",
         "Thunder"
       ],
-      "index": 280
+      "index": 283
     },
     "Giovanni #3": {
       "level": 90,
@@ -20057,7 +22323,7 @@ var SETDEX_RBY = {
         "Drill Peck",
         "Thunder"
       ],
-      "index": 281
+      "index": 345
     }
   },
   "Moltres": {
@@ -20076,7 +22342,7 @@ var SETDEX_RBY = {
         "Solar Beam",
         "Flamethrower"
       ],
-      "index": 355
+      "index": 326
     }
   },
   "Articuno": {
@@ -20094,7 +22360,7 @@ var SETDEX_RBY = {
         "Sky Attack",
         "Ice Beam"
       ],
-      "index": 376
+      "index": 369
     }
   },
   "Grimer": {
@@ -20108,9 +22374,11 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Toxic",
+        "Sludge",
         "Explosion"
       ],
-      "index": 384
+      "index": 162
     },
     "Janine": {
       "level": 63,
@@ -20122,10 +22390,12 @@ var SETDEX_RBY = {
         "sp": 8
       },
       "moves": [
+        "Toxic",
+        "Sludge",
         "Explosion",
         "Acid Armor"
       ],
-      "index": 403
+      "index": 241
     }
   }
 };
