@@ -673,3 +673,13 @@ table.field {
     background: var(--fieldset-color);
     color: unset;
 }
+.trainer-pok-list-opposing {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+}
+.trainer-pok-list-opposing .trainer-pok {
+    flex: 0 0 auto;
+}

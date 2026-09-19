@@ -13,7 +13,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Fang"
       ],
-      "index": 11
+      "index": 27
     },
     "Youngster #13": {
       "level": 17,
@@ -28,7 +28,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Fang"
       ],
-      "index": 377
+      "index": 1271
     },
     "Youngster #13 (2)": {
       "level": 17,
@@ -43,7 +43,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Fang"
       ],
-      "index": 377
+      "index": 1272
     },
     "Lass #19": {
       "level": 8,
@@ -57,7 +57,7 @@ var SETDEX_RBY = {
       "moves": [
         "Quick Attack"
       ],
-      "index": 7
+      "index": 15
     },
     "AJ #2": {
       "level": 36,
@@ -74,7 +74,7 @@ var SETDEX_RBY = {
         "Focus Energy",
         "Super Fang"
       ],
-      "index": 102
+      "index": 274
     }
   },
   "Ekans": {
@@ -91,7 +91,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Glare"
       ],
-      "index": 11
+      "index": 28
     },
     "Jr. Trainer M #2": {
       "level": 22,
@@ -108,7 +108,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 40
+      "index": 104
     },
     "Channeler #20": {
       "level": 44,
@@ -125,7 +125,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 171
+      "index": 489
     }
   },
   "Spearow": {
@@ -144,7 +144,7 @@ var SETDEX_RBY = {
         "Leer",
         "Fury Attack"
       ],
-      "index": 12
+      "index": 29
     },
     "Youngster #13": {
       "level": 17,
@@ -161,7 +161,7 @@ var SETDEX_RBY = {
         "Leer",
         "Fury Attack"
       ],
-      "index": 377
+      "index": 1273
     },
     "Youngster #13 (2)": {
       "level": 17,
@@ -178,7 +178,7 @@ var SETDEX_RBY = {
         "Leer",
         "Fury Attack"
       ],
-      "index": 377
+      "index": 1274
     },
     "Lass #2": {
       "level": 16,
@@ -195,7 +195,7 @@ var SETDEX_RBY = {
         "Leer",
         "Fury Attack"
       ],
-      "index": 17
+      "index": 42
     },
     "Rival - Route 22": {
       "level": 7,
@@ -228,7 +228,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Quick Attack"
       ],
-      "index": 12
+      "index": 30
     },
     "Youngster #7": {
       "level": 23,
@@ -244,7 +244,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Quick Attack"
       ],
-      "index": 45
+      "index": 124
     },
     "Bird Keeper #12": {
       "level": 39,
@@ -260,7 +260,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Quick Attack"
       ],
-      "index": 389
+      "index": 1302
     },
     "Bird Keeper #12 (2)": {
       "level": 39,
@@ -276,7 +276,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Quick Attack"
       ],
-      "index": 389
+      "index": 1303
     },
     "Bird Keeper #12 (3)": {
       "level": 39,
@@ -292,7 +292,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Quick Attack"
       ],
-      "index": 389
+      "index": 1304
     }
   },
   "Krabby": {
@@ -310,7 +310,7 @@ var SETDEX_RBY = {
         "Vise Grip",
         "Body Slam"
       ],
-      "index": 19
+      "index": 45
     },
     "Sailor #3": {
       "level": 28,
@@ -326,10 +326,10 @@ var SETDEX_RBY = {
         "Vise Grip",
         "Body Slam"
       ],
-      "index": 81
+      "index": 213
     }
   },
-  "Farfetch'd": {
+  "Farfetch’d": {
     "Youngster #3": {
       "level": 18,
       "dvs": {
@@ -344,7 +344,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Slash"
       ],
-      "index": 19
+      "index": 46
     },
     "Youngster #12": {
       "level": 24,
@@ -360,7 +360,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Slash"
       ],
-      "index": 64
+      "index": 161
     },
     "Jr. Trainer F #5": {
       "level": 35,
@@ -376,7 +376,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Slash"
       ],
-      "index": 97
+      "index": 263
     },
     "Hiker #3": {
       "level": 23,
@@ -392,7 +392,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Slash"
       ],
-      "index": 50
+      "index": 116
     },
     "Bird Keeper #2": {
       "level": 54,
@@ -409,7 +409,7 @@ var SETDEX_RBY = {
         "Slash",
         "Agility"
       ],
-      "index": 194
+      "index": 563
     },
     "Bird Keeper #3": {
       "level": 54,
@@ -426,7 +426,7 @@ var SETDEX_RBY = {
         "Slash",
         "Agility"
       ],
-      "index": 195
+      "index": 564
     },
     "Bird Keeper #4": {
       "level": 55,
@@ -443,7 +443,7 @@ var SETDEX_RBY = {
         "Slash",
         "Agility"
       ],
-      "index": 200
+      "index": 582
     },
     "Bird Keeper #13": {
       "level": 42,
@@ -460,7 +460,7 @@ var SETDEX_RBY = {
         "Slash",
         "Agility"
       ],
-      "index": 390
+      "index": 1306
     }
   },
   "Zubat": {
@@ -479,7 +479,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Hypnosis"
       ],
-      "index": 19
+      "index": 47
     },
     "Channeler #21": {
       "level": 44,
@@ -496,7 +496,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Hypnosis"
       ],
-      "index": 172
+      "index": 491
     }
   },
   "Charmander": {
@@ -515,7 +515,7 @@ var SETDEX_RBY = {
         "Headbutt",
         "Fire Punch"
       ],
-      "index": 36
+      "index": 93
     },
     "Jr. Trainer M #7": {
       "level": 21,
@@ -532,7 +532,7 @@ var SETDEX_RBY = {
         "Headbutt",
         "Fire Punch"
       ],
-      "index": 378
+      "index": 1275
     },
     "Pokemaniac #4": {
       "level": 41,
@@ -549,7 +549,7 @@ var SETDEX_RBY = {
         "Slash",
         "Flamethrower"
       ],
-      "index": 119
+      "index": 321
     },
     "Burglar #3": {
       "level": 28,
@@ -566,7 +566,7 @@ var SETDEX_RBY = {
         "Headbutt",
         "Fire Punch"
       ],
-      "index": 385
+      "index": 1291
     }
   },
   "Squirtle": {
@@ -585,7 +585,7 @@ var SETDEX_RBY = {
         "Headbutt",
         "Bubble Beam"
       ],
-      "index": 36
+      "index": 94
     },
     "Sailor #7": {
       "level": 28,
@@ -602,7 +602,7 @@ var SETDEX_RBY = {
         "Bubble Beam",
         "Waterfall"
       ],
-      "index": 85
+      "index": 223
     }
   },
   "Bulbasaur": {
@@ -621,7 +621,7 @@ var SETDEX_RBY = {
         "Razor Leaf",
         "Double-Edge"
       ],
-      "index": 36
+      "index": 95
     },
     "Beauty #3": {
       "level": 48,
@@ -638,7 +638,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Sleep Powder"
       ],
-      "index": 140
+      "index": 383
     }
   },
   "Poliwag": {
@@ -656,7 +656,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Body Slam"
       ],
-      "index": 43
+      "index": 108
     }
   },
   "Growlithe": {
@@ -675,7 +675,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Flamethrower"
       ],
-      "index": 43
+      "index": 109
     },
     "Jr. Trainer M #7": {
       "level": 21,
@@ -692,7 +692,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Flamethrower"
       ],
-      "index": 378
+      "index": 1276
     },
     "Burglar #1": {
       "level": 29,
@@ -709,7 +709,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Flamethrower"
       ],
-      "index": 383
+      "index": 1288
     },
     "Burglar #2": {
       "level": 33,
@@ -726,7 +726,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Flamethrower"
       ],
-      "index": 384
+      "index": 1290
     }
   },
   "Ditto": {
@@ -742,7 +742,7 @@ var SETDEX_RBY = {
       "moves": [
         "Transform"
       ],
-      "index": 44
+      "index": 112
     },
     "Burglar #5": {
       "level": 77,
@@ -756,7 +756,7 @@ var SETDEX_RBY = {
       "moves": [
         "Transform"
       ],
-      "index": 324
+      "index": 1004
     },
     "Beauty #6": {
       "level": 65,
@@ -770,7 +770,7 @@ var SETDEX_RBY = {
       "moves": [
         "Transform"
       ],
-      "index": 307
+      "index": 947
     },
     "Beauty #6 (2)": {
       "level": 65,
@@ -784,7 +784,7 @@ var SETDEX_RBY = {
       "moves": [
         "Transform"
       ],
-      "index": 307
+      "index": 948
     },
     "Bird Keeper #5": {
       "level": 56,
@@ -798,7 +798,7 @@ var SETDEX_RBY = {
       "moves": [
         "Transform"
       ],
-      "index": 201
+      "index": 585
     },
     "Scientist #1": {
       "level": 73,
@@ -812,7 +812,7 @@ var SETDEX_RBY = {
       "moves": [
         "Transform"
       ],
-      "index": 312
+      "index": 964
     },
     "Scientist #2": {
       "level": 67,
@@ -826,7 +826,7 @@ var SETDEX_RBY = {
       "moves": [
         "Transform"
       ],
-      "index": 249
+      "index": 732
     },
     "Scientist #8": {
       "level": 67,
@@ -840,7 +840,7 @@ var SETDEX_RBY = {
       "moves": [
         "Transform"
       ],
-      "index": 266
+      "index": 791
     },
     "Rocket #25": {
       "level": 66,
@@ -854,7 +854,7 @@ var SETDEX_RBY = {
       "moves": [
         "Transform"
       ],
-      "index": 254
+      "index": 749
     }
   },
   "Slowpoke": {
@@ -872,7 +872,7 @@ var SETDEX_RBY = {
         "Bubble Beam",
         "Headbutt"
       ],
-      "index": 44
+      "index": 113
     },
     "Sailor #2": {
       "level": 29,
@@ -888,7 +888,7 @@ var SETDEX_RBY = {
         "Bubble Beam",
         "Headbutt"
       ],
-      "index": 88
+      "index": 233
     },
     "Pokemaniac #3": {
       "level": 41,
@@ -905,7 +905,7 @@ var SETDEX_RBY = {
         "Headbutt",
         "Amnesia"
       ],
-      "index": 118
+      "index": 318
     }
   },
   "Meowth": {
@@ -922,7 +922,7 @@ var SETDEX_RBY = {
         "Bite",
         "Pay Day"
       ],
-      "index": 45
+      "index": 122
     },
     "Lass #14": {
       "level": 43,
@@ -937,7 +937,7 @@ var SETDEX_RBY = {
         "Bite",
         "Pay Day"
       ],
-      "index": 125
+      "index": 337
     },
     "Biker #3": {
       "level": 56,
@@ -953,7 +953,7 @@ var SETDEX_RBY = {
         "Pay Day",
         "Slash"
       ],
-      "index": 210
+      "index": 609
     },
     "Rocket #42": {
       "level": 20,
@@ -968,7 +968,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Slash"
       ],
-      "index": 31
+      "index": 78
     },
     "Rocket #43": {
       "level": 55,
@@ -984,9 +984,9 @@ var SETDEX_RBY = {
         "Slash",
         "Slash"
       ],
-      "index": 155
+      "index": 440
     },
-    "Rocket #44": {
+    "Jessie & James - Pokemon Tower": {
       "level": 60,
       "dvs": {
         "hp": 8,
@@ -1001,7 +1001,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 176
+      "index": 505
     }
   },
   "Sandshrew": {
@@ -1019,7 +1019,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Dig"
       ],
-      "index": 45
+      "index": 123
     },
     "Youngster #10": {
       "level": 25,
@@ -1035,7 +1035,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Dig"
       ],
-      "index": 62
+      "index": 156
     },
     "Hiker #3": {
       "level": 23,
@@ -1051,7 +1051,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Dig"
       ],
-      "index": 50
+      "index": 117
     },
     "AJ #2": {
       "level": 36,
@@ -1067,7 +1067,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Dig"
       ],
-      "index": 102
+      "index": 276
     }
   },
   "Lickitung": {
@@ -1085,7 +1085,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Body Slam"
       ],
-      "index": 71
+      "index": 178
     },
     "Jr. Trainer F #20": {
       "level": 54,
@@ -1102,7 +1102,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 206
+      "index": 600
     },
     "Pokemaniac #2": {
       "level": 42,
@@ -1119,7 +1119,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 106
+      "index": 286
     },
     "Hiker #3": {
       "level": 23,
@@ -1135,7 +1135,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Body Slam"
       ],
-      "index": 50
+      "index": 119
     },
     "Biker #3": {
       "level": 56,
@@ -1152,7 +1152,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 210
+      "index": 613
     },
     "Rocket #7": {
       "level": 44,
@@ -1169,9 +1169,9 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 143
+      "index": 395
     },
-    "Rocket #44": {
+    "Jessie & James - Pokemon Tower": {
       "level": 60,
       "dvs": {
         "hp": 8,
@@ -1186,7 +1186,7 @@ var SETDEX_RBY = {
         "Lick",
         "Wrap"
       ],
-      "index": 176
+      "index": 503
     },
     "Rocket #45": {
       "level": 72,
@@ -1203,7 +1203,7 @@ var SETDEX_RBY = {
         "Lick",
         "Wrap"
       ],
-      "index": 282
+      "index": 860
     },
     "Rocket #46": {
       "level": 82,
@@ -1220,7 +1220,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Lick"
       ],
-      "index": 318
+      "index": 980
     },
     "Rocket #47": {
       "level": 90,
@@ -1237,7 +1237,7 @@ var SETDEX_RBY = {
         "Lick",
         "Wrap"
       ],
-      "index": 344
+      "index": 1073
     }
   },
   "Staryu": {
@@ -1256,7 +1256,7 @@ var SETDEX_RBY = {
         "Light Screen",
         "Bubble Beam"
       ],
-      "index": 71
+      "index": 179
     },
     "Lass #7": {
       "level": 22,
@@ -1272,7 +1272,7 @@ var SETDEX_RBY = {
         "Water Gun",
         "Light Screen"
       ],
-      "index": 38
+      "index": 96
     },
     "Sailor #5": {
       "level": 30,
@@ -1289,7 +1289,7 @@ var SETDEX_RBY = {
         "Light Screen",
         "Bubble Beam"
       ],
-      "index": 83
+      "index": 219
     },
     "Swimmer #1": {
       "level": 24,
@@ -1305,7 +1305,7 @@ var SETDEX_RBY = {
         "Water Gun",
         "Light Screen"
       ],
-      "index": 52
+      "index": 130
     }
   },
   "Raticate": {
@@ -1324,7 +1324,7 @@ var SETDEX_RBY = {
         "Super Fang",
         "Hyper Beam"
       ],
-      "index": 61
+      "index": 155
     },
     "Youngster #11": {
       "level": 24,
@@ -1341,7 +1341,7 @@ var SETDEX_RBY = {
         "Super Fang",
         "Hyper Beam"
       ],
-      "index": 63
+      "index": 158
     },
     "Jr. Trainer M #5": {
       "level": 24,
@@ -1358,7 +1358,7 @@ var SETDEX_RBY = {
         "Super Fang",
         "Hyper Beam"
       ],
-      "index": 57
+      "index": 146
     },
     "Hiker #12": {
       "level": 41,
@@ -1375,7 +1375,7 @@ var SETDEX_RBY = {
         "Super Fang",
         "Hyper Beam"
       ],
-      "index": 113
+      "index": 306
     },
     "Biker #11": {
       "level": 58,
@@ -1392,7 +1392,7 @@ var SETDEX_RBY = {
         "Super Fang",
         "Hyper Beam"
       ],
-      "index": 222
+      "index": 646
     },
     "Biker #15": {
       "level": 55,
@@ -1409,7 +1409,7 @@ var SETDEX_RBY = {
         "Super Fang",
         "Hyper Beam"
       ],
-      "index": 199
+      "index": 579
     },
     "Swimmer #3": {
       "level": 60,
@@ -1426,7 +1426,7 @@ var SETDEX_RBY = {
         "Super Fang",
         "Hyper Beam"
       ],
-      "index": 293
+      "index": 901
     },
     "Rocket #1": {
       "level": 20,
@@ -1443,7 +1443,7 @@ var SETDEX_RBY = {
         "Super Fang",
         "Hyper Beam"
       ],
-      "index": 27
+      "index": 64
     },
     "Rocket #12": {
       "level": 49,
@@ -1460,7 +1460,7 @@ var SETDEX_RBY = {
         "Super Fang",
         "Hyper Beam"
       ],
-      "index": 148
+      "index": 412
     }
   },
   "Golbat": {
@@ -1479,7 +1479,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 62
+      "index": 157
     },
     "Jr. Trainer M #4": {
       "level": 23,
@@ -1496,7 +1496,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 48
+      "index": 121
     },
     "Hiker #12": {
       "level": 41,
@@ -1513,7 +1513,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 113
+      "index": 307
     },
     "Tamer #1": {
       "level": 62,
@@ -1530,7 +1530,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 239
+      "index": 691
     },
     "Bird Keeper #2": {
       "level": 54,
@@ -1547,7 +1547,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 194
+      "index": 559
     },
     "Rocket #3": {
       "level": 19,
@@ -1564,7 +1564,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 29
+      "index": 69
     },
     "Rocket #18": {
       "level": 49,
@@ -1581,7 +1581,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 154
+      "index": 433
     },
     "Channeler #21": {
       "level": 44,
@@ -1598,7 +1598,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Confuse Ray"
       ],
-      "index": 172
+      "index": 492
     }
   },
   "Fearow": {
@@ -1616,7 +1616,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Razor Wind"
       ],
-      "index": 63
+      "index": 159
     },
     "Jr. Trainer M #10": {
       "level": 24,
@@ -1632,7 +1632,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Razor Wind"
       ],
-      "index": 58
+      "index": 149
     },
     "Jr. Trainer F #18": {
       "level": 41,
@@ -1648,7 +1648,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Razor Wind"
       ],
-      "index": 110
+      "index": 297
     },
     "Biker #15": {
       "level": 55,
@@ -1664,7 +1664,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Razor Wind"
       ],
-      "index": 199
+      "index": 581
     },
     "Bird Keeper #1": {
       "level": 53,
@@ -1680,7 +1680,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Razor Wind"
       ],
-      "index": 193
+      "index": 556
     },
     "Bird Keeper #3": {
       "level": 54,
@@ -1696,7 +1696,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Razor Wind"
       ],
-      "index": 195
+      "index": 567
     },
     "Bird Keeper #10": {
       "level": 57,
@@ -1712,7 +1712,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Razor Wind"
       ],
-      "index": 218
+      "index": 636
     },
     "Bird Keeper #13": {
       "level": 42,
@@ -1728,7 +1728,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Razor Wind"
       ],
-      "index": 390
+      "index": 1307
     },
     "Bird Keeper #15": {
       "level": 55,
@@ -1744,7 +1744,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Razor Wind"
       ],
-      "index": 203
+      "index": 589
     },
     "Bird Keeper #17": {
       "level": 55,
@@ -1760,7 +1760,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Razor Wind"
       ],
-      "index": 205
+      "index": 597
     },
     "Rival - SS Anne": {
       "level": 30,
@@ -1777,7 +1777,7 @@ var SETDEX_RBY = {
         "Razor Wind",
         "Hyper Beam"
       ],
-      "index": 76
+      "index": 194
     }
   },
   "Ninetales": {
@@ -1793,7 +1793,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fire Spin"
       ],
-      "index": 63
+      "index": 160
     },
     "Lass #15": {
       "level": 43,
@@ -1807,7 +1807,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fire Spin"
       ],
-      "index": 126
+      "index": 342
     },
     "Jr. Trainer F #13": {
       "level": 54,
@@ -1821,7 +1821,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fire Spin"
       ],
-      "index": 187
+      "index": 539
     },
     "Jr. Trainer F #17": {
       "level": 42,
@@ -1835,7 +1835,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fire Spin"
       ],
-      "index": 109
+      "index": 293
     },
     "Jr. Trainer F #24": {
       "level": 67,
@@ -1849,7 +1849,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fire Spin"
       ],
-      "index": 303
+      "index": 936
     },
     "Super Nerd #9": {
       "level": 76,
@@ -1863,7 +1863,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fire Spin"
       ],
-      "index": 319
+      "index": 987
     },
     "Burglar #5": {
       "level": 77,
@@ -1877,7 +1877,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fire Spin"
       ],
-      "index": 324
+      "index": 1003
     },
     "Burglar #7": {
       "level": 75,
@@ -1891,7 +1891,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fire Spin"
       ],
-      "index": 313
+      "index": 967
     },
     "Burglar #8": {
       "level": 75,
@@ -1905,7 +1905,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fire Spin"
       ],
-      "index": 314
+      "index": 969
     },
     "Cooltrainer F #8": {
       "level": 55,
@@ -1919,7 +1919,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fire Spin"
       ],
-      "index": 401
+      "index": 1326
     },
     "Gentleman #2": {
       "level": 28,
@@ -1933,7 +1933,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fire Spin"
       ],
-      "index": 75
+      "index": 193
     },
     "AJ": {
       "level": 93,
@@ -1947,7 +1947,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fire Spin"
       ],
-      "index": 368
+      "index": 1219
     }
   },
   "Nidoqueen": {
@@ -1966,7 +1966,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 64
+      "index": 162
     },
     "Lass #13": {
       "level": 43,
@@ -1983,7 +1983,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 124
+      "index": 333
     },
     "Jr. Trainer M #9": {
       "level": 52,
@@ -2000,7 +2000,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 177
+      "index": 509
     },
     "Jr. Trainer F #3": {
       "level": 23,
@@ -2017,7 +2017,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 59
+      "index": 152
     },
     "Pokemaniac #5": {
       "level": 39,
@@ -2034,7 +2034,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 120
+      "index": 324
     },
     "Beauty #14": {
       "level": 63,
@@ -2051,7 +2051,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 301
+      "index": 929
     },
     "Tamer #2": {
       "level": 62,
@@ -2068,7 +2068,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 240
+      "index": 696
     },
     "Blackbelt #8": {
       "level": 84,
@@ -2085,7 +2085,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 340
+      "index": 1061
     },
     "Giovanni": {
       "level": 55,
@@ -2102,7 +2102,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunderbolt"
       ],
-      "index": 156
+      "index": 443
     },
     "Cooltrainer M #1": {
       "level": 82,
@@ -2119,7 +2119,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 341
+      "index": 1063
     },
     "Cooltrainer F #7": {
       "level": 55,
@@ -2136,7 +2136,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 400
+      "index": 1324
     },
     "Ranger": {
       "level": 93,
@@ -2153,7 +2153,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 367
+      "index": 1212
     },
     "Rival - SS Anne": {
       "level": 31,
@@ -2170,7 +2170,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Blizzard"
       ],
-      "index": 76
+      "index": 198
     }
   },
   "Bellsprout": {
@@ -2189,7 +2189,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Fissure"
       ],
-      "index": 32
+      "index": 82
     },
     "Lass #9": {
       "level": 23,
@@ -2206,7 +2206,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Body Slam"
       ],
-      "index": 46
+      "index": 115
     },
     "Jr. Trainer M #1": {
       "level": 11,
@@ -2223,7 +2223,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Sleep Powder"
       ],
-      "index": 9
+      "index": 20
     },
     "Jr. Trainer F #2": {
       "level": 24,
@@ -2240,7 +2240,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Body Slam"
       ],
-      "index": 379
+      "index": 1277
     },
     "Beauty #11": {
       "level": 33,
@@ -2257,7 +2257,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Razor Leaf"
       ],
-      "index": 386
+      "index": 1294
     }
   },
   "Charmeleon": {
@@ -2275,7 +2275,7 @@ var SETDEX_RBY = {
         "Flamethrower",
         "Slash"
       ],
-      "index": 32
+      "index": 83
     },
     "Lass #10": {
       "level": 23,
@@ -2291,7 +2291,7 @@ var SETDEX_RBY = {
         "Flamethrower",
         "Slash"
       ],
-      "index": 47
+      "index": 126
     },
     "Cooltrainer M #6": {
       "level": 44,
@@ -2307,7 +2307,7 @@ var SETDEX_RBY = {
         "Flamethrower",
         "Slash"
       ],
-      "index": 395
+      "index": 1314
     }
   },
   "Weedle": {
@@ -2324,7 +2324,7 @@ var SETDEX_RBY = {
         "Poison Sting",
         "String Shot"
       ],
-      "index": 3
+      "index": 6
     },
     "Bug Catcher #11": {
       "level": 100,
@@ -2339,7 +2339,7 @@ var SETDEX_RBY = {
         "Poison Sting",
         "String Shot"
       ],
-      "index": 56
+      "index": 144
     }
   },
   "Caterpie": {
@@ -2356,7 +2356,7 @@ var SETDEX_RBY = {
         "Tackle",
         "String Shot"
       ],
-      "index": 3
+      "index": 7
     },
     "Bug Catcher #11": {
       "level": 100,
@@ -2371,7 +2371,7 @@ var SETDEX_RBY = {
         "Tackle",
         "String Shot"
       ],
-      "index": 56
+      "index": 145
     }
   },
   "Kakuna": {
@@ -2388,7 +2388,7 @@ var SETDEX_RBY = {
         "Poison Sting",
         "Harden"
       ],
-      "index": 4
+      "index": 8
     },
     "Bug Catcher #13": {
       "level": 100,
@@ -2403,7 +2403,7 @@ var SETDEX_RBY = {
         "Poison Sting",
         "Harden"
       ],
-      "index": 94
+      "index": 252
     }
   },
   "Paras": {
@@ -2422,7 +2422,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Stun Spore"
       ],
-      "index": 4
+      "index": 9
     },
     "Bug Catcher #4": {
       "level": 14,
@@ -2439,7 +2439,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Stun Spore"
       ],
-      "index": 13
+      "index": 32
     },
     "Bug Catcher #5": {
       "level": 13,
@@ -2456,7 +2456,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Stun Spore"
       ],
-      "index": 14
+      "index": 34
     },
     "Bug Catcher #8": {
       "level": 16,
@@ -2473,7 +2473,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Stun Spore"
       ],
-      "index": 21
+      "index": 50
     },
     "Lass #4": {
       "level": 19,
@@ -2490,7 +2490,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Stun Spore"
       ],
-      "index": 33
+      "index": 79
     }
   },
   "Venonat": {
@@ -2508,7 +2508,7 @@ var SETDEX_RBY = {
         "Psybeam",
         "Stun Spore"
       ],
-      "index": 4
+      "index": 10
     },
     "Bug Catcher #4": {
       "level": 14,
@@ -2524,7 +2524,7 @@ var SETDEX_RBY = {
         "Psybeam",
         "Stun Spore"
       ],
-      "index": 13
+      "index": 31
     },
     "Bug Catcher #5": {
       "level": 13,
@@ -2540,7 +2540,7 @@ var SETDEX_RBY = {
         "Psybeam",
         "Stun Spore"
       ],
-      "index": 14
+      "index": 36
     },
     "Bug Catcher #7": {
       "level": 16,
@@ -2556,7 +2556,7 @@ var SETDEX_RBY = {
         "Psybeam",
         "Stun Spore"
       ],
-      "index": 20
+      "index": 48
     },
     "Bug Catcher #8": {
       "level": 16,
@@ -2572,7 +2572,7 @@ var SETDEX_RBY = {
         "Psybeam",
         "Stun Spore"
       ],
-      "index": 21
+      "index": 51
     },
     "Jr. Trainer M #4": {
       "level": 23,
@@ -2588,7 +2588,7 @@ var SETDEX_RBY = {
         "Psybeam",
         "Stun Spore"
       ],
-      "index": 48
+      "index": 120
     },
     "Janine": {
       "level": 63,
@@ -2605,7 +2605,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 241
+      "index": 697
     }
   },
   "Butterfree": {
@@ -2623,7 +2623,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 5
+      "index": 11
     },
     "Bug Catcher #6": {
       "level": 15,
@@ -2639,7 +2639,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 15
+      "index": 38
     },
     "Bug Catcher #8": {
       "level": 16,
@@ -2655,7 +2655,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 21
+      "index": 52
     },
     "Bug Catcher #10": {
       "level": 24,
@@ -2671,7 +2671,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 55
+      "index": 141
     },
     "Jr. Trainer F #14": {
       "level": 54,
@@ -2687,7 +2687,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 188
+      "index": 541
     },
     "Jr. Trainer F #17": {
       "level": 42,
@@ -2703,7 +2703,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 109
+      "index": 294
     },
     "Biker #5": {
       "level": 59,
@@ -2719,7 +2719,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 229
+      "index": 666
     },
     "Rocket #12": {
       "level": 49,
@@ -2735,7 +2735,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 148
+      "index": 414
     },
     "Cooltrainer F #4": {
       "level": 46,
@@ -2751,7 +2751,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 398
+      "index": 1320
     },
     "Gentleman #1": {
       "level": 27,
@@ -2767,7 +2767,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 74
+      "index": 187
     },
     "AJ #2": {
       "level": 36,
@@ -2783,7 +2783,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 102
+      "index": 273
     }
   },
   "Beedrill": {
@@ -2799,7 +2799,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 5
+      "index": 12
     },
     "Bug Catcher #4": {
       "level": 14,
@@ -2813,7 +2813,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 13
+      "index": 33
     },
     "Bug Catcher #5": {
       "level": 13,
@@ -2827,7 +2827,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 14
+      "index": 37
     },
     "Bug Catcher #6": {
       "level": 15,
@@ -2841,7 +2841,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 15
+      "index": 39
     },
     "Bug Catcher #7": {
       "level": 16,
@@ -2855,7 +2855,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 20
+      "index": 49
     },
     "Bug Catcher #10": {
       "level": 24,
@@ -2869,7 +2869,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 55
+      "index": 142
     },
     "Bug Catcher #12": {
       "level": 29,
@@ -2883,7 +2883,7 @@ var SETDEX_RBY = {
       "moves": [
         "Twineedle"
       ],
-      "index": 72
+      "index": 183
     },
     "Scientist #13": {
       "level": 73,
@@ -2898,7 +2898,7 @@ var SETDEX_RBY = {
         "Twineedle",
         "Pin Missile"
       ],
-      "index": 317
+      "index": 976
     },
     "Rocket #41": {
       "level": 68,
@@ -2913,7 +2913,7 @@ var SETDEX_RBY = {
         "Twineedle",
         "Pin Missile"
       ],
-      "index": 255
+      "index": 753
     },
     "AJ #2": {
       "level": 36,
@@ -2928,7 +2928,7 @@ var SETDEX_RBY = {
         "Twineedle",
         "Pin Missile"
       ],
-      "index": 102
+      "index": 275
     }
   },
   "Metapod": {
@@ -2945,7 +2945,7 @@ var SETDEX_RBY = {
         "Tackle",
         "Harden"
       ],
-      "index": 14
+      "index": 35
     },
     "Bug Catcher #13": {
       "level": 100,
@@ -2960,7 +2960,7 @@ var SETDEX_RBY = {
         "Tackle",
         "Harden"
       ],
-      "index": 94
+      "index": 253
     },
     "Bug Catcher #15": {
       "level": 7,
@@ -2975,7 +2975,7 @@ var SETDEX_RBY = {
         "Tackle",
         "Harden"
       ],
-      "index": 6
+      "index": 13
     }
   },
   "Scyther": {
@@ -2994,7 +2994,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Wing Attack"
       ],
-      "index": 37
+      "index": 89
     },
     "Bug Catcher #12": {
       "level": 29,
@@ -3011,7 +3011,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Wing Attack"
       ],
-      "index": 72
+      "index": 180
     },
     "Bug Catcher #14": {
       "level": 39,
@@ -3028,7 +3028,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Wing Attack"
       ],
-      "index": 95
+      "index": 255
     },
     "Pokemaniac #2": {
       "level": 42,
@@ -3045,7 +3045,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Wing Attack"
       ],
-      "index": 106
+      "index": 285
     },
     "Bird Keeper #16": {
       "level": 55,
@@ -3062,7 +3062,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Wing Attack"
       ],
-      "index": 204
+      "index": 593
     },
     "Scientist #1": {
       "level": 73,
@@ -3079,7 +3079,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Wing Attack"
       ],
-      "index": 312
+      "index": 965
     },
     "Rocket #7": {
       "level": 44,
@@ -3096,7 +3096,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Wing Attack"
       ],
-      "index": 143
+      "index": 397
     },
     "Gentleman #4": {
       "level": 48,
@@ -3113,7 +3113,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Wing Attack"
       ],
-      "index": 185
+      "index": 531
     },
     "Ranger": {
       "level": 93,
@@ -3130,7 +3130,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Wing Attack"
       ],
-      "index": 367
+      "index": 1213
     }
   },
   "Pinsir": {
@@ -3148,7 +3148,7 @@ var SETDEX_RBY = {
         "Guillotine",
         "Body Slam"
       ],
-      "index": 37
+      "index": 90
     },
     "Bug Catcher #12": {
       "level": 29,
@@ -3164,7 +3164,7 @@ var SETDEX_RBY = {
         "Guillotine",
         "Body Slam"
       ],
-      "index": 72
+      "index": 181
     },
     "Bug Catcher #14": {
       "level": 39,
@@ -3181,7 +3181,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Slash"
       ],
-      "index": 95
+      "index": 256
     },
     "Bug Catcher #15": {
       "level": 6,
@@ -3197,7 +3197,7 @@ var SETDEX_RBY = {
         "Vise Grip",
         "Body Slam"
       ],
-      "index": 6
+      "index": 14
     },
     "Jr. Trainer F #8": {
       "level": 40,
@@ -3214,7 +3214,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Slash"
       ],
-      "index": 104
+      "index": 281
     },
     "Biker #2": {
       "level": 55,
@@ -3231,7 +3231,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Slash"
       ],
-      "index": 196
+      "index": 570
     },
     "Biker #7": {
       "level": 58,
@@ -3248,7 +3248,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Slash"
       ],
-      "index": 231
+      "index": 669
     },
     "Biker #12": {
       "level": 58,
@@ -3265,7 +3265,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Slash"
       ],
-      "index": 223
+      "index": 651
     },
     "Gambler #3": {
       "level": 25,
@@ -3281,7 +3281,7 @@ var SETDEX_RBY = {
         "Guillotine",
         "Body Slam"
       ],
-      "index": 69
+      "index": 174
     },
     "Gambler #5": {
       "level": 44,
@@ -3298,7 +3298,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Slash"
       ],
-      "index": 131
+      "index": 358
     },
     "Gambler #6": {
       "level": 95,
@@ -3315,7 +3315,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Slash"
       ],
-      "index": 355
+      "index": 1143
     },
     "Tamer #3": {
       "level": 83,
@@ -3332,7 +3332,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Slash"
       ],
-      "index": 336
+      "index": 1050
     },
     "Tamer #5": {
       "level": 90,
@@ -3349,7 +3349,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Slash"
       ],
-      "index": 357
+      "index": 1155
     }
   },
   "Parasect": {
@@ -3368,7 +3368,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Spore"
       ],
-      "index": 55
+      "index": 143
     },
     "Lass #4": {
       "level": 19,
@@ -3385,7 +3385,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Spore"
       ],
-      "index": 33
+      "index": 81
     },
     "Lass #17": {
       "level": 46,
@@ -3402,7 +3402,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Spore"
       ],
-      "index": 135
+      "index": 371
     },
     "Jr. Trainer F #15": {
       "level": 53,
@@ -3419,7 +3419,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Spore"
       ],
-      "index": 189
+      "index": 547
     }
   },
   "Tangela": {
@@ -3437,7 +3437,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Wrap"
       ],
-      "index": 72
+      "index": 182
     },
     "Lass #18": {
       "level": 46,
@@ -3453,7 +3453,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Wrap"
       ],
-      "index": 136
+      "index": 373
     },
     "Jr. Trainer F #10": {
       "level": 40,
@@ -3469,7 +3469,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Wrap"
       ],
-      "index": 117
+      "index": 317
     },
     "Super Nerd #11": {
       "level": 80,
@@ -3485,7 +3485,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Wrap"
       ],
-      "index": 321
+      "index": 995
     },
     "Beauty #8": {
       "level": 68,
@@ -3501,7 +3501,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Wrap"
       ],
-      "index": 309
+      "index": 953
     },
     "Beauty #14": {
       "level": 63,
@@ -3517,7 +3517,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Wrap"
       ],
-      "index": 301
+      "index": 931
     },
     "Rocker #1": {
       "level": 34,
@@ -3533,7 +3533,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Wrap"
       ],
-      "index": 91
+      "index": 241
     },
     "Tamer #5": {
       "level": 90,
@@ -3549,7 +3549,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Wrap"
       ],
-      "index": 357
+      "index": 1152
     },
     "Erika": {
       "level": 54,
@@ -3565,7 +3565,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Wrap"
       ],
-      "index": 142
+      "index": 392
     },
     "Gentleman #3": {
       "level": 31,
@@ -3581,7 +3581,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Wrap"
       ],
-      "index": 79
+      "index": 207
     },
     "Officer Jenny": {
       "level": 91,
@@ -3598,7 +3598,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Solar Beam"
       ],
-      "index": 353
+      "index": 1129
     }
   },
   "Venomoth": {
@@ -3616,7 +3616,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 95
+      "index": 254
     },
     "Beauty #12": {
       "level": 62,
@@ -3632,7 +3632,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 299
+      "index": 925
     },
     "Bird Keeper #14": {
       "level": 55,
@@ -3648,7 +3648,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 202
+      "index": 586
     },
     "Koga": {
       "level": 66,
@@ -3664,7 +3664,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 242
+      "index": 702
     },
     "Channeler #5": {
       "level": 47,
@@ -3680,7 +3680,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 160
+      "index": 467
     },
     "Janine": {
       "level": 63,
@@ -3696,7 +3696,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 241
+      "index": 698
     }
   },
   "Pidgey": {
@@ -3715,7 +3715,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Swift"
       ],
-      "index": 16
+      "index": 40
     },
     "Lass #19": {
       "level": 8,
@@ -3732,7 +3732,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Swift"
       ],
-      "index": 7
+      "index": 16
     },
     "Bird Keeper #12": {
       "level": 39,
@@ -3749,7 +3749,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Swift"
       ],
-      "index": 389
+      "index": 1305
     }
   },
   "Nidoran-F": {
@@ -3767,7 +3767,7 @@ var SETDEX_RBY = {
         "Bite",
         "Toxic"
       ],
-      "index": 16
+      "index": 41
     },
     "Rival - Route 22": {
       "level": 8,
@@ -3783,7 +3783,7 @@ var SETDEX_RBY = {
         "Bite",
         "Toxic"
       ],
-      "index": 2
+      "index": 3
     }
   },
   "Nidoran-M": {
@@ -3802,7 +3802,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Dig"
       ],
-      "index": 17
+      "index": 43
     }
   },
   "Jigglypuff": {
@@ -3820,7 +3820,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Rest"
       ],
-      "index": 18
+      "index": 44
     }
   },
   "Ponyta": {
@@ -3839,7 +3839,7 @@ var SETDEX_RBY = {
         "Flamethrower",
         "Double-Edge"
       ],
-      "index": 33
+      "index": 80
     },
     "Jr. Trainer F #3": {
       "level": 23,
@@ -3856,7 +3856,7 @@ var SETDEX_RBY = {
         "Flamethrower",
         "Double-Edge"
       ],
-      "index": 59
+      "index": 151
     },
     "Jr. Trainer F #5": {
       "level": 35,
@@ -3873,7 +3873,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Hypnosis"
       ],
-      "index": 97
+      "index": 264
     },
     "Burglar #3": {
       "level": 28,
@@ -3890,7 +3890,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Hypnosis"
       ],
-      "index": 385
+      "index": 1292
     },
     "Gentleman #5": {
       "level": 29,
@@ -3907,7 +3907,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Hypnosis"
       ],
-      "index": 80
+      "index": 211
     }
   },
   "Goldeen": {
@@ -3925,7 +3925,7 @@ var SETDEX_RBY = {
         "Waterfall",
         "Supersonic"
       ],
-      "index": 22
+      "index": 53
     },
     "Jr. Trainer F #1": {
       "level": 25,
@@ -3941,7 +3941,7 @@ var SETDEX_RBY = {
         "Waterfall",
         "Supersonic"
       ],
-      "index": 53
+      "index": 131
     }
   },
   "Horsea": {
@@ -3959,7 +3959,7 @@ var SETDEX_RBY = {
         "Bubble Beam",
         "Smokescreen"
       ],
-      "index": 22
+      "index": 54
     },
     "Sailor #4": {
       "level": 30,
@@ -3975,7 +3975,7 @@ var SETDEX_RBY = {
         "Bubble Beam",
         "Smokescreen"
       ],
-      "index": 82
+      "index": 215
     }
   },
   "Clefairy": {
@@ -3992,7 +3992,7 @@ var SETDEX_RBY = {
         "Sing",
         "Metronome"
       ],
-      "index": 23
+      "index": 55
     },
     "Jr. Trainer M #3": {
       "level": 20,
@@ -4007,7 +4007,7 @@ var SETDEX_RBY = {
         "Sing",
         "Metronome"
       ],
-      "index": 41
+      "index": 98
     }
   },
   "Nidorina": {
@@ -4026,7 +4026,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Dig"
       ],
-      "index": 38
+      "index": 97
     },
     "Cooltrainer F #7": {
       "level": 55,
@@ -4043,7 +4043,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Dig"
       ],
-      "index": 400
+      "index": 1325
     },
     "Gentleman #2": {
       "level": 28,
@@ -4060,7 +4060,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Dig"
       ],
-      "index": 75
+      "index": 191
     }
   },
   "Oddish": {
@@ -4079,7 +4079,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Razor Leaf"
       ],
-      "index": 39
+      "index": 91
     },
     "Jr. Trainer F #2": {
       "level": 24,
@@ -4096,7 +4096,7 @@ var SETDEX_RBY = {
         "Razor Leaf",
         "Acid"
       ],
-      "index": 379
+      "index": 1278
     }
   },
   "Nidorino": {
@@ -4115,7 +4115,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Dig"
       ],
-      "index": 39
+      "index": 92
     },
     "Gentleman #2": {
       "level": 28,
@@ -4132,7 +4132,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Dig"
       ],
-      "index": 75
+      "index": 190
     }
   },
   "Vulpix": {
@@ -4151,7 +4151,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Flamethrower"
       ],
-      "index": 46
+      "index": 114
     },
     "Lass #12": {
       "level": 31,
@@ -4168,7 +4168,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Flamethrower"
       ],
-      "index": 77
+      "index": 200
     },
     "Burglar #1": {
       "level": 29,
@@ -4185,7 +4185,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Flamethrower"
       ],
-      "index": 383
+      "index": 1289
     },
     "Burglar #3": {
       "level": 28,
@@ -4202,7 +4202,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Flamethrower"
       ],
-      "index": 385
+      "index": 1293
     },
     "Gambler #7": {
       "level": 43,
@@ -4219,7 +4219,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Flamethrower"
       ],
-      "index": 132
+      "index": 363
     },
     "Rocket #6": {
       "level": 22,
@@ -4236,7 +4236,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Flamethrower"
       ],
-      "index": 42
+      "index": 102
     },
     "Brock": {
       "level": 16,
@@ -4253,7 +4253,7 @@ var SETDEX_RBY = {
         "Fire Spin",
         "Swift"
       ],
-      "index": 10
+      "index": 24
     }
   },
   "Ivysaur": {
@@ -4271,7 +4271,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 47
+      "index": 125
     },
     "Jr. Trainer M #8": {
       "level": 37,
@@ -4287,7 +4287,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 96
+      "index": 259
     },
     "Jr. Trainer F #11": {
       "level": 47,
@@ -4303,7 +4303,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 137
+      "index": 375
     },
     "Beauty #3": {
       "level": 48,
@@ -4319,7 +4319,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 140
+      "index": 384
     },
     "Cooltrainer M #6": {
       "level": 44,
@@ -4335,7 +4335,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 395
+      "index": 1315
     },
     "Cooltrainer F #6": {
       "level": 55,
@@ -4351,7 +4351,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 399
+      "index": 1322
     },
     "Gentleman #5": {
       "level": 29,
@@ -4367,7 +4367,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 80
+      "index": 210
     }
   },
   "Wartortle": {
@@ -4386,7 +4386,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Dig"
       ],
-      "index": 47
+      "index": 127
     },
     "Sailor #6": {
       "level": 29,
@@ -4403,7 +4403,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Dig"
       ],
-      "index": 84
+      "index": 220
     },
     "Jr. Trainer F #10": {
       "level": 40,
@@ -4420,7 +4420,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Dig"
       ],
-      "index": 117
+      "index": 316
     },
     "Swimmer #6": {
       "level": 62,
@@ -4437,7 +4437,7 @@ var SETDEX_RBY = {
         "Dig",
         "Hydro Pump"
       ],
-      "index": 296
+      "index": 910
     },
     "Swimmer #10": {
       "level": 69,
@@ -4454,7 +4454,7 @@ var SETDEX_RBY = {
         "Dig",
         "Hydro Pump"
       ],
-      "index": 305
+      "index": 941
     },
     "Cooltrainer M #6": {
       "level": 44,
@@ -4471,7 +4471,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Dig"
       ],
-      "index": 395
+      "index": 1316
     }
   },
   "Eevee": {
@@ -4489,7 +4489,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Double-Edge"
       ],
-      "index": 73
+      "index": 184
     },
     "Lass #15": {
       "level": 43,
@@ -4505,7 +4505,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Double-Edge"
       ],
-      "index": 126
+      "index": 338
     },
     "Jr. Trainer F #19": {
       "level": 42,
@@ -4521,7 +4521,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Double-Edge"
       ],
-      "index": 111
+      "index": 298
     },
     "Burglar #4": {
       "level": 77,
@@ -4537,7 +4537,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Double-Edge"
       ],
-      "index": 323
+      "index": 999
     },
     "Rocket #24": {
       "level": 64,
@@ -4553,7 +4553,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Double-Edge"
       ],
-      "index": 252
+      "index": 742
     },
     "Rival - Route 22": {
       "level": 10,
@@ -4568,7 +4568,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Sand Attack"
       ],
-      "index": 2
+      "index": 4
     }
   },
   "Kabuto": {
@@ -4586,7 +4586,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Slash"
       ],
-      "index": 73
+      "index": 185
     },
     "Brock": {
       "level": 16,
@@ -4603,7 +4603,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Slash"
       ],
-      "index": 10
+      "index": 23
     }
   },
   "Omanyte": {
@@ -4620,7 +4620,7 @@ var SETDEX_RBY = {
         "Waterfall",
         "Blizzard"
       ],
-      "index": 73
+      "index": 186
     },
     "Lass #15": {
       "level": 43,
@@ -4637,7 +4637,7 @@ var SETDEX_RBY = {
         "Horn Attack",
         "Leer"
       ],
-      "index": 126
+      "index": 340
     },
     "Pokemaniac #1": {
       "level": 39,
@@ -4654,7 +4654,7 @@ var SETDEX_RBY = {
         "Horn Attack",
         "Leer"
       ],
-      "index": 105
+      "index": 283
     },
     "Brock": {
       "level": 16,
@@ -4669,7 +4669,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Waterfall"
       ],
-      "index": 10
+      "index": 25
     }
   },
   "Pikachu": {
@@ -4688,7 +4688,7 @@ var SETDEX_RBY = {
         "Thunder Punch",
         "Thunderbolt"
       ],
-      "index": 77
+      "index": 201
     },
     "Sailor #8": {
       "level": 36,
@@ -4705,7 +4705,7 @@ var SETDEX_RBY = {
         "Thunder Punch",
         "Thunderbolt"
       ],
-      "index": 90
+      "index": 239
     },
     "Jr. Trainer F #25": {
       "level": 24,
@@ -4722,7 +4722,7 @@ var SETDEX_RBY = {
         "Thunder Punch",
         "Thunderbolt"
       ],
-      "index": 60
+      "index": 153
     },
     "Biker #4": {
       "level": 56,
@@ -4739,7 +4739,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder"
       ],
-      "index": 211
+      "index": 617
     }
   },
   "Poliwhirl": {
@@ -4758,7 +4758,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Body Slam"
       ],
-      "index": 77
+      "index": 202
     },
     "Sailor #6": {
       "level": 29,
@@ -4775,7 +4775,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Body Slam"
       ],
-      "index": 84
+      "index": 221
     },
     "Jr. Trainer F #5": {
       "level": 35,
@@ -4792,7 +4792,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Hydro Pump"
       ],
-      "index": 97
+      "index": 262
     },
     "Blackbelt #4": {
       "level": 65,
@@ -4809,7 +4809,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Hydro Pump"
       ],
-      "index": 246
+      "index": 720
     },
     "Rocket #18": {
       "level": 49,
@@ -4826,7 +4826,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Hydro Pump"
       ],
-      "index": 154
+      "index": 434
     }
   },
   "Nidoking": {
@@ -4845,7 +4845,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 124
+      "index": 334
     },
     "Jr. Trainer M #5": {
       "level": 24,
@@ -4862,7 +4862,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 57
+      "index": 147
     },
     "Jr. Trainer M #9": {
       "level": 52,
@@ -4879,7 +4879,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 177
+      "index": 508
     },
     "Pokemaniac #5": {
       "level": 39,
@@ -4896,7 +4896,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 120
+      "index": 323
     },
     "Pokemaniac #7": {
       "level": 39,
@@ -4913,7 +4913,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 112
+      "index": 302
     },
     "Biker #7": {
       "level": 58,
@@ -4930,7 +4930,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 231
+      "index": 670
     },
     "Biker #8": {
       "level": 58,
@@ -4947,7 +4947,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 219
+      "index": 639
     },
     "Biker #14": {
       "level": 55,
@@ -4964,7 +4964,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 198
+      "index": 578
     },
     "Biker #15": {
       "level": 55,
@@ -4981,7 +4981,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 199
+      "index": 580
     },
     "Cue Ball #7": {
       "level": 57,
@@ -4998,7 +4998,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 227
+      "index": 661
     },
     "Blackbelt #8": {
       "level": 84,
@@ -5015,7 +5015,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 340
+      "index": 1060
     },
     "Blackbelt #9": {
       "level": 90,
@@ -5032,7 +5032,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 358
+      "index": 1160
     },
     "Giovanni": {
       "level": 55,
@@ -5049,7 +5049,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 156
+      "index": 444
     },
     "Cooltrainer M #7": {
       "level": 49,
@@ -5066,7 +5066,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 396
+      "index": 1317
     },
     "Koga": {
       "level": 66,
@@ -5083,7 +5083,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 242
+      "index": 705
     },
     "Gentleman #1": {
       "level": 27,
@@ -5100,7 +5100,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 74
+      "index": 189
     },
     "Ranger": {
       "level": 93,
@@ -5117,7 +5117,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 367
+      "index": 1211
     },
     "Rival - Cerulean City": {
       "level": 17,
@@ -5134,7 +5134,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Earthquake"
       ],
-      "index": 34
+      "index": 84
     }
   },
   "Tentacruel": {
@@ -5151,7 +5151,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Surf"
       ],
-      "index": 125
+      "index": 335
     },
     "Lass #18": {
       "level": 46,
@@ -5166,7 +5166,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Surf"
       ],
-      "index": 136
+      "index": 372
     },
     "Burglar #5": {
       "level": 77,
@@ -5182,7 +5182,7 @@ var SETDEX_RBY = {
         "Surf",
         "Blizzard"
       ],
-      "index": 324
+      "index": 1005
     },
     "Fisherman #1": {
       "level": 27,
@@ -5197,7 +5197,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Surf"
       ],
-      "index": 78
+      "index": 204
     },
     "Fisherman #3": {
       "level": 42,
@@ -5212,7 +5212,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Surf"
       ],
-      "index": 179
+      "index": 515
     },
     "Fisherman #10": {
       "level": 70,
@@ -5228,7 +5228,7 @@ var SETDEX_RBY = {
         "Surf",
         "Blizzard"
       ],
-      "index": 330
+      "index": 1032
     },
     "Swimmer #6": {
       "level": 62,
@@ -5244,7 +5244,7 @@ var SETDEX_RBY = {
         "Surf",
         "Blizzard"
       ],
-      "index": 296
+      "index": 912
     },
     "Swimmer #15": {
       "level": 70,
@@ -5260,7 +5260,7 @@ var SETDEX_RBY = {
         "Surf",
         "Blizzard"
       ],
-      "index": 334
+      "index": 1043
     },
     "Cue Ball #5": {
       "level": 57,
@@ -5276,7 +5276,7 @@ var SETDEX_RBY = {
         "Surf",
         "Blizzard"
       ],
-      "index": 225
+      "index": 655
     },
     "Cue Ball #9": {
       "level": 71,
@@ -5292,7 +5292,7 @@ var SETDEX_RBY = {
         "Surf",
         "Blizzard"
       ],
-      "index": 335
+      "index": 1047
     },
     "Rocket #18": {
       "level": 49,
@@ -5307,7 +5307,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Surf"
       ],
-      "index": 154
+      "index": 431
     },
     "Rocket #21": {
       "level": 51,
@@ -5323,7 +5323,7 @@ var SETDEX_RBY = {
         "Surf",
         "Blizzard"
       ],
-      "index": 175
+      "index": 500
     },
     "Rocket #26": {
       "level": 65,
@@ -5339,7 +5339,7 @@ var SETDEX_RBY = {
         "Surf",
         "Blizzard"
       ],
-      "index": 257
+      "index": 759
     },
     "Cooltrainer M #2": {
       "level": 88,
@@ -5355,7 +5355,7 @@ var SETDEX_RBY = {
         "Surf",
         "Blizzard"
       ],
-      "index": 361
+      "index": 1179
     },
     "Koga": {
       "level": 66,
@@ -5372,7 +5372,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Blizzard"
       ],
-      "index": 242
+      "index": 707
     },
     "Agatha": {
       "level": 115,
@@ -5388,7 +5388,7 @@ var SETDEX_RBY = {
         "Surf",
         "Blizzard"
       ],
-      "index": 371
+      "index": 1238
     }
   },
   "Gyarados": {
@@ -5407,7 +5407,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 125
+      "index": 336
     },
     "Lass #17": {
       "level": 46,
@@ -5424,7 +5424,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 135
+      "index": 370
     },
     "Fisherman #4": {
       "level": 42,
@@ -5441,7 +5441,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 180
+      "index": 517
     },
     "Fisherman #10": {
       "level": 70,
@@ -5458,7 +5458,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 330
+      "index": 1031
     },
     "Fisherman #11": {
       "level": 51,
@@ -5475,7 +5475,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 183
+      "index": 526
     },
     "Swimmer #9": {
       "level": 64,
@@ -5492,7 +5492,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 304
+      "index": 939
     },
     "Swimmer #15": {
       "level": 70,
@@ -5509,7 +5509,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 334
+      "index": 1042
     },
     "Cue Ball #3": {
       "level": 60,
@@ -5526,7 +5526,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 234
+      "index": 678
     },
     "Cue Ball #9": {
       "level": 71,
@@ -5543,7 +5543,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 335
+      "index": 1046
     },
     "Bird Keeper #14": {
       "level": 55,
@@ -5560,7 +5560,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 202
+      "index": 587
     },
     "Rocket #15": {
       "level": 48,
@@ -5577,7 +5577,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 151
+      "index": 423
     },
     "Rocket #19": {
       "level": 50,
@@ -5594,7 +5594,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 173
+      "index": 495
     },
     "Rocket #38": {
       "level": 65,
@@ -5611,9 +5611,9 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 278
+      "index": 841
     },
-    "Rocket #44": {
+    "Jessie & James - Pokemon Tower": {
       "level": 60,
       "dvs": {
         "hp": 8,
@@ -5628,7 +5628,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 176
+      "index": 507
     },
     "Rocket #46": {
       "level": 82,
@@ -5645,7 +5645,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunderbolt"
       ],
-      "index": 318
+      "index": 984
     },
     "Gentleman #3": {
       "level": 31,
@@ -5661,7 +5661,7 @@ var SETDEX_RBY = {
         "Waterfall",
         "Thunderbolt"
       ],
-      "index": 79
+      "index": 208
     },
     "Gentleman #6": {
       "level": 33,
@@ -5678,7 +5678,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 92
+      "index": 245
     },
     "Nurse Joy": {
       "level": 91,
@@ -5695,7 +5695,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 352
+      "index": 1126
     },
     "Rival - Silph Co. #1": {
       "level": 70,
@@ -5712,7 +5712,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Body Slam"
       ],
-      "index": 270
+      "index": 807
     },
     "Rival - Silph Co. #2": {
       "level": 70,
@@ -5729,7 +5729,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Body Slam"
       ],
-      "index": 271
+      "index": 813
     },
     "Rival - Silph Co. #3": {
       "level": 70,
@@ -5746,7 +5746,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Body Slam"
       ],
-      "index": 272
+      "index": 819
     }
   },
   "Wigglytuff": {
@@ -5765,7 +5765,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Thunder Wave"
       ],
-      "index": 126
+      "index": 339
     },
     "Lass #16": {
       "level": 43,
@@ -5782,7 +5782,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Thunder Wave"
       ],
-      "index": 127
+      "index": 344
     },
     "Jr. Trainer M #8": {
       "level": 37,
@@ -5799,7 +5799,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Thunder Wave"
       ],
-      "index": 96
+      "index": 260
     },
     "Jr. Trainer F #7": {
       "level": 39,
@@ -5816,7 +5816,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Thunder Wave"
       ],
-      "index": 103
+      "index": 278
     },
     "Jr. Trainer F #12": {
       "level": 53,
@@ -5833,7 +5833,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Thunder Wave"
       ],
-      "index": 186
+      "index": 533
     },
     "Jr. Trainer F #14": {
       "level": 54,
@@ -5850,7 +5850,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Thunder Wave"
       ],
-      "index": 188
+      "index": 543
     },
     "Jr. Trainer F #24": {
       "level": 67,
@@ -5867,7 +5867,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Thunder Wave"
       ],
-      "index": 303
+      "index": 938
     },
     "Jr. Trainer F #25": {
       "level": 24,
@@ -5884,7 +5884,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Thunder Wave"
       ],
-      "index": 60
+      "index": 154
     },
     "Hiker #2": {
       "level": 21,
@@ -5901,7 +5901,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Thunder Wave"
       ],
-      "index": 49
+      "index": 106
     },
     "Hiker #6": {
       "level": 38,
@@ -5918,7 +5918,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Thunder Wave"
       ],
-      "index": 100
+      "index": 270
     },
     "Hiker #16": {
       "level": 41,
@@ -5935,7 +5935,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Thunder Wave"
       ],
-      "index": 123
+      "index": 330
     },
     "Rocket #31": {
       "level": 66,
@@ -5952,7 +5952,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Thunder Wave"
       ],
-      "index": 265
+      "index": 789
     },
     "Nurse Joy": {
       "level": 91,
@@ -5969,7 +5969,7 @@ var SETDEX_RBY = {
         "Sing",
         "Psychic"
       ],
-      "index": 352
+      "index": 1122
     }
   },
   "Raichu": {
@@ -5988,7 +5988,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 126
+      "index": 341
     },
     "Jr. Trainer F #7": {
       "level": 39,
@@ -6005,7 +6005,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 103
+      "index": 277
     },
     "Jr. Trainer F #12": {
       "level": 53,
@@ -6022,7 +6022,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 186
+      "index": 534
     },
     "Jr. Trainer F #18": {
       "level": 41,
@@ -6039,7 +6039,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 110
+      "index": 295
     },
     "Jr. Trainer F #21": {
       "level": 56,
@@ -6056,7 +6056,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 207
+      "index": 601
     },
     "Pokemaniac #6": {
       "level": 88,
@@ -6073,7 +6073,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 354
+      "index": 1133
     },
     "Cue Ball #2": {
       "level": 59,
@@ -6090,7 +6090,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 233
+      "index": 676
     },
     "Cue Ball #3": {
       "level": 60,
@@ -6107,7 +6107,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 234
+      "index": 679
     },
     "Beauty #4": {
       "level": 53,
@@ -6124,7 +6124,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 191
+      "index": 552
     },
     "Beauty #14": {
       "level": 63,
@@ -6141,7 +6141,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 301
+      "index": 932
     },
     "Rocket #7": {
       "level": 44,
@@ -6158,7 +6158,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 143
+      "index": 398
     },
     "Rocket #12": {
       "level": 49,
@@ -6175,7 +6175,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 148
+      "index": 413
     },
     "Rocket #32": {
       "level": 67,
@@ -6192,7 +6192,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 267
+      "index": 792
     },
     "Cooltrainer F #8": {
       "level": 55,
@@ -6209,7 +6209,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 401
+      "index": 1327
     },
     "Lt. Surge": {
       "level": 39,
@@ -6226,7 +6226,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 93
+      "index": 251
     },
     "Nurse Joy": {
       "level": 91,
@@ -6243,7 +6243,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Sing"
       ],
-      "index": 352
+      "index": 1123
     },
     "Jano": {
       "level": 100,
@@ -6260,7 +6260,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Double-Edge"
       ],
-      "index": 365
+      "index": 1199
     },
     "AJ": {
       "level": 93,
@@ -6277,7 +6277,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Surf"
       ],
-      "index": 368
+      "index": 1221
     },
     "Prof. Oak #1": {
       "level": 115,
@@ -6294,7 +6294,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 370
+      "index": 1229
     }
   },
   "Clefable": {
@@ -6313,7 +6313,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 127
+      "index": 343
     },
     "Jr. Trainer F #4": {
       "level": 44,
@@ -6330,7 +6330,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 134
+      "index": 368
     },
     "Jr. Trainer F #6": {
       "level": 38,
@@ -6347,7 +6347,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 98
+      "index": 265
     },
     "Jr. Trainer F #9": {
       "level": 42,
@@ -6364,7 +6364,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 116
+      "index": 314
     },
     "Fisherman #2": {
       "level": 27,
@@ -6381,7 +6381,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 86
+      "index": 227
     },
     "Beauty #5": {
       "level": 54,
@@ -6398,7 +6398,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 192
+      "index": 554
     },
     "Beauty #10": {
       "level": 55,
@@ -6415,7 +6415,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 213
+      "index": 621
     },
     "Beauty #12": {
       "level": 62,
@@ -6432,7 +6432,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 299
+      "index": 921
     },
     "Juggler #2": {
       "level": 90,
@@ -6449,7 +6449,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 356
+      "index": 1147
     },
     "Bird Keeper #16": {
       "level": 55,
@@ -6466,7 +6466,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 204
+      "index": 594
     },
     "Scientist #1": {
       "level": 73,
@@ -6483,7 +6483,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 312
+      "index": 966
     },
     "Cooltrainer F #1": {
       "level": 50,
@@ -6500,7 +6500,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 141
+      "index": 387
     },
     "Erika": {
       "level": 54,
@@ -6517,7 +6517,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Body Slam"
       ],
-      "index": 142
+      "index": 390
     },
     "Lorelei": {
       "level": 115,
@@ -6534,7 +6534,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Body Slam"
       ],
-      "index": 369
+      "index": 1225
     },
     "AJ": {
       "level": 93,
@@ -6551,7 +6551,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 368
+      "index": 1218
     }
   },
   "Geodude": {
@@ -6567,7 +6567,7 @@ var SETDEX_RBY = {
       "moves": [
         "Self-Destruct"
       ],
-      "index": 8
+      "index": 17
     },
     "Super Nerd #1": {
       "level": 18,
@@ -6581,7 +6581,7 @@ var SETDEX_RBY = {
       "moves": [
         "Self-Destruct"
       ],
-      "index": 24
+      "index": 57
     }
   },
   "Cubone": {
@@ -6599,7 +6599,7 @@ var SETDEX_RBY = {
         "Bone Club",
         "Double-Edge"
       ],
-      "index": 8
+      "index": 18
     },
     "Jr. Trainer M #2": {
       "level": 22,
@@ -6616,7 +6616,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Bonemerang"
       ],
-      "index": 40
+      "index": 105
     },
     "Channeler #17": {
       "level": 49,
@@ -6633,7 +6633,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Bonemerang"
       ],
-      "index": 168
+      "index": 482
     }
   },
   "Machoke": {
@@ -6651,7 +6651,7 @@ var SETDEX_RBY = {
         "Low Kick",
         "Submission"
       ],
-      "index": 87
+      "index": 228
     },
     "Hiker #12": {
       "level": 41,
@@ -6668,7 +6668,7 @@ var SETDEX_RBY = {
         "Submission",
         "Seismic Toss"
       ],
-      "index": 113
+      "index": 305
     },
     "Blackbelt #3": {
       "level": 65,
@@ -6685,7 +6685,7 @@ var SETDEX_RBY = {
         "Submission",
         "Seismic Toss"
       ],
-      "index": 245
+      "index": 718
     },
     "Blackbelt #7": {
       "level": 83,
@@ -6702,7 +6702,7 @@ var SETDEX_RBY = {
         "Submission",
         "Seismic Toss"
       ],
-      "index": 339
+      "index": 1056
     }
   },
   "Shellder": {
@@ -6721,7 +6721,7 @@ var SETDEX_RBY = {
         "Aurora Beam",
         "Supersonic"
       ],
-      "index": 87
+      "index": 229
     },
     "Sailor #5": {
       "level": 30,
@@ -6738,7 +6738,7 @@ var SETDEX_RBY = {
         "Aurora Beam",
         "Supersonic"
       ],
-      "index": 83
+      "index": 218
     },
     "Super Nerd #2": {
       "level": 19,
@@ -6755,7 +6755,7 @@ var SETDEX_RBY = {
         "Aurora Beam",
         "Supersonic"
       ],
-      "index": 30
+      "index": 70
     },
     "Rocket #42": {
       "level": 20,
@@ -6772,7 +6772,7 @@ var SETDEX_RBY = {
         "Ice Beam",
         "Supersonic"
       ],
-      "index": 31
+      "index": 74
     }
   },
   "Seel": {
@@ -6791,7 +6791,7 @@ var SETDEX_RBY = {
         "Bubble Beam",
         "Rest"
       ],
-      "index": 87
+      "index": 230
     },
     "Jr. Trainer F #3": {
       "level": 23,
@@ -6808,7 +6808,7 @@ var SETDEX_RBY = {
         "Bubble Beam",
         "Rest"
       ],
-      "index": 59
+      "index": 150
     },
     "Hiker #4": {
       "level": 23,
@@ -6825,7 +6825,7 @@ var SETDEX_RBY = {
         "Bubble Beam",
         "Rest"
       ],
-      "index": 51
+      "index": 111
     }
   },
   "Primeape": {
@@ -6844,7 +6844,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Seismic Toss"
       ],
-      "index": 88
+      "index": 231
     },
     "Biker #4": {
       "level": 56,
@@ -6861,7 +6861,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "High Jump Kick"
       ],
-      "index": 211
+      "index": 615
     },
     "Biker #7": {
       "level": 58,
@@ -6878,7 +6878,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "High Jump Kick"
       ],
-      "index": 231
+      "index": 672
     },
     "Tamer #6": {
       "level": 60,
@@ -6895,7 +6895,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "High Jump Kick"
       ],
-      "index": 388
+      "index": 1298
     },
     "Blackbelt #1": {
       "level": 67,
@@ -6912,7 +6912,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 243
+      "index": 712
     },
     "Blackbelt #2": {
       "level": 66,
@@ -6929,7 +6929,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "High Jump Kick"
       ],
-      "index": 244
+      "index": 715
     },
     "Blackbelt #5": {
       "level": 65,
@@ -6946,7 +6946,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "High Jump Kick"
       ],
-      "index": 247
+      "index": 724
     },
     "Blackbelt #6": {
       "level": 83,
@@ -6963,7 +6963,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "High Jump Kick"
       ],
-      "index": 338
+      "index": 1055
     },
     "Gentleman #4": {
       "level": 48,
@@ -6980,7 +6980,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "High Jump Kick"
       ],
-      "index": 185
+      "index": 530
     }
   },
   "Tentacool": {
@@ -6999,7 +6999,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Bubble Beam"
       ],
-      "index": 88
+      "index": 232
     },
     "Sailor #4": {
       "level": 30,
@@ -7016,7 +7016,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Bubble Beam"
       ],
-      "index": 82
+      "index": 216
     },
     "Rocket #26": {
       "level": 65,
@@ -7033,7 +7033,7 @@ var SETDEX_RBY = {
         "Bubble Beam",
         "Hydro Pump"
       ],
-      "index": 257
+      "index": 758
     }
   },
   "Dewgong": {
@@ -7052,7 +7052,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Horn Drill"
       ],
-      "index": 81
+      "index": 214
     },
     "Jr. Trainer F #18": {
       "level": 41,
@@ -7069,7 +7069,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Horn Drill"
       ],
-      "index": 110
+      "index": 296
     },
     "Swimmer #2": {
       "level": 60,
@@ -7086,7 +7086,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Rest"
       ],
-      "index": 292
+      "index": 899
     },
     "Swimmer #11": {
       "level": 63,
@@ -7103,7 +7103,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Rest"
       ],
-      "index": 306
+      "index": 943
     },
     "Swimmer #14": {
       "level": 70,
@@ -7120,7 +7120,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Rest"
       ],
-      "index": 333
+      "index": 1040
     },
     "Gambler #2": {
       "level": 25,
@@ -7137,7 +7137,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Horn Drill"
       ],
-      "index": 68
+      "index": 172
     },
     "Gambler #5": {
       "level": 44,
@@ -7154,7 +7154,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Horn Drill"
       ],
-      "index": 131
+      "index": 360
     },
     "Gambler #7": {
       "level": 43,
@@ -7171,7 +7171,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Horn Drill"
       ],
-      "index": 132
+      "index": 362
     },
     "Beauty #5": {
       "level": 54,
@@ -7188,7 +7188,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Rest"
       ],
-      "index": 192
+      "index": 555
     },
     "Bird Keeper #9": {
       "level": 57,
@@ -7205,7 +7205,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Rest"
       ],
-      "index": 217
+      "index": 632
     },
     "Misty": {
       "level": 25,
@@ -7222,7 +7222,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Waterfall"
       ],
-      "index": 54
+      "index": 136
     }
   },
   "Mankey": {
@@ -7241,7 +7241,7 @@ var SETDEX_RBY = {
         "Submission",
         "Double-Edge"
       ],
-      "index": 82
+      "index": 217
     },
     "Jr. Trainer M #2": {
       "level": 22,
@@ -7258,7 +7258,7 @@ var SETDEX_RBY = {
         "Submission",
         "Double-Edge"
       ],
-      "index": 40
+      "index": 103
     },
     "Blackbelt #5": {
       "level": 65,
@@ -7275,7 +7275,7 @@ var SETDEX_RBY = {
         "Submission",
         "Double-Edge"
       ],
-      "index": 247
+      "index": 723
     }
   },
   "Machop": {
@@ -7292,7 +7292,7 @@ var SETDEX_RBY = {
         "Low Kick",
         "Karate Chop"
       ],
-      "index": 84
+      "index": 222
     },
     "Hiker #1": {
       "level": 18,
@@ -7307,7 +7307,7 @@ var SETDEX_RBY = {
         "Low Kick",
         "Karate Chop"
       ],
-      "index": 25
+      "index": 60
     },
     "Blackbelt #3": {
       "level": 65,
@@ -7324,7 +7324,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Submission"
       ],
-      "index": 245
+      "index": 717
     },
     "Rocket #5": {
       "level": 24,
@@ -7339,7 +7339,7 @@ var SETDEX_RBY = {
         "Low Kick",
         "Karate Chop"
       ],
-      "index": 35
+      "index": 138
     }
   },
   "Machamp": {
@@ -7358,7 +7358,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 85
+      "index": 224
     },
     "Pokemaniac #6": {
       "level": 88,
@@ -7375,7 +7375,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "High Jump Kick"
       ],
-      "index": 354
+      "index": 1134
     },
     "Hiker #15": {
       "level": 92,
@@ -7392,7 +7392,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "High Jump Kick"
       ],
-      "index": 349
+      "index": 1107
     },
     "Cue Ball #1": {
       "level": 59,
@@ -7409,7 +7409,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "High Jump Kick"
       ],
-      "index": 232
+      "index": 673
     },
     "Cue Ball #4": {
       "level": 57,
@@ -7426,7 +7426,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "High Jump Kick"
       ],
-      "index": 224
+      "index": 653
     },
     "Cue Ball #7": {
       "level": 57,
@@ -7443,7 +7443,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "High Jump Kick"
       ],
-      "index": 227
+      "index": 660
     },
     "Cue Ball #9": {
       "level": 71,
@@ -7460,7 +7460,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "High Jump Kick"
       ],
-      "index": 335
+      "index": 1045
     },
     "Blackbelt #1": {
       "level": 67,
@@ -7477,7 +7477,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 243
+      "index": 713
     },
     "Blackbelt #3": {
       "level": 65,
@@ -7494,7 +7494,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "High Jump Kick"
       ],
-      "index": 245
+      "index": 719
     },
     "Blackbelt #8": {
       "level": 84,
@@ -7511,7 +7511,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "High Jump Kick"
       ],
-      "index": 340
+      "index": 1062
     },
     "Blackbelt #9": {
       "level": 90,
@@ -7528,7 +7528,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "High Jump Kick"
       ],
-      "index": 358
+      "index": 1162
     },
     "Rocket #16": {
       "level": 50,
@@ -7545,7 +7545,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 152
+      "index": 426
     },
     "Rocket #28": {
       "level": 66,
@@ -7562,7 +7562,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "High Jump Kick"
       ],
-      "index": 261
+      "index": 772
     },
     "Rocket #43": {
       "level": 55,
@@ -7579,7 +7579,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 155
+      "index": 439
     },
     "Rocket #45": {
       "level": 72,
@@ -7596,7 +7596,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 282
+      "index": 863
     },
     "Rocket #47": {
       "level": 90,
@@ -7613,7 +7613,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 344
+      "index": 1076
     },
     "Bruno": {
       "level": 68,
@@ -7630,7 +7630,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 248
+      "index": 731
     },
     "Prof. Oak #1": {
       "level": 115,
@@ -7647,7 +7647,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 370
+      "index": 1230
     }
   },
   "Magnemite": {
@@ -7666,7 +7666,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Double-Edge"
       ],
-      "index": 90
+      "index": 237
     },
     "Super Nerd #1": {
       "level": 18,
@@ -7683,7 +7683,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Double-Edge"
       ],
-      "index": 24
+      "index": 56
     },
     "Super Nerd #6": {
       "level": 100,
@@ -7700,7 +7700,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Double-Edge"
       ],
-      "index": 380
+      "index": 1279
     },
     "Super Nerd #7": {
       "level": 20,
@@ -7717,7 +7717,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Double-Edge"
       ],
-      "index": 381
+      "index": 1282
     },
     "Super Nerd #7 (2)": {
       "level": 20,
@@ -7734,7 +7734,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Double-Edge"
       ],
-      "index": 381
+      "index": 1283
     },
     "Super Nerd #7 (3)": {
       "level": 20,
@@ -7751,7 +7751,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Double-Edge"
       ],
-      "index": 381
+      "index": 1284
     },
     "Super Nerd #8": {
       "level": 24,
@@ -7768,7 +7768,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Double-Edge"
       ],
-      "index": 382
+      "index": 1286
     },
     "Engineer #3": {
       "level": 26,
@@ -7785,7 +7785,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Double-Edge"
       ],
-      "index": 66
+      "index": 166
     },
     "Gentleman #6": {
       "level": 33,
@@ -7802,7 +7802,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Double-Edge"
       ],
-      "index": 92
+      "index": 244
     }
   },
   "Poliwrath": {
@@ -7821,7 +7821,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Blizzard"
       ],
-      "index": 90
+      "index": 238
     },
     "Biker #2": {
       "level": 55,
@@ -7838,7 +7838,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 196
+      "index": 569
     },
     "Biker #11": {
       "level": 58,
@@ -7855,7 +7855,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 222
+      "index": 644
     },
     "Swimmer #4": {
       "level": 62,
@@ -7872,7 +7872,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 294
+      "index": 904
     },
     "Swimmer #7": {
       "level": 62,
@@ -7889,7 +7889,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 297
+      "index": 913
     },
     "Swimmer #8": {
       "level": 62,
@@ -7906,7 +7906,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 298
+      "index": 916
     },
     "Swimmer #11": {
       "level": 63,
@@ -7923,7 +7923,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 306
+      "index": 945
     },
     "Swimmer #14": {
       "level": 70,
@@ -7940,7 +7940,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 333
+      "index": 1041
     },
     "Beauty #4": {
       "level": 53,
@@ -7957,7 +7957,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 191
+      "index": 551
     },
     "Blackbelt #1": {
       "level": 67,
@@ -7974,7 +7974,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 243
+      "index": 710
     },
     "Blackbelt #4": {
       "level": 65,
@@ -7991,7 +7991,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 246
+      "index": 721
     },
     "Blackbelt #7": {
       "level": 83,
@@ -8008,7 +8008,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 339
+      "index": 1057
     },
     "Rocket #29": {
       "level": 67,
@@ -8025,7 +8025,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 262
+      "index": 775
     },
     "Bruno": {
       "level": 68,
@@ -8042,7 +8042,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hydro Pump"
       ],
-      "index": 248
+      "index": 726
     },
     "Misty": {
       "level": 25,
@@ -8059,7 +8059,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Waterfall"
       ],
-      "index": 54
+      "index": 135
     },
     "Gentleman #4": {
       "level": 48,
@@ -8076,7 +8076,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 185
+      "index": 532
     },
     "Jano": {
       "level": 100,
@@ -8093,7 +8093,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Psychic"
       ],
-      "index": 365
+      "index": 1200
     }
   },
   "Graveler": {
@@ -8112,7 +8112,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Explosion"
       ],
-      "index": 89
+      "index": 234
     },
     "Super Nerd #5": {
       "level": 43,
@@ -8129,7 +8129,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Earthquake"
       ],
-      "index": 130
+      "index": 353
     },
     "Hiker #13": {
       "level": 41,
@@ -8146,7 +8146,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Explosion"
       ],
-      "index": 114
+      "index": 308
     }
   },
   "Golduck": {
@@ -8165,7 +8165,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Hypnosis"
       ],
-      "index": 89
+      "index": 235
     },
     "Jr. Trainer M #3": {
       "level": 20,
@@ -8182,7 +8182,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Hypnosis"
       ],
-      "index": 41
+      "index": 99
     },
     "Hiker #13": {
       "level": 41,
@@ -8199,7 +8199,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Hypnosis"
       ],
-      "index": 114
+      "index": 309
     },
     "Swimmer #2": {
       "level": 60,
@@ -8216,7 +8216,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Hydro Pump"
       ],
-      "index": 292
+      "index": 898
     },
     "Swimmer #8": {
       "level": 62,
@@ -8233,7 +8233,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Hydro Pump"
       ],
-      "index": 298
+      "index": 918
     },
     "Swimmer #13": {
       "level": 70,
@@ -8250,7 +8250,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Hydro Pump"
       ],
-      "index": 332
+      "index": 1039
     },
     "Bird Keeper #3": {
       "level": 54,
@@ -8267,7 +8267,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Hydro Pump"
       ],
-      "index": 195
+      "index": 565
     },
     "Bird Keeper #7": {
       "level": 56,
@@ -8284,7 +8284,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Hydro Pump"
       ],
-      "index": 215
+      "index": 627
     },
     "Bird Keeper #10": {
       "level": 57,
@@ -8301,7 +8301,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Hydro Pump"
       ],
-      "index": 218
+      "index": 635
     },
     "Bird Keeper #11": {
       "level": 65,
@@ -8318,7 +8318,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Hydro Pump"
       ],
-      "index": 311
+      "index": 961
     },
     "Bird Keeper #15": {
       "level": 55,
@@ -8335,7 +8335,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Hydro Pump"
       ],
-      "index": 203
+      "index": 590
     },
     "Misty": {
       "level": 25,
@@ -8352,7 +8352,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Body Slam"
       ],
-      "index": 54
+      "index": 134
     }
   },
   "Starmie": {
@@ -8371,7 +8371,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 89
+      "index": 236
     },
     "Pokemaniac #6": {
       "level": 88,
@@ -8388,7 +8388,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 354
+      "index": 1135
     },
     "Engineer #1": {
       "level": 48,
@@ -8405,7 +8405,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 178
+      "index": 510
     },
     "Fisherman #5": {
       "level": 42,
@@ -8422,7 +8422,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 181
+      "index": 520
     },
     "Fisherman #6": {
       "level": 42,
@@ -8439,7 +8439,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 182
+      "index": 523
     },
     "Fisherman #7": {
       "level": 70,
@@ -8456,7 +8456,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 327
+      "index": 1020
     },
     "Fisherman #10": {
       "level": 70,
@@ -8473,7 +8473,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 330
+      "index": 1033
     },
     "Swimmer #13": {
       "level": 70,
@@ -8490,7 +8490,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 332
+      "index": 1038
     },
     "Beauty #14": {
       "level": 63,
@@ -8507,7 +8507,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 301
+      "index": 930
     },
     "Psychic #2": {
       "level": 69,
@@ -8524,7 +8524,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 285
+      "index": 878
     },
     "SHF Cerulean Cave": {
       "level": 127,
@@ -8541,7 +8541,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 376
+      "index": 1267
     },
     "SHF Victory Road": {
       "level": 110,
@@ -8558,7 +8558,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 359
+      "index": 1164
     },
     "Scientist #5": {
       "level": 65,
@@ -8575,7 +8575,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 256
+      "index": 757
     },
     "Scientist #9": {
       "level": 67,
@@ -8592,7 +8592,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 273
+      "index": 822
     },
     "Scientist #10": {
       "level": 66,
@@ -8609,7 +8609,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 276
+      "index": 834
     },
     "Scientist #11": {
       "level": 66,
@@ -8626,7 +8626,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 279
+      "index": 846
     },
     "Scientist #12": {
       "level": 71,
@@ -8643,7 +8643,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 315
+      "index": 972
     },
     "Cooltrainer M #3": {
       "level": 92,
@@ -8660,7 +8660,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 362
+      "index": 1183
     },
     "Cooltrainer M #4": {
       "level": 90,
@@ -8677,7 +8677,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 394
+      "index": 1312
     },
     "Cooltrainer M #9": {
       "level": 83,
@@ -8694,7 +8694,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 342
+      "index": 1068
     },
     "Misty": {
       "level": 25,
@@ -8711,7 +8711,7 @@ var SETDEX_RBY = {
         "Recover",
         "Thunderbolt"
       ],
-      "index": 54
+      "index": 137
     },
     "Sabrina": {
       "level": 75,
@@ -8728,7 +8728,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 291
+      "index": 896
     },
     "Soldier": {
       "level": 93,
@@ -8745,7 +8745,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 366
+      "index": 1209
     },
     "Rival - Route 22 #1": {
       "level": 90,
@@ -8762,7 +8762,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 346
+      "index": 1088
     },
     "Rival - Route 22 #2": {
       "level": 90,
@@ -8779,7 +8779,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 347
+      "index": 1094
     },
     "Rival - Route 22 #3": {
       "level": 90,
@@ -8796,7 +8796,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Recover"
       ],
-      "index": 348
+      "index": 1100
     },
     "Rival - Champion #1": {
       "level": 115,
@@ -8813,7 +8813,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 373
+      "index": 1250
     },
     "Rival - Champion #2": {
       "level": 115,
@@ -8830,7 +8830,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 374
+      "index": 1256
     },
     "Rival - Champion #3": {
       "level": 115,
@@ -8847,7 +8847,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 375
+      "index": 1262
     }
   },
   "Diglett": {
@@ -8864,7 +8864,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Slash"
       ],
-      "index": 9
+      "index": 19
     }
   },
   "Rhyhorn": {
@@ -8880,7 +8880,7 @@ var SETDEX_RBY = {
       "moves": [
         "Double-Edge"
       ],
-      "index": 9
+      "index": 21
     },
     "Pokemaniac #1": {
       "level": 39,
@@ -8895,7 +8895,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Rock Slide"
       ],
-      "index": 105
+      "index": 282
     },
     "Hiker #1": {
       "level": 18,
@@ -8909,7 +8909,7 @@ var SETDEX_RBY = {
       "moves": [
         "Double-Edge"
       ],
-      "index": 25
+      "index": 59
     },
     "Hiker #2": {
       "level": 21,
@@ -8923,7 +8923,7 @@ var SETDEX_RBY = {
       "moves": [
         "Double-Edge"
       ],
-      "index": 49
+      "index": 107
     },
     "Hiker #6": {
       "level": 38,
@@ -8938,7 +8938,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Rock Slide"
       ],
-      "index": 100
+      "index": 268
     },
     "Hiker #7": {
       "level": 42,
@@ -8954,7 +8954,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 107
+      "index": 288
     },
     "Tamer #3": {
       "level": 83,
@@ -8970,7 +8970,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 336
+      "index": 1048
     },
     "Tamer #6": {
       "level": 60,
@@ -8986,7 +8986,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 388
+      "index": 1299
     },
     "Bird Keeper #8": {
       "level": 57,
@@ -9002,7 +9002,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 216
+      "index": 629
     }
   },
   "Jolteon": {
@@ -9021,7 +9021,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 133
+      "index": 365
     },
     "Jr. Trainer F #16": {
       "level": 64,
@@ -9038,7 +9038,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 302
+      "index": 933
     },
     "Jr. Trainer F #19": {
       "level": 42,
@@ -9055,7 +9055,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 111
+      "index": 299
     },
     "Biker #14": {
       "level": 55,
@@ -9072,7 +9072,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 198
+      "index": 577
     },
     "Burglar #4": {
       "level": 77,
@@ -9089,7 +9089,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 323
+      "index": 1000
     },
     "Burglar #5": {
       "level": 77,
@@ -9106,7 +9106,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 324
+      "index": 1006
     },
     "Rocker #2": {
       "level": 50,
@@ -9123,7 +9123,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 184
+      "index": 527
     },
     "Blackbelt #8": {
       "level": 84,
@@ -9140,7 +9140,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 340
+      "index": 1059
     },
     "Blackbelt #9": {
       "level": 90,
@@ -9157,7 +9157,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 358
+      "index": 1157
     },
     "Rocket #24": {
       "level": 64,
@@ -9174,7 +9174,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 252
+      "index": 743
     },
     "Rocket #38": {
       "level": 65,
@@ -9191,7 +9191,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 278
+      "index": 840
     },
     "Cooltrainer M #2": {
       "level": 88,
@@ -9208,7 +9208,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 361
+      "index": 1175
     },
     "Cooltrainer M #3": {
       "level": 92,
@@ -9225,7 +9225,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 362
+      "index": 1182
     },
     "Lt. Surge": {
       "level": 39,
@@ -9242,7 +9242,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 93
+      "index": 249
     },
     "Officer Jenny": {
       "level": 90,
@@ -9259,7 +9259,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Body Slam"
       ],
-      "index": 353
+      "index": 1130
     },
     "Rival - SS Anne": {
       "level": 30,
@@ -9276,7 +9276,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Thunderbolt"
       ],
-      "index": 76
+      "index": 196
     },
     "Rival - Route 22 #1": {
       "level": 90,
@@ -9293,7 +9293,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Thunderbolt"
       ],
-      "index": 346
+      "index": 1085
     },
     "Rival - Route 22 #2": {
       "level": 90,
@@ -9310,7 +9310,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Thunderbolt"
       ],
-      "index": 347
+      "index": 1091
     },
     "Rival - Route 22 #3": {
       "level": 90,
@@ -9327,7 +9327,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 348
+      "index": 1097
     },
     "Rival - Champion #1": {
       "level": 115,
@@ -9344,7 +9344,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Thunderbolt"
       ],
-      "index": 373
+      "index": 1248
     },
     "Rival - Champion #2": {
       "level": 115,
@@ -9361,7 +9361,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Thunderbolt"
       ],
-      "index": 374
+      "index": 1254
     },
     "Rival - Champion #3": {
       "level": 115,
@@ -9378,7 +9378,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Thunderbolt"
       ],
-      "index": 375
+      "index": 1260
     }
   },
   "Flareon": {
@@ -9396,7 +9396,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Fire Blast"
       ],
-      "index": 133
+      "index": 366
     },
     "Jr. Trainer M #10": {
       "level": 24,
@@ -9412,7 +9412,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Fire Blast"
       ],
-      "index": 58
+      "index": 148
     },
     "Jr. Trainer F #12": {
       "level": 53,
@@ -9428,7 +9428,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Fire Blast"
       ],
-      "index": 186
+      "index": 536
     },
     "Jr. Trainer F #16": {
       "level": 64,
@@ -9444,7 +9444,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Fire Blast"
       ],
-      "index": 302
+      "index": 934
     },
     "Jr. Trainer F #19": {
       "level": 42,
@@ -9460,7 +9460,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Fire Blast"
       ],
-      "index": 111
+      "index": 300
     },
     "Biker #8": {
       "level": 58,
@@ -9476,7 +9476,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Fire Blast"
       ],
-      "index": 219
+      "index": 638
     },
     "Biker #13": {
       "level": 55,
@@ -9492,7 +9492,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Fire Blast"
       ],
-      "index": 197
+      "index": 573
     },
     "Burglar #4": {
       "level": 77,
@@ -9509,7 +9509,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Solar Beam"
       ],
-      "index": 323
+      "index": 1001
     },
     "Burglar #8": {
       "level": 75,
@@ -9526,7 +9526,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Solar Beam"
       ],
-      "index": 314
+      "index": 970
     },
     "Blackbelt #9": {
       "level": 90,
@@ -9543,7 +9543,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Solar Beam"
       ],
-      "index": 358
+      "index": 1158
     },
     "Rocket #24": {
       "level": 64,
@@ -9559,7 +9559,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Fire Blast"
       ],
-      "index": 252
+      "index": 744
     },
     "Blaine": {
       "level": 84,
@@ -9576,7 +9576,7 @@ var SETDEX_RBY = {
         "Solar Beam",
         "Body Slam"
       ],
-      "index": 326
+      "index": 1016
     },
     "Rival - SS Anne": {
       "level": 30,
@@ -9593,7 +9593,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Body Slam"
       ],
-      "index": 76
+      "index": 195
     }
   },
   "Vaporeon": {
@@ -9612,7 +9612,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 133
+      "index": 367
     },
     "Jr. Trainer F #14": {
       "level": 54,
@@ -9629,7 +9629,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 188
+      "index": 544
     },
     "Jr. Trainer F #16": {
       "level": 64,
@@ -9646,7 +9646,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 302
+      "index": 935
     },
     "Jr. Trainer F #19": {
       "level": 42,
@@ -9663,7 +9663,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 111
+      "index": 301
     },
     "Burglar #4": {
       "level": 77,
@@ -9680,7 +9680,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 323
+      "index": 1002
     },
     "Swimmer #8": {
       "level": 62,
@@ -9697,7 +9697,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 298
+      "index": 920
     },
     "Swimmer #12": {
       "level": 70,
@@ -9714,7 +9714,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 331
+      "index": 1036
     },
     "Blackbelt #9": {
       "level": 90,
@@ -9731,7 +9731,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 358
+      "index": 1159
     },
     "Rocket #23": {
       "level": 68,
@@ -9748,7 +9748,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 251
+      "index": 740
     },
     "Rocket #24": {
       "level": 64,
@@ -9765,7 +9765,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 252
+      "index": 745
     },
     "Cooltrainer F #2": {
       "level": 90,
@@ -9782,7 +9782,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hydro Pump"
       ],
-      "index": 363
+      "index": 1192
     },
     "Misty": {
       "level": 25,
@@ -9799,7 +9799,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Waterfall"
       ],
-      "index": 54
+      "index": 133
     },
     "Rival - SS Anne": {
       "level": 31,
@@ -9816,7 +9816,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Surf"
       ],
-      "index": 76
+      "index": 197
     }
   },
   "Doduo": {
@@ -9835,7 +9835,7 @@ var SETDEX_RBY = {
         "Drill Peck",
         "Tri Attack"
       ],
-      "index": 96
+      "index": 257
     },
     "Bird Keeper #8": {
       "level": 57,
@@ -9852,7 +9852,7 @@ var SETDEX_RBY = {
         "Tri Attack",
         "Agility"
       ],
-      "index": 216
+      "index": 630
     }
   },
   "Dugtrio": {
@@ -9871,7 +9871,7 @@ var SETDEX_RBY = {
         "Fissure",
         "Slash"
       ],
-      "index": 96
+      "index": 258
     },
     "Pokemaniac #7": {
       "level": 39,
@@ -9888,7 +9888,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 112
+      "index": 303
     },
     "Hiker #8": {
       "level": 43,
@@ -9905,7 +9905,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 108
+      "index": 292
     },
     "Hiker #9": {
       "level": 41,
@@ -9922,7 +9922,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 121
+      "index": 325
     },
     "Gambler #3": {
       "level": 25,
@@ -9939,7 +9939,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Fissure"
       ],
-      "index": 69
+      "index": 175
     },
     "Gambler #5": {
       "level": 44,
@@ -9956,7 +9956,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 131
+      "index": 361
     },
     "Gambler #7": {
       "level": 43,
@@ -9973,7 +9973,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 132
+      "index": 364
     },
     "Beauty #9": {
       "level": 55,
@@ -9990,7 +9990,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 212
+      "index": 619
     },
     "Beauty #15": {
       "level": 64,
@@ -10007,7 +10007,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 310
+      "index": 955
     },
     "Tamer #3": {
       "level": 83,
@@ -10024,7 +10024,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 336
+      "index": 1049
     },
     "Tamer #5": {
       "level": 90,
@@ -10041,7 +10041,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 357
+      "index": 1151
     },
     "Bird Keeper #6": {
       "level": 56,
@@ -10058,7 +10058,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 214
+      "index": 622
     },
     "Giovanni": {
       "level": 55,
@@ -10075,7 +10075,7 @@ var SETDEX_RBY = {
         "Fissure",
         "Body Slam"
       ],
-      "index": 156
+      "index": 442
     },
     "Giovanni #3": {
       "level": 90,
@@ -10092,7 +10092,7 @@ var SETDEX_RBY = {
         "Slash",
         "Body Slam"
       ],
-      "index": 345
+      "index": 1080
     },
     "Rocket #5": {
       "level": 24,
@@ -10109,7 +10109,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Fissure"
       ],
-      "index": 35
+      "index": 140
     },
     "Rocket #8": {
       "level": 45,
@@ -10126,7 +10126,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 144
+      "index": 402
     },
     "Rocket #10": {
       "level": 46,
@@ -10143,7 +10143,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 146
+      "index": 407
     },
     "Rocket #38": {
       "level": 65,
@@ -10160,7 +10160,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 278
+      "index": 842
     },
     "Cooltrainer M #10": {
       "level": 84,
@@ -10177,7 +10177,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 343
+      "index": 1072
     },
     "Cooltrainer F #5": {
       "level": 90,
@@ -10194,7 +10194,7 @@ var SETDEX_RBY = {
         "Slash",
         "Earthquake"
       ],
-      "index": 351
+      "index": 1116
     }
   },
   "Seadra": {
@@ -10211,7 +10211,7 @@ var SETDEX_RBY = {
         "Dragon Rage",
         "Toxic"
       ],
-      "index": 53
+      "index": 132
     },
     "Jr. Trainer F #12": {
       "level": 53,
@@ -10228,7 +10228,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Smokescreen"
       ],
-      "index": 186
+      "index": 537
     },
     "Hiker #6": {
       "level": 38,
@@ -10244,7 +10244,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Hydro Pump"
       ],
-      "index": 100
+      "index": 269
     },
     "Swimmer #3": {
       "level": 60,
@@ -10261,7 +10261,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Smokescreen"
       ],
-      "index": 293
+      "index": 900
     },
     "Swimmer #5": {
       "level": 62,
@@ -10278,7 +10278,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Smokescreen"
       ],
-      "index": 295
+      "index": 908
     },
     "Swimmer #11": {
       "level": 63,
@@ -10295,7 +10295,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Smokescreen"
       ],
-      "index": 306
+      "index": 946
     },
     "Swimmer #12": {
       "level": 70,
@@ -10312,7 +10312,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Smokescreen"
       ],
-      "index": 331
+      "index": 1037
     },
     "Bird Keeper #6": {
       "level": 56,
@@ -10329,7 +10329,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Smokescreen"
       ],
-      "index": 214
+      "index": 624
     }
   },
   "Jynx": {
@@ -10347,7 +10347,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Blizzard"
       ],
-      "index": 134
+      "index": 369
     },
     "Jr. Trainer F #20": {
       "level": 54,
@@ -10363,7 +10363,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Blizzard"
       ],
-      "index": 206
+      "index": 599
     },
     "Beauty #13": {
       "level": 63,
@@ -10379,7 +10379,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Blizzard"
       ],
-      "index": 300
+      "index": 928
     },
     "Psychic #3": {
       "level": 69,
@@ -10395,7 +10395,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Blizzard"
       ],
-      "index": 286
+      "index": 880
     },
     "Juggler #5": {
       "level": 94,
@@ -10411,7 +10411,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Blizzard"
       ],
-      "index": 360
+      "index": 1171
     },
     "Rocket #11": {
       "level": 46,
@@ -10427,7 +10427,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Blizzard"
       ],
-      "index": 147
+      "index": 411
     },
     "Rocket #36": {
       "level": 66,
@@ -10443,7 +10443,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Blizzard"
       ],
-      "index": 275
+      "index": 828
     },
     "Cooltrainer F #2": {
       "level": 90,
@@ -10459,7 +10459,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Blizzard"
       ],
-      "index": 363
+      "index": 1187
     },
     "Cooltrainer F #3": {
       "level": 90,
@@ -10475,7 +10475,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Blizzard"
       ],
-      "index": 364
+      "index": 1194
     },
     "Sabrina": {
       "level": 75,
@@ -10491,7 +10491,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Blizzard"
       ],
-      "index": 291
+      "index": 892
     },
     "Lorelei": {
       "level": 115,
@@ -10507,7 +10507,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Blizzard"
       ],
-      "index": 369
+      "index": 1227
     },
     "Channeler #14": {
       "level": 47,
@@ -10523,7 +10523,7 @@ var SETDEX_RBY = {
         "Lovely Kiss",
         "Blizzard"
       ],
-      "index": 166
+      "index": 479
     },
     "Agatha": {
       "level": 115,
@@ -10539,7 +10539,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Blizzard"
       ],
-      "index": 371
+      "index": 1237
     },
     "Nurse Joy": {
       "level": 92,
@@ -10556,7 +10556,7 @@ var SETDEX_RBY = {
         "Petal Dance",
         "Blizzard"
       ],
-      "index": 352
+      "index": 1121
     }
   },
   "Gloom": {
@@ -10574,7 +10574,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Stun Spore"
       ],
-      "index": 97
+      "index": 261
     },
     "Jr. Trainer F #9": {
       "level": 42,
@@ -10590,7 +10590,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Stun Spore"
       ],
-      "index": 116
+      "index": 313
     },
     "Jr. Trainer F #11": {
       "level": 47,
@@ -10606,7 +10606,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Stun Spore"
       ],
-      "index": 137
+      "index": 376
     }
   },
   "Electabuzz": {
@@ -10625,7 +10625,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Thunder Wave"
       ],
-      "index": 104
+      "index": 279
     },
     "Super Nerd #4": {
       "level": 44,
@@ -10642,7 +10642,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Thunder Wave"
       ],
-      "index": 129
+      "index": 349
     },
     "Hiker #16": {
       "level": 41,
@@ -10659,7 +10659,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Thunder Wave"
       ],
-      "index": 123
+      "index": 332
     },
     "Biker #9": {
       "level": 58,
@@ -10676,7 +10676,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Thunder Wave"
       ],
-      "index": 220
+      "index": 640
     },
     "Biker #13": {
       "level": 55,
@@ -10693,7 +10693,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Thunder Wave"
       ],
-      "index": 197
+      "index": 572
     },
     "Rocker #2": {
       "level": 50,
@@ -10710,7 +10710,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Thunder Wave"
       ],
-      "index": 184
+      "index": 529
     },
     "Rocket #11": {
       "level": 46,
@@ -10727,7 +10727,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Thunder Wave"
       ],
-      "index": 147
+      "index": 409
     },
     "Rocket #28": {
       "level": 66,
@@ -10744,7 +10744,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Thunder Wave"
       ],
-      "index": 261
+      "index": 771
     },
     "Cooltrainer F #3": {
       "level": 90,
@@ -10761,7 +10761,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Thunder Wave"
       ],
-      "index": 364
+      "index": 1193
     },
     "Bruno": {
       "level": 68,
@@ -10778,7 +10778,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Ice Punch"
       ],
-      "index": 248
+      "index": 728
     },
     "Lt. Surge": {
       "level": 39,
@@ -10795,7 +10795,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Psychic"
       ],
-      "index": 93
+      "index": 250
     }
   },
   "Magmar": {
@@ -10814,7 +10814,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Fire Blast"
       ],
-      "index": 104
+      "index": 280
     },
     "Super Nerd #12": {
       "level": 80,
@@ -10831,7 +10831,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Solar Beam"
       ],
-      "index": 322
+      "index": 997
     },
     "Biker #11": {
       "level": 58,
@@ -10848,7 +10848,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Fire Blast"
       ],
-      "index": 222
+      "index": 645
     },
     "Biker #14": {
       "level": 55,
@@ -10865,7 +10865,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Fire Blast"
       ],
-      "index": 198
+      "index": 576
     },
     "Engineer #1": {
       "level": 48,
@@ -10882,7 +10882,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Fire Blast"
       ],
-      "index": 178
+      "index": 512
     },
     "Juggler #5": {
       "level": 94,
@@ -10899,7 +10899,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Solar Beam"
       ],
-      "index": 360
+      "index": 1169
     },
     "Bird Keeper #7": {
       "level": 56,
@@ -10916,7 +10916,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Fire Blast"
       ],
-      "index": 215
+      "index": 628
     },
     "Bird Keeper #17": {
       "level": 55,
@@ -10933,7 +10933,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Fire Blast"
       ],
-      "index": 205
+      "index": 595
     },
     "Rocket #11": {
       "level": 46,
@@ -10950,7 +10950,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Fire Blast"
       ],
-      "index": 147
+      "index": 410
     },
     "Cooltrainer F #3": {
       "level": 90,
@@ -10967,7 +10967,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Solar Beam"
       ],
-      "index": 364
+      "index": 1198
     },
     "Blaine": {
       "level": 84,
@@ -10984,7 +10984,7 @@ var SETDEX_RBY = {
         "Solar Beam",
         "Body Slam"
       ],
-      "index": 326
+      "index": 1017
     },
     "Channeler #9": {
       "level": 47,
@@ -11001,7 +11001,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Fire Blast"
       ],
-      "index": 163
+      "index": 472
     },
     "Soldier": {
       "level": 93,
@@ -11018,7 +11018,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Solar Beam"
       ],
-      "index": 366
+      "index": 1208
     }
   },
   "Weepinbell": {
@@ -11037,7 +11037,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 116
+      "index": 315
     },
     "Beauty #1": {
       "level": 45,
@@ -11054,7 +11054,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 138
+      "index": 380
     },
     "Beauty #11": {
       "level": 33,
@@ -11071,7 +11071,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 386
+      "index": 1295
     },
     "Beauty #11 (2)": {
       "level": 33,
@@ -11088,7 +11088,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 386
+      "index": 1296
     },
     "Rocket #42": {
       "level": 20,
@@ -11105,7 +11105,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 31
+      "index": 77
     },
     "Cooltrainer F #1": {
       "level": 50,
@@ -11122,7 +11122,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 141
+      "index": 386
     }
   },
   "Kabutops": {
@@ -11141,7 +11141,7 @@ var SETDEX_RBY = {
         "Slash",
         "Dig"
       ],
-      "index": 137
+      "index": 374
     },
     "Swimmer #5": {
       "level": 62,
@@ -11158,7 +11158,7 @@ var SETDEX_RBY = {
         "Slash",
         "Dig"
       ],
-      "index": 295
+      "index": 907
     },
     "Scientist #3": {
       "level": 64,
@@ -11175,7 +11175,7 @@ var SETDEX_RBY = {
         "Slash",
         "Dig"
       ],
-      "index": 250
+      "index": 736
     },
     "Rocket #34": {
       "level": 66,
@@ -11192,7 +11192,7 @@ var SETDEX_RBY = {
         "Slash",
         "Dig"
       ],
-      "index": 269
+      "index": 803
     },
     "AJ": {
       "level": 93,
@@ -11209,7 +11209,7 @@ var SETDEX_RBY = {
         "Slash",
         "Dig"
       ],
-      "index": 368
+      "index": 1217
     }
   },
   "Vileplume": {
@@ -11227,7 +11227,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 186
+      "index": 535
     },
     "Jr. Trainer F #24": {
       "level": 67,
@@ -11243,7 +11243,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 303
+      "index": 937
     },
     "Beauty #1": {
       "level": 45,
@@ -11259,7 +11259,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 138
+      "index": 378
     },
     "Beauty #9": {
       "level": 55,
@@ -11275,7 +11275,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 212
+      "index": 618
     },
     "Beauty #13": {
       "level": 63,
@@ -11291,7 +11291,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 300
+      "index": 926
     },
     "Cooltrainer F #4": {
       "level": 46,
@@ -11307,7 +11307,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 398
+      "index": 1321
     },
     "Erika": {
       "level": 54,
@@ -11323,7 +11323,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Petal Dance"
       ],
-      "index": 142
+      "index": 389
     }
   },
   "Victreebel": {
@@ -11342,7 +11342,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Lovely Kiss"
       ],
-      "index": 187
+      "index": 538
     },
     "Biker #3": {
       "level": 56,
@@ -11359,7 +11359,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Lovely Kiss"
       ],
-      "index": 210
+      "index": 612
     },
     "Beauty #12": {
       "level": 62,
@@ -11376,7 +11376,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Lovely Kiss"
       ],
-      "index": 299
+      "index": 922
     },
     "Juggler #5": {
       "level": 94,
@@ -11393,7 +11393,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Lovely Kiss"
       ],
-      "index": 360
+      "index": 1173
     },
     "Tamer #1": {
       "level": 62,
@@ -11410,9 +11410,9 @@ var SETDEX_RBY = {
         "Body Slam",
         "Lovely Kiss"
       ],
-      "index": 239
+      "index": 693
     },
-    "Rocket #44": {
+    "Jessie & James - Pokemon Tower": {
       "level": 60,
       "dvs": {
         "hp": 8,
@@ -11427,7 +11427,7 @@ var SETDEX_RBY = {
         "Slam",
         "Razor Leaf"
       ],
-      "index": 176
+      "index": 506
     },
     "Rocket #45": {
       "level": 72,
@@ -11444,7 +11444,7 @@ var SETDEX_RBY = {
         "Slam",
         "Razor Leaf"
       ],
-      "index": 282
+      "index": 861
     },
     "Rocket #46": {
       "level": 82,
@@ -11461,7 +11461,7 @@ var SETDEX_RBY = {
         "Slam",
         "Razor Leaf"
       ],
-      "index": 318
+      "index": 983
     },
     "Rocket #47": {
       "level": 90,
@@ -11478,7 +11478,7 @@ var SETDEX_RBY = {
         "Slam",
         "Razor Leaf"
       ],
-      "index": 344
+      "index": 1074
     },
     "Erika": {
       "level": 54,
@@ -11495,7 +11495,7 @@ var SETDEX_RBY = {
         "Razor Leaf",
         "Body Slam"
       ],
-      "index": 142
+      "index": 393
     }
   },
   "Pidgeot": {
@@ -11514,7 +11514,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Beam"
       ],
-      "index": 187
+      "index": 540
     },
     "Bird Keeper #1": {
       "level": 53,
@@ -11531,7 +11531,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Beam"
       ],
-      "index": 193
+      "index": 557
     },
     "Bird Keeper #3": {
       "level": 54,
@@ -11548,7 +11548,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Beam"
       ],
-      "index": 195
+      "index": 568
     },
     "Bird Keeper #5": {
       "level": 56,
@@ -11565,7 +11565,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Beam"
       ],
-      "index": 201
+      "index": 584
     },
     "Bird Keeper #6": {
       "level": 56,
@@ -11582,7 +11582,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Beam"
       ],
-      "index": 214
+      "index": 625
     },
     "Bird Keeper #10": {
       "level": 57,
@@ -11599,7 +11599,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Beam"
       ],
-      "index": 218
+      "index": 633
     },
     "Bird Keeper #11": {
       "level": 65,
@@ -11616,7 +11616,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Beam"
       ],
-      "index": 311
+      "index": 957
     },
     "Bird Keeper #15": {
       "level": 55,
@@ -11633,7 +11633,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Beam"
       ],
-      "index": 203
+      "index": 591
     },
     "Bird Keeper #17": {
       "level": 55,
@@ -11650,7 +11650,7 @@ var SETDEX_RBY = {
         "Quick Attack",
         "Hyper Beam"
       ],
-      "index": 205
+      "index": 596
     },
     "Officer Jenny": {
       "level": 90,
@@ -11667,7 +11667,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Quick Attack"
       ],
-      "index": 353
+      "index": 1128
     },
     "Rival - Pokemon Tower #1": {
       "level": 53,
@@ -11684,7 +11684,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Razor Wind"
       ],
-      "index": 157
+      "index": 447
     },
     "Rival - Pokemon Tower #2": {
       "level": 53,
@@ -11701,7 +11701,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Razor Wind"
       ],
-      "index": 158
+      "index": 453
     },
     "Rival - Pokemon Tower #3": {
       "level": 53,
@@ -11718,7 +11718,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Razor Wind"
       ],
-      "index": 159
+      "index": 459
     }
   },
   "Rapidash": {
@@ -11734,7 +11734,7 @@ var SETDEX_RBY = {
       "moves": [
         "Horn Drill"
       ],
-      "index": 188
+      "index": 542
     },
     "Super Nerd #11": {
       "level": 80,
@@ -11749,7 +11749,7 @@ var SETDEX_RBY = {
         "Horn Drill",
         "Hypnosis"
       ],
-      "index": 321
+      "index": 993
     },
     "Biker #2": {
       "level": 55,
@@ -11763,7 +11763,7 @@ var SETDEX_RBY = {
       "moves": [
         "Horn Drill"
       ],
-      "index": 196
+      "index": 571
     },
     "Gambler #2": {
       "level": 25,
@@ -11777,7 +11777,7 @@ var SETDEX_RBY = {
       "moves": [
         "Horn Drill"
       ],
-      "index": 68
+      "index": 173
     },
     "Gambler #5": {
       "level": 44,
@@ -11791,7 +11791,7 @@ var SETDEX_RBY = {
       "moves": [
         "Horn Drill"
       ],
-      "index": 131
+      "index": 357
     },
     "Gambler #6": {
       "level": 95,
@@ -11807,7 +11807,7 @@ var SETDEX_RBY = {
         "Horn Drill",
         "Fire Spin"
       ],
-      "index": 355
+      "index": 1142
     },
     "Beauty #7": {
       "level": 67,
@@ -11821,7 +11821,7 @@ var SETDEX_RBY = {
       "moves": [
         "Horn Drill"
       ],
-      "index": 308
+      "index": 950
     },
     "Juggler #5": {
       "level": 94,
@@ -11836,7 +11836,7 @@ var SETDEX_RBY = {
         "Horn Drill",
         "Hypnosis"
       ],
-      "index": 360
+      "index": 1172
     },
     "Tamer #5": {
       "level": 90,
@@ -11851,7 +11851,7 @@ var SETDEX_RBY = {
         "Horn Drill",
         "Hypnosis"
       ],
-      "index": 357
+      "index": 1153
     },
     "Blaine": {
       "level": 84,
@@ -11866,7 +11866,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Horn Drill"
       ],
-      "index": 326
+      "index": 1015
     }
   },
   "Seaking": {
@@ -11884,7 +11884,7 @@ var SETDEX_RBY = {
         "Bubble Beam",
         "Waterfall"
       ],
-      "index": 189
+      "index": 545
     },
     "Jr. Trainer F #21": {
       "level": 56,
@@ -11901,7 +11901,7 @@ var SETDEX_RBY = {
         "Waterfall",
         "Agility"
       ],
-      "index": 207
+      "index": 602
     },
     "Swimmer #1": {
       "level": 24,
@@ -11916,7 +11916,7 @@ var SETDEX_RBY = {
         "Horn Drill",
         "Bubble Beam"
       ],
-      "index": 52
+      "index": 128
     },
     "Swimmer #3": {
       "level": 60,
@@ -11933,7 +11933,7 @@ var SETDEX_RBY = {
         "Waterfall",
         "Agility"
       ],
-      "index": 293
+      "index": 902
     },
     "Swimmer #5": {
       "level": 62,
@@ -11950,7 +11950,7 @@ var SETDEX_RBY = {
         "Waterfall",
         "Agility"
       ],
-      "index": 295
+      "index": 906
     },
     "Gambler #4": {
       "level": 25,
@@ -11965,7 +11965,7 @@ var SETDEX_RBY = {
         "Horn Drill",
         "Bubble Beam"
       ],
-      "index": 70
+      "index": 177
     },
     "Beauty #13": {
       "level": 63,
@@ -11982,7 +11982,7 @@ var SETDEX_RBY = {
         "Waterfall",
         "Agility"
       ],
-      "index": 300
+      "index": 927
     }
   },
   "Marowak": {
@@ -12001,7 +12001,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 189
+      "index": 546
     },
     "Pokemaniac #3": {
       "level": 41,
@@ -12018,7 +12018,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 118
+      "index": 320
     },
     "Biker #13": {
       "level": 55,
@@ -12035,7 +12035,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 197
+      "index": 575
     },
     "Juggler #2": {
       "level": 90,
@@ -12052,7 +12052,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 356
+      "index": 1145
     },
     "Bird Keeper #10": {
       "level": 57,
@@ -12069,7 +12069,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 218
+      "index": 634
     },
     "Rocket #20": {
       "level": 51,
@@ -12086,7 +12086,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 174
+      "index": 496
     },
     "Channeler #17": {
       "level": 49,
@@ -12103,7 +12103,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 168
+      "index": 483
     },
     "Agatha": {
       "level": 115,
@@ -12120,7 +12120,7 @@ var SETDEX_RBY = {
         "Dig",
         "Rock Slide"
       ],
-      "index": 371
+      "index": 1236
     }
   },
   "Golem": {
@@ -12139,7 +12139,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 206
+      "index": 598
     },
     "Super Nerd #3": {
       "level": 43,
@@ -12156,7 +12156,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 128
+      "index": 346
     },
     "Super Nerd #10": {
       "level": 77,
@@ -12173,7 +12173,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 320
+      "index": 990
     },
     "Hiker #15": {
       "level": 92,
@@ -12190,7 +12190,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 349
+      "index": 1104
     },
     "Biker #6": {
       "level": 60,
@@ -12207,7 +12207,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 230
+      "index": 667
     },
     "Fisherman #6": {
       "level": 42,
@@ -12224,7 +12224,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 182
+      "index": 521
     },
     "Cue Ball #8": {
       "level": 58,
@@ -12241,7 +12241,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 228
+      "index": 662
     },
     "Blackbelt #1": {
       "level": 67,
@@ -12258,7 +12258,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Body Slam"
       ],
-      "index": 243
+      "index": 711
     },
     "Blackbelt #6": {
       "level": 83,
@@ -12275,7 +12275,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 338
+      "index": 1054
     },
     "Rocket #28": {
       "level": 66,
@@ -12292,7 +12292,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 261
+      "index": 770
     },
     "Rocket #33": {
       "level": 65,
@@ -12309,7 +12309,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 268
+      "index": 797
     },
     "Rocket #43": {
       "level": 55,
@@ -12326,7 +12326,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 155
+      "index": 436
     },
     "Cooltrainer M #5": {
       "level": 88,
@@ -12343,7 +12343,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 350
+      "index": 1110
     },
     "Bruno": {
       "level": 68,
@@ -12360,7 +12360,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 248
+      "index": 727
     },
     "Channeler #16": {
       "level": 47,
@@ -12377,7 +12377,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 167
+      "index": 480
     },
     "Soldier": {
       "level": 93,
@@ -12394,7 +12394,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 366
+      "index": 1207
     },
     "Rival - Pokemon Tower #1": {
       "level": 53,
@@ -12411,7 +12411,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 157
+      "index": 448
     },
     "Rival - Pokemon Tower #2": {
       "level": 53,
@@ -12428,7 +12428,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 158
+      "index": 454
     },
     "Rival - Pokemon Tower #3": {
       "level": 53,
@@ -12445,7 +12445,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 159
+      "index": 460
     }
   },
   "Kingler": {
@@ -12463,7 +12463,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Guillotine"
       ],
-      "index": 207
+      "index": 603
     },
     "Biker #1": {
       "level": 55,
@@ -12479,7 +12479,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Guillotine"
       ],
-      "index": 190
+      "index": 549
     },
     "Biker #12": {
       "level": 58,
@@ -12495,7 +12495,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Guillotine"
       ],
-      "index": 223
+      "index": 649
     },
     "Swimmer #1": {
       "level": 24,
@@ -12511,7 +12511,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Guillotine"
       ],
-      "index": 52
+      "index": 129
     },
     "Swimmer #7": {
       "level": 62,
@@ -12527,7 +12527,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Guillotine"
       ],
-      "index": 297
+      "index": 914
     },
     "Swimmer #8": {
       "level": 62,
@@ -12543,7 +12543,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Guillotine"
       ],
-      "index": 298
+      "index": 919
     },
     "Gambler #1": {
       "level": 26,
@@ -12559,7 +12559,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Guillotine"
       ],
-      "index": 67
+      "index": 170
     },
     "Gambler #5": {
       "level": 44,
@@ -12575,7 +12575,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Guillotine"
       ],
-      "index": 131
+      "index": 356
     },
     "Tamer #5": {
       "level": 90,
@@ -12591,7 +12591,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Guillotine"
       ],
-      "index": 357
+      "index": 1154
     },
     "Rocket #43": {
       "level": 55,
@@ -12608,7 +12608,7 @@ var SETDEX_RBY = {
         "Guillotine",
         "Vise Grip"
       ],
-      "index": 155
+      "index": 438
     },
     "Rocket #47": {
       "level": 90,
@@ -12625,7 +12625,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Vise Grip"
       ],
-      "index": 344
+      "index": 1075
     },
     "Cooltrainer M #4": {
       "level": 90,
@@ -12641,7 +12641,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Guillotine"
       ],
-      "index": 394
+      "index": 1313
     },
     "Cooltrainer M #8": {
       "level": 44,
@@ -12657,7 +12657,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Guillotine"
       ],
-      "index": 397
+      "index": 1318
     }
   },
   "Gengar": {
@@ -12676,7 +12676,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 208
+      "index": 604
     },
     "Pokemaniac #6": {
       "level": 88,
@@ -12693,7 +12693,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 354
+      "index": 1136
     },
     "Hiker #15": {
       "level": 92,
@@ -12710,7 +12710,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 349
+      "index": 1105
     },
     "Psychic #4": {
       "level": 73,
@@ -12727,7 +12727,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 287
+      "index": 883
     },
     "SHF Cerulean Cave": {
       "level": 127,
@@ -12744,7 +12744,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Explosion"
       ],
-      "index": 376
+      "index": 1265
     },
     "SHF Victory Road": {
       "level": 110,
@@ -12761,7 +12761,7 @@ var SETDEX_RBY = {
         "Ice Punch",
         "Explosion"
       ],
-      "index": 359
+      "index": 1163
     },
     "Scientist #13": {
       "level": 73,
@@ -12778,7 +12778,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 317
+      "index": 977
     },
     "Giovanni #2": {
       "level": 72,
@@ -12795,7 +12795,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Ice Punch"
       ],
-      "index": 283
+      "index": 868
     },
     "Giovanni #3": {
       "level": 90,
@@ -12812,7 +12812,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Explosion"
       ],
-      "index": 345
+      "index": 1082
     },
     "Rocket #17": {
       "level": 50,
@@ -12829,7 +12829,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 153
+      "index": 430
     },
     "Rocket #20": {
       "level": 51,
@@ -12846,7 +12846,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 174
+      "index": 497
     },
     "Rocket #23": {
       "level": 68,
@@ -12863,7 +12863,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 251
+      "index": 741
     },
     "Rocket #33": {
       "level": 65,
@@ -12880,7 +12880,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 268
+      "index": 798
     },
     "Rocket #37": {
       "level": 65,
@@ -12897,7 +12897,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 277
+      "index": 839
     },
     "Rocket #38": {
       "level": 65,
@@ -12914,7 +12914,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 278
+      "index": 844
     },
     "Rocket #39": {
       "level": 68,
@@ -12931,7 +12931,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 280
+      "index": 851
     },
     "Rocket #40": {
       "level": 69,
@@ -12948,7 +12948,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 281
+      "index": 857
     },
     "Cooltrainer M #5": {
       "level": 88,
@@ -12965,7 +12965,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 350
+      "index": 1113
     },
     "Cooltrainer F #5": {
       "level": 90,
@@ -12982,7 +12982,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 351
+      "index": 1118
     },
     "Koga": {
       "level": 66,
@@ -12999,7 +12999,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Night Shade"
       ],
-      "index": 242
+      "index": 706
     },
     "Channeler #18": {
       "level": 48,
@@ -13016,7 +13016,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 169
+      "index": 485
     },
     "Channeler #22": {
       "level": 70,
@@ -13033,7 +13033,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Night Shade"
       ],
-      "index": 288
+      "index": 884
     },
     "Agatha": {
       "level": 115,
@@ -13050,7 +13050,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Seismic Toss"
       ],
-      "index": 371
+      "index": 1240
     },
     "Officer Jenny": {
       "level": 93,
@@ -13067,7 +13067,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Ice Punch"
       ],
-      "index": 353
+      "index": 1127
     },
     "Jano": {
       "level": 100,
@@ -13084,7 +13084,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Explosion"
       ],
-      "index": 365
+      "index": 1201
     }
   },
   "Hypno": {
@@ -13102,7 +13102,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 208
+      "index": 605
     },
     "Hiker #10": {
       "level": 42,
@@ -13118,7 +13118,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 122
+      "index": 329
     },
     "Burglar #6": {
       "level": 78,
@@ -13134,7 +13134,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 325
+      "index": 1012
     },
     "Burglar #9": {
       "level": 75,
@@ -13150,7 +13150,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 316
+      "index": 975
     },
     "Psychic #1": {
       "level": 69,
@@ -13166,7 +13166,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 284
+      "index": 873
     },
     "Juggler #1": {
       "level": 65,
@@ -13182,7 +13182,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 259
+      "index": 764
     },
     "Juggler #2": {
       "level": 90,
@@ -13198,7 +13198,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 356
+      "index": 1146
     },
     "Juggler #3": {
       "level": 62,
@@ -13214,7 +13214,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 235
+      "index": 683
     },
     "Juggler #6": {
       "level": 100,
@@ -13230,7 +13230,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 387
+      "index": 1297
     },
     "Juggler #7": {
       "level": 61,
@@ -13246,7 +13246,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 237
+      "index": 687
     },
     "SHF Victory Road": {
       "level": 110,
@@ -13262,7 +13262,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Psychic"
       ],
-      "index": 359
+      "index": 1167
     },
     "Rocket #13": {
       "level": 47,
@@ -13278,7 +13278,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 149
+      "index": 419
     },
     "Rocket #17": {
       "level": 50,
@@ -13294,7 +13294,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 153
+      "index": 429
     },
     "Rocket #21": {
       "level": 51,
@@ -13310,7 +13310,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 175
+      "index": 501
     },
     "Rocket #23": {
       "level": 68,
@@ -13326,7 +13326,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 251
+      "index": 739
     },
     "Rocket #25": {
       "level": 66,
@@ -13342,7 +13342,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 254
+      "index": 750
     },
     "Rocket #34": {
       "level": 66,
@@ -13358,7 +13358,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 269
+      "index": 801
     },
     "Rocket #38": {
       "level": 65,
@@ -13374,7 +13374,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 278
+      "index": 843
     },
     "Cooltrainer M #3": {
       "level": 92,
@@ -13390,7 +13390,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 362
+      "index": 1181
     },
     "Cooltrainer F #3": {
       "level": 90,
@@ -13406,7 +13406,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 364
+      "index": 1195
     },
     "Sabrina": {
       "level": 75,
@@ -13422,7 +13422,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Hypnosis"
       ],
-      "index": 291
+      "index": 894
     },
     "Channeler #22": {
       "level": 70,
@@ -13438,7 +13438,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Thunder Wave"
       ],
-      "index": 288
+      "index": 885
     },
     "Agatha": {
       "level": 115,
@@ -13455,7 +13455,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Tri Attack"
       ],
-      "index": 371
+      "index": 1239
     }
   },
   "Blastoise": {
@@ -13474,7 +13474,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Earthquake"
       ],
-      "index": 209
+      "index": 606
     },
     "Fisherman #4": {
       "level": 42,
@@ -13491,7 +13491,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Earthquake"
       ],
-      "index": 180
+      "index": 518
     },
     "Swimmer #7": {
       "level": 62,
@@ -13508,7 +13508,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Earthquake"
       ],
-      "index": 297
+      "index": 915
     },
     "Swimmer #8": {
       "level": 62,
@@ -13525,7 +13525,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Earthquake"
       ],
-      "index": 298
+      "index": 917
     },
     "Swimmer #10": {
       "level": 69,
@@ -13542,7 +13542,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Earthquake"
       ],
-      "index": 305
+      "index": 942
     },
     "Swimmer #12": {
       "level": 70,
@@ -13559,7 +13559,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Earthquake"
       ],
-      "index": 331
+      "index": 1035
     },
     "Beauty #1": {
       "level": 45,
@@ -13576,7 +13576,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Earthquake"
       ],
-      "index": 138
+      "index": 377
     },
     "Officer Jenny": {
       "level": 91,
@@ -13593,7 +13593,7 @@ var SETDEX_RBY = {
         "Hydro Pump",
         "Body Slam"
       ],
-      "index": 353
+      "index": 1131
     },
     "Jano": {
       "level": 100,
@@ -13610,7 +13610,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Blizzard"
       ],
-      "index": 365
+      "index": 1204
     },
     "Rival - Pokemon Tower #1": {
       "level": 53,
@@ -13627,7 +13627,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 157
+      "index": 450
     },
     "Rival - Pokemon Tower #2": {
       "level": 53,
@@ -13644,7 +13644,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 158
+      "index": 456
     },
     "Rival - Pokemon Tower #3": {
       "level": 53,
@@ -13661,7 +13661,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 159
+      "index": 462
     },
     "Prof. Oak #1": {
       "level": 115,
@@ -13678,7 +13678,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 370
+      "index": 1234
     }
   },
   "Venusaur": {
@@ -13697,7 +13697,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Double Team"
       ],
-      "index": 209
+      "index": 607
     },
     "Beauty #3": {
       "level": 48,
@@ -13714,7 +13714,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Double Team"
       ],
-      "index": 140
+      "index": 385
     },
     "Beauty #7": {
       "level": 67,
@@ -13731,7 +13731,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Double Team"
       ],
-      "index": 308
+      "index": 949
     },
     "Beauty #15": {
       "level": 64,
@@ -13748,7 +13748,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Double Team"
       ],
-      "index": 310
+      "index": 954
     },
     "Tamer #2": {
       "level": 62,
@@ -13765,7 +13765,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Double Team"
       ],
-      "index": 240
+      "index": 695
     },
     "Bird Keeper #14": {
       "level": 55,
@@ -13782,7 +13782,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Double Team"
       ],
-      "index": 202
+      "index": 588
     },
     "Cooltrainer F #6": {
       "level": 55,
@@ -13799,7 +13799,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Double Team"
       ],
-      "index": 399
+      "index": 1323
     },
     "Erika": {
       "level": 54,
@@ -13816,7 +13816,7 @@ var SETDEX_RBY = {
         "Razor Leaf",
         "Body Slam"
       ],
-      "index": 142
+      "index": 391
     },
     "Channeler #10": {
       "level": 47,
@@ -13833,7 +13833,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Double Team"
       ],
-      "index": 164
+      "index": 476
     },
     "Nurse Joy": {
       "level": 92,
@@ -13850,7 +13850,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Body Slam"
       ],
-      "index": 352
+      "index": 1124
     },
     "Rival - Pokemon Tower #1": {
       "level": 53,
@@ -13867,7 +13867,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 157
+      "index": 449
     },
     "Rival - Pokemon Tower #2": {
       "level": 53,
@@ -13884,7 +13884,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Razor Leaf"
       ],
-      "index": 158
+      "index": 455
     },
     "Rival - Pokemon Tower #3": {
       "level": 53,
@@ -13901,7 +13901,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Razor Leaf"
       ],
-      "index": 159
+      "index": 461
     },
     "Prof. Oak #1": {
       "level": 115,
@@ -13918,7 +13918,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Body Slam"
       ],
-      "index": 370
+      "index": 1233
     }
   },
   "Charizard": {
@@ -13937,7 +13937,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 209
+      "index": 608
     },
     "Biker #7": {
       "level": 58,
@@ -13954,7 +13954,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 231
+      "index": 671
     },
     "Burglar #6": {
       "level": 78,
@@ -13971,7 +13971,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Fire Blast"
       ],
-      "index": 325
+      "index": 1011
     },
     "Burglar #7": {
       "level": 75,
@@ -13988,7 +13988,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Fire Blast"
       ],
-      "index": 313
+      "index": 968
     },
     "Gambler #6": {
       "level": 95,
@@ -14005,7 +14005,7 @@ var SETDEX_RBY = {
         "Crabhammer",
         "Fire Blast"
       ],
-      "index": 355
+      "index": 1144
     },
     "Bird Keeper #2": {
       "level": 54,
@@ -14022,7 +14022,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 194
+      "index": 561
     },
     "Bird Keeper #11": {
       "level": 65,
@@ -14039,7 +14039,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 311
+      "index": 960
     },
     "Rocket #7": {
       "level": 44,
@@ -14056,7 +14056,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 143
+      "index": 399
     },
     "Rocket #32": {
       "level": 67,
@@ -14073,7 +14073,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 267
+      "index": 794
     },
     "Blaine": {
       "level": 84,
@@ -14090,7 +14090,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 326
+      "index": 1013
     },
     "Channeler #9": {
       "level": 47,
@@ -14107,7 +14107,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 163
+      "index": 473
     },
     "Jano": {
       "level": 100,
@@ -14124,7 +14124,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Dragon Rage"
       ],
-      "index": 365
+      "index": 1202
     },
     "Rival - Pokemon Tower #1": {
       "level": 53,
@@ -14141,7 +14141,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 157
+      "index": 451
     },
     "Rival - Pokemon Tower #2": {
       "level": 53,
@@ -14158,7 +14158,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 158
+      "index": 457
     },
     "Rival - Pokemon Tower #3": {
       "level": 53,
@@ -14175,7 +14175,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 159
+      "index": 463
     },
     "Prof. Oak #1": {
       "level": 115,
@@ -14192,7 +14192,7 @@ var SETDEX_RBY = {
         "Slash",
         "Fly"
       ],
-      "index": 370
+      "index": 1232
     }
   },
   "Dratini": {
@@ -14211,7 +14211,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Hyper Beam"
       ],
-      "index": 105
+      "index": 284
     },
     "Fisherman #6": {
       "level": 42,
@@ -14228,7 +14228,7 @@ var SETDEX_RBY = {
         "Double-Edge",
         "Hyper Beam"
       ],
-      "index": 182
+      "index": 522
     },
     "Rocket #2": {
       "level": 18,
@@ -14244,7 +14244,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Dragon Rage"
       ],
-      "index": 28
+      "index": 66
     },
     "Rival - Cerulean City": {
       "level": 20,
@@ -14260,7 +14260,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Dragon Rage"
       ],
-      "index": 34
+      "index": 85
     }
   },
   "Kangaskhan": {
@@ -14278,7 +14278,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 106
+      "index": 287
     },
     "Hiker #15": {
       "level": 92,
@@ -14294,7 +14294,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 349
+      "index": 1106
     },
     "Biker #4": {
       "level": 56,
@@ -14310,7 +14310,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 211
+      "index": 616
     },
     "Cue Ball #5": {
       "level": 57,
@@ -14326,7 +14326,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 225
+      "index": 654
     },
     "Beauty #15": {
       "level": 64,
@@ -14342,7 +14342,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 310
+      "index": 956
     },
     "Giovanni #2": {
       "level": 72,
@@ -14358,7 +14358,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Hyper Beam"
       ],
-      "index": 283
+      "index": 869
     },
     "Rocket #18": {
       "level": 49,
@@ -14374,7 +14374,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 154
+      "index": 432
     },
     "Rocket #28": {
       "level": 66,
@@ -14390,7 +14390,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 261
+      "index": 769
     },
     "Rocket #39": {
       "level": 68,
@@ -14406,7 +14406,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 280
+      "index": 853
     },
     "Rocket #41": {
       "level": 68,
@@ -14422,7 +14422,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 255
+      "index": 754
     },
     "Gentleman #5": {
       "level": 29,
@@ -14437,7 +14437,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 80
+      "index": 212
     },
     "Lance": {
       "level": 115,
@@ -14453,7 +14453,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 372
+      "index": 1245
     },
     "Ranger": {
       "level": 93,
@@ -14469,7 +14469,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 367
+      "index": 1214
     }
   },
   "Slowbro": {
@@ -14488,7 +14488,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 118
+      "index": 319
     },
     "Super Nerd #11": {
       "level": 80,
@@ -14505,7 +14505,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 321
+      "index": 994
     },
     "Fisherman #2": {
       "level": 27,
@@ -14522,7 +14522,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Surf"
       ],
-      "index": 86
+      "index": 225
     },
     "Fisherman #3": {
       "level": 42,
@@ -14539,7 +14539,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 179
+      "index": 513
     },
     "Fisherman #7": {
       "level": 70,
@@ -14556,7 +14556,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 327
+      "index": 1023
     },
     "Swimmer #4": {
       "level": 62,
@@ -14573,7 +14573,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 294
+      "index": 905
     },
     "Swimmer #11": {
       "level": 63,
@@ -14590,7 +14590,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 306
+      "index": 944
     },
     "Cue Ball #4": {
       "level": 57,
@@ -14607,7 +14607,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 224
+      "index": 652
     },
     "Cue Ball #7": {
       "level": 57,
@@ -14624,7 +14624,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 227
+      "index": 658
     },
     "Beauty #10": {
       "level": 55,
@@ -14641,7 +14641,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 213
+      "index": 620
     },
     "Psychic #3": {
       "level": 69,
@@ -14658,7 +14658,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 286
+      "index": 881
     },
     "Juggler #2": {
       "level": 90,
@@ -14675,7 +14675,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 356
+      "index": 1148
     },
     "Juggler #7": {
       "level": 61,
@@ -14692,7 +14692,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 237
+      "index": 688
     },
     "Rocket #7": {
       "level": 44,
@@ -14709,7 +14709,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 143
+      "index": 396
     },
     "Rocket #36": {
       "level": 66,
@@ -14726,7 +14726,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 275
+      "index": 829
     },
     "Cooltrainer F #5": {
       "level": 90,
@@ -14743,7 +14743,7 @@ var SETDEX_RBY = {
         "Surf",
         "Amnesia"
       ],
-      "index": 351
+      "index": 1120
     },
     "Sabrina": {
       "level": 75,
@@ -14760,7 +14760,7 @@ var SETDEX_RBY = {
         "Surf",
         "Psychic"
       ],
-      "index": 291
+      "index": 893
     }
   },
   "Dragonair": {
@@ -14778,7 +14778,7 @@ var SETDEX_RBY = {
         "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 119
+      "index": 322
     },
     "Fisherman #1": {
       "level": 27,
@@ -14794,7 +14794,7 @@ var SETDEX_RBY = {
         "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 78
+      "index": 205
     },
     "Fisherman #2": {
       "level": 27,
@@ -14810,7 +14810,7 @@ var SETDEX_RBY = {
         "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 86
+      "index": 226
     },
     "Fisherman #3": {
       "level": 42,
@@ -14826,7 +14826,7 @@ var SETDEX_RBY = {
         "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 179
+      "index": 514
     },
     "Fisherman #6": {
       "level": 42,
@@ -14842,7 +14842,7 @@ var SETDEX_RBY = {
         "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 182
+      "index": 524
     },
     "Fisherman #7": {
       "level": 70,
@@ -14859,7 +14859,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hyper Beam"
       ],
-      "index": 327
+      "index": 1019
     },
     "Fisherman #11": {
       "level": 51,
@@ -14876,7 +14876,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Blizzard"
       ],
-      "index": 183
+      "index": 525
     },
     "Bird Keeper #2": {
       "level": 54,
@@ -14893,7 +14893,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Blizzard"
       ],
-      "index": 194
+      "index": 562
     },
     "Rocket #6": {
       "level": 22,
@@ -14909,7 +14909,7 @@ var SETDEX_RBY = {
         "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 42
+      "index": 100
     },
     "Rocket #9": {
       "level": 45,
@@ -14926,7 +14926,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Blizzard"
       ],
-      "index": 145
+      "index": 403
     },
     "Rocket #15": {
       "level": 48,
@@ -14943,7 +14943,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Blizzard"
       ],
-      "index": 151
+      "index": 424
     },
     "Rocket #27": {
       "level": 66,
@@ -14960,7 +14960,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Hyper Beam"
       ],
-      "index": 258
+      "index": 760
     },
     "Gentleman #5": {
       "level": 29,
@@ -14976,7 +14976,7 @@ var SETDEX_RBY = {
         "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 80
+      "index": 209
     },
     "Rival - Cerulean City": {
       "level": 19,
@@ -14992,7 +14992,7 @@ var SETDEX_RBY = {
         "Dragon Rage",
         "Thunder Wave"
       ],
-      "index": 34
+      "index": 87
     }
   },
   "Dragonite": {
@@ -15010,7 +15010,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunder Wave"
       ],
-      "index": 354
+      "index": 1137
     },
     "Fisherman #7": {
       "level": 70,
@@ -15026,7 +15026,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunder Wave"
       ],
-      "index": 327
+      "index": 1024
     },
     "Fisherman #8": {
       "level": 71,
@@ -15042,7 +15042,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunder Wave"
       ],
-      "index": 328
+      "index": 1025
     },
     "Fisherman #10": {
       "level": 70,
@@ -15058,7 +15058,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunder Wave"
       ],
-      "index": 330
+      "index": 1029
     },
     "Gambler #6": {
       "level": 95,
@@ -15074,7 +15074,7 @@ var SETDEX_RBY = {
         "Horn Drill",
         "Blizzard"
       ],
-      "index": 355
+      "index": 1140
     },
     "Juggler #5": {
       "level": 94,
@@ -15090,7 +15090,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunder Wave"
       ],
-      "index": 360
+      "index": 1174
     },
     "Rocket #27": {
       "level": 66,
@@ -15106,7 +15106,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunder Wave"
       ],
-      "index": 258
+      "index": 761
     },
     "Rocket #28": {
       "level": 66,
@@ -15122,7 +15122,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunder Wave"
       ],
-      "index": 261
+      "index": 768
     },
     "Rocket #30": {
       "level": 64,
@@ -15138,7 +15138,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunder Wave"
       ],
-      "index": 264
+      "index": 782
     },
     "Cooltrainer M #1": {
       "level": 82,
@@ -15154,7 +15154,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunder Wave"
       ],
-      "index": 341
+      "index": 1064
     },
     "Cooltrainer M #2": {
       "level": 88,
@@ -15170,7 +15170,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunder Wave"
       ],
-      "index": 361
+      "index": 1178
     },
     "Lance": {
       "level": 115,
@@ -15187,7 +15187,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Body Slam"
       ],
-      "index": 372
+      "index": 1244
     },
     "Soldier": {
       "level": 94,
@@ -15203,7 +15203,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunder Wave"
       ],
-      "index": 366
+      "index": 1210
     }
   },
   "Snorlax": {
@@ -15222,7 +15222,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 354
+      "index": 1138
     },
     "Super Nerd #10": {
       "level": 77,
@@ -15239,7 +15239,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 320
+      "index": 992
     },
     "Super Nerd #12": {
       "level": 80,
@@ -15256,7 +15256,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 322
+      "index": 996
     },
     "Hiker #15": {
       "level": 92,
@@ -15273,7 +15273,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 349
+      "index": 1103
     },
     "Cue Ball #7": {
       "level": 57,
@@ -15290,7 +15290,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 227
+      "index": 659
     },
     "SHF Cerulean Cave": {
       "level": 127,
@@ -15307,7 +15307,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 376
+      "index": 1266
     },
     "Rocket #30": {
       "level": 64,
@@ -15324,7 +15324,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 264
+      "index": 784
     },
     "Rocket #33": {
       "level": 65,
@@ -15341,7 +15341,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 268
+      "index": 800
     },
     "Rocket #36": {
       "level": 66,
@@ -15358,7 +15358,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 275
+      "index": 833
     },
     "Rocket #40": {
       "level": 69,
@@ -15375,7 +15375,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 281
+      "index": 855
     },
     "Cooltrainer M #2": {
       "level": 88,
@@ -15392,7 +15392,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 361
+      "index": 1180
     },
     "Cooltrainer M #5": {
       "level": 88,
@@ -15409,7 +15409,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 350
+      "index": 1112
     },
     "Cooltrainer M #9": {
       "level": 83,
@@ -15426,7 +15426,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 342
+      "index": 1067
     },
     "Cooltrainer F #3": {
       "level": 90,
@@ -15443,7 +15443,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 364
+      "index": 1196
     },
     "Bruno": {
       "level": 68,
@@ -15460,7 +15460,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 248
+      "index": 729
     },
     "Soldier": {
       "level": 92,
@@ -15477,7 +15477,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Lovely Kiss"
       ],
-      "index": 366
+      "index": 1206
     },
     "Prof. Oak #1": {
       "level": 115,
@@ -15494,7 +15494,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Fire Blast"
       ],
-      "index": 370
+      "index": 1231
     }
   },
   "Koffing": {
@@ -15513,7 +15513,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Toxic"
       ],
-      "index": 24
+      "index": 58
     },
     "Super Nerd #6": {
       "level": 100,
@@ -15530,7 +15530,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Toxic"
       ],
-      "index": 380
+      "index": 1280
     },
     "Super Nerd #7": {
       "level": 20,
@@ -15547,7 +15547,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Toxic"
       ],
-      "index": 381
+      "index": 1285
     },
     "Rocket #22": {
       "level": 26,
@@ -15564,7 +15564,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Toxic"
       ],
-      "index": 391
+      "index": 1308
     }
   },
   "Voltorb": {
@@ -15583,7 +15583,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Thunder Wave"
       ],
-      "index": 30
+      "index": 71
     },
     "Super Nerd #8": {
       "level": 24,
@@ -15600,7 +15600,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Thunder Wave"
       ],
-      "index": 382
+      "index": 1287
     },
     "Biker #9": {
       "level": 58,
@@ -15617,7 +15617,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Thunderbolt"
       ],
-      "index": 220
+      "index": 641
     },
     "Biker #10": {
       "level": 100,
@@ -15634,7 +15634,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Thunderbolt"
       ],
-      "index": 221
+      "index": 642
     },
     "Biker #10 (2)": {
       "level": 100,
@@ -15651,7 +15651,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Thunderbolt"
       ],
-      "index": 221
+      "index": 643
     },
     "Engineer #2": {
       "level": 26,
@@ -15668,7 +15668,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Thunder Wave"
       ],
-      "index": 65
+      "index": 163
     },
     "Gentleman #6": {
       "level": 33,
@@ -15685,7 +15685,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Thunderbolt"
       ],
-      "index": 92
+      "index": 243
     }
   },
   "Exeggcute": {
@@ -15704,7 +15704,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Stun Spore"
       ],
-      "index": 30
+      "index": 72
     },
     "Super Nerd #5": {
       "level": 43,
@@ -15721,7 +15721,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 130
+      "index": 352
     },
     "Hiker #8": {
       "level": 43,
@@ -15738,7 +15738,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 108
+      "index": 291
     },
     "Beauty #2": {
       "level": 47,
@@ -15755,7 +15755,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 139
+      "index": 381
     }
   },
   "Electrode": {
@@ -15773,7 +15773,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 128
+      "index": 345
     },
     "Super Nerd #5": {
       "level": 43,
@@ -15789,7 +15789,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 130
+      "index": 355
     },
     "Super Nerd #9": {
       "level": 76,
@@ -15805,7 +15805,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 319
+      "index": 985
     },
     "Super Nerd #10": {
       "level": 77,
@@ -15821,7 +15821,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 320
+      "index": 989
     },
     "Biker #5": {
       "level": 59,
@@ -15837,7 +15837,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 229
+      "index": 664
     },
     "Engineer #1": {
       "level": 48,
@@ -15853,7 +15853,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 178
+      "index": 511
     },
     "Engineer #3": {
       "level": 26,
@@ -15869,7 +15869,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 66
+      "index": 167
     },
     "Fisherman #7": {
       "level": 70,
@@ -15885,7 +15885,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 327
+      "index": 1022
     },
     "Rocker #1": {
       "level": 34,
@@ -15901,7 +15901,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 91
+      "index": 240
     },
     "Rocker #2": {
       "level": 50,
@@ -15917,7 +15917,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 184
+      "index": 528
     },
     "Juggler #2": {
       "level": 90,
@@ -15933,7 +15933,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 356
+      "index": 1149
     },
     "Juggler #4": {
       "level": 61,
@@ -15949,7 +15949,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 236
+      "index": 686
     },
     "Scientist #2": {
       "level": 67,
@@ -15965,7 +15965,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 249
+      "index": 733
     },
     "Scientist #4": {
       "level": 65,
@@ -15981,7 +15981,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 253
+      "index": 746
     },
     "Scientist #5": {
       "level": 65,
@@ -15997,7 +15997,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 256
+      "index": 755
     },
     "Scientist #6": {
       "level": 66,
@@ -16013,7 +16013,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 260
+      "index": 765
     },
     "Scientist #8": {
       "level": 67,
@@ -16029,7 +16029,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 266
+      "index": 790
     },
     "Scientist #9": {
       "level": 67,
@@ -16045,7 +16045,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 273
+      "index": 823
     },
     "Scientist #11": {
       "level": 66,
@@ -16061,7 +16061,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 279
+      "index": 845
     },
     "Rocket #13": {
       "level": 47,
@@ -16077,7 +16077,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 149
+      "index": 415
     },
     "Rocket #30": {
       "level": 64,
@@ -16093,7 +16093,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 264
+      "index": 783
     },
     "Rocket #33": {
       "level": 65,
@@ -16109,7 +16109,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 268
+      "index": 795
     },
     "Cooltrainer M #5": {
       "level": 88,
@@ -16125,7 +16125,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 350
+      "index": 1109
     },
     "Lt. Surge": {
       "level": 39,
@@ -16141,7 +16141,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Explosion"
       ],
-      "index": 93
+      "index": 246
     }
   },
   "Cloyster": {
@@ -16159,7 +16159,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 128
+      "index": 347
     },
     "Super Nerd #4": {
       "level": 44,
@@ -16175,7 +16175,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 129
+      "index": 351
     },
     "Super Nerd #9": {
       "level": 76,
@@ -16191,7 +16191,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 319
+      "index": 986
     },
     "Super Nerd #10": {
       "level": 77,
@@ -16207,7 +16207,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 320
+      "index": 991
     },
     "Fisherman #1": {
       "level": 27,
@@ -16223,7 +16223,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 78
+      "index": 203
     },
     "Fisherman #4": {
       "level": 42,
@@ -16239,7 +16239,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 180
+      "index": 516
     },
     "Fisherman #8": {
       "level": 71,
@@ -16255,7 +16255,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 328
+      "index": 1026
     },
     "Fisherman #10": {
       "level": 70,
@@ -16271,7 +16271,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 330
+      "index": 1030
     },
     "Swimmer #4": {
       "level": 62,
@@ -16287,7 +16287,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 294
+      "index": 903
     },
     "Swimmer #9": {
       "level": 64,
@@ -16303,7 +16303,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 304
+      "index": 940
     },
     "Cue Ball #8": {
       "level": 58,
@@ -16319,7 +16319,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 228
+      "index": 663
     },
     "Beauty #7": {
       "level": 67,
@@ -16335,7 +16335,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 308
+      "index": 951
     },
     "Giovanni #2": {
       "level": 72,
@@ -16351,7 +16351,7 @@ var SETDEX_RBY = {
         "Clamp",
         "Explosion"
       ],
-      "index": 283
+      "index": 867
     },
     "Rocket #13": {
       "level": 47,
@@ -16367,7 +16367,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 149
+      "index": 416
     },
     "Rocket #21": {
       "level": 51,
@@ -16383,7 +16383,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 175
+      "index": 499
     },
     "Rocket #33": {
       "level": 65,
@@ -16399,7 +16399,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 268
+      "index": 796
     },
     "Rocket #40": {
       "level": 69,
@@ -16415,7 +16415,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 281
+      "index": 856
     },
     "Rocket #45": {
       "level": 72,
@@ -16431,7 +16431,7 @@ var SETDEX_RBY = {
         "Clamp",
         "Explosion"
       ],
-      "index": 282
+      "index": 862
     },
     "Cooltrainer M #5": {
       "level": 88,
@@ -16447,7 +16447,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 350
+      "index": 1111
     },
     "Cooltrainer M #8": {
       "level": 44,
@@ -16463,7 +16463,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Clamp"
       ],
-      "index": 397
+      "index": 1319
     },
     "Lorelei": {
       "level": 115,
@@ -16479,7 +16479,7 @@ var SETDEX_RBY = {
         "Clamp",
         "Explosion"
       ],
-      "index": 369
+      "index": 1223
     }
   },
   "Weezing": {
@@ -16498,7 +16498,7 @@ var SETDEX_RBY = {
         "Sludge",
         "Fire Blast"
       ],
-      "index": 128
+      "index": 348
     },
     "Super Nerd #6": {
       "level": 100,
@@ -16515,7 +16515,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 380
+      "index": 1281
     },
     "Biker #3": {
       "level": 56,
@@ -16532,7 +16532,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 210
+      "index": 611
     },
     "Biker #12": {
       "level": 58,
@@ -16549,7 +16549,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 223
+      "index": 650
     },
     "Scientist #4": {
       "level": 65,
@@ -16566,7 +16566,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 253
+      "index": 747
     },
     "Rocket #8": {
       "level": 45,
@@ -16583,7 +16583,7 @@ var SETDEX_RBY = {
         "Sludge",
         "Fire Blast"
       ],
-      "index": 144
+      "index": 401
     },
     "Rocket #29": {
       "level": 67,
@@ -16600,7 +16600,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 262
+      "index": 774
     },
     "Rocket #42": {
       "level": 20,
@@ -16617,7 +16617,7 @@ var SETDEX_RBY = {
         "Psybeam",
         "Self-Destruct"
       ],
-      "index": 31
+      "index": 75
     },
     "Rocket #43": {
       "level": 55,
@@ -16634,9 +16634,9 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Sludge"
       ],
-      "index": 155
+      "index": 437
     },
-    "Rocket #44": {
+    "Jessie & James - Pokemon Tower": {
       "level": 60,
       "dvs": {
         "hp": 8,
@@ -16651,7 +16651,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunderbolt"
       ],
-      "index": 176
+      "index": 504
     },
     "Rocket #46": {
       "level": 82,
@@ -16668,7 +16668,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Fire Blast"
       ],
-      "index": 318
+      "index": 981
     },
     "Rocket #48": {
       "level": 29,
@@ -16685,7 +16685,7 @@ var SETDEX_RBY = {
         "Sludge",
         "Fire Blast"
       ],
-      "index": 392
+      "index": 1310
     },
     "Rocket #49": {
       "level": 33,
@@ -16702,7 +16702,7 @@ var SETDEX_RBY = {
         "Sludge",
         "Fire Blast"
       ],
-      "index": 393
+      "index": 1311
     },
     "AJ": {
       "level": 93,
@@ -16719,7 +16719,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 368
+      "index": 1220
     }
   },
   "Muk": {
@@ -16738,7 +16738,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Body Slam"
       ],
-      "index": 129
+      "index": 350
     },
     "Super Nerd #5": {
       "level": 43,
@@ -16755,7 +16755,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Body Slam"
       ],
-      "index": 130
+      "index": 354
     },
     "Biker #1": {
       "level": 55,
@@ -16772,7 +16772,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Body Slam"
       ],
-      "index": 190
+      "index": 548
     },
     "Biker #6": {
       "level": 60,
@@ -16789,7 +16789,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Body Slam"
       ],
-      "index": 230
+      "index": 668
     },
     "Biker #8": {
       "level": 58,
@@ -16806,7 +16806,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Body Slam"
       ],
-      "index": 219
+      "index": 637
     },
     "Biker #13": {
       "level": 55,
@@ -16823,7 +16823,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Body Slam"
       ],
-      "index": 197
+      "index": 574
     },
     "Juggler #8": {
       "level": 61,
@@ -16840,7 +16840,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Body Slam"
       ],
-      "index": 238
+      "index": 690
     },
     "Rocket #14": {
       "level": 47,
@@ -16857,7 +16857,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Body Slam"
       ],
-      "index": 150
+      "index": 421
     },
     "Koga": {
       "level": 66,
@@ -16874,7 +16874,7 @@ var SETDEX_RBY = {
         "Dig",
         "Explosion"
       ],
-      "index": 242
+      "index": 703
     },
     "Channeler #8": {
       "level": 47,
@@ -16891,7 +16891,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Body Slam"
       ],
-      "index": 162
+      "index": 471
     },
     "Janine": {
       "level": 63,
@@ -16908,7 +16908,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Body Slam"
       ],
-      "index": 241
+      "index": 700
     },
     "Jano": {
       "level": 100,
@@ -16925,7 +16925,7 @@ var SETDEX_RBY = {
         "Mega Drain",
         "Explosion"
       ],
-      "index": 365
+      "index": 1203
     }
   },
   "Exeggutor": {
@@ -16943,7 +16943,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 319
+      "index": 988
     },
     "Fisherman #7": {
       "level": 70,
@@ -16959,7 +16959,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 327
+      "index": 1021
     },
     "Psychic #3": {
       "level": 69,
@@ -16975,7 +16975,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 286
+      "index": 879
     },
     "Scientist #10": {
       "level": 66,
@@ -16991,7 +16991,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 276
+      "index": 836
     },
     "Scientist #11": {
       "level": 66,
@@ -17007,7 +17007,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 279
+      "index": 850
     },
     "Rocket #13": {
       "level": 47,
@@ -17023,7 +17023,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 149
+      "index": 417
     },
     "Rocket #31": {
       "level": 66,
@@ -17039,7 +17039,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 265
+      "index": 788
     },
     "Rocket #33": {
       "level": 65,
@@ -17055,7 +17055,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 268
+      "index": 799
     },
     "Rocket #36": {
       "level": 66,
@@ -17071,7 +17071,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 275
+      "index": 831
     },
     "Rocket #40": {
       "level": 69,
@@ -17087,7 +17087,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 281
+      "index": 858
     },
     "Cooltrainer M #3": {
       "level": 92,
@@ -17103,7 +17103,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 362
+      "index": 1185
     },
     "Cooltrainer F #2": {
       "level": 90,
@@ -17119,7 +17119,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 363
+      "index": 1188
     },
     "Cooltrainer F #5": {
       "level": 90,
@@ -17135,7 +17135,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 351
+      "index": 1115
     },
     "Erika": {
       "level": 54,
@@ -17151,7 +17151,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Psychic"
       ],
-      "index": 142
+      "index": 394
     },
     "Sabrina": {
       "level": 75,
@@ -17167,7 +17167,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Sleep Powder"
       ],
-      "index": 291
+      "index": 895
     },
     "Lance": {
       "level": 115,
@@ -17184,7 +17184,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Hyper Beam"
       ],
-      "index": 372
+      "index": 1241
     },
     "Ranger": {
       "level": 93,
@@ -17200,7 +17200,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 367
+      "index": 1215
     },
     "Rival - Silph Co. #1": {
       "level": 70,
@@ -17216,7 +17216,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Psychic"
       ],
-      "index": 270
+      "index": 806
     },
     "Rival - Silph Co. #2": {
       "level": 70,
@@ -17232,7 +17232,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Psychic"
       ],
-      "index": 271
+      "index": 812
     },
     "Rival - Silph Co. #3": {
       "level": 70,
@@ -17248,7 +17248,7 @@ var SETDEX_RBY = {
         "Stun Spore",
         "Psychic"
       ],
-      "index": 272
+      "index": 818
     },
     "Rival - Route 22 #1": {
       "level": 90,
@@ -17265,7 +17265,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Egg Bomb"
       ],
-      "index": 346
+      "index": 1087
     },
     "Rival - Route 22 #2": {
       "level": 90,
@@ -17282,7 +17282,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Egg Bomb"
       ],
-      "index": 347
+      "index": 1093
     },
     "Rival - Route 22 #3": {
       "level": 90,
@@ -17298,7 +17298,7 @@ var SETDEX_RBY = {
         "Sleep Powder",
         "Psychic"
       ],
-      "index": 348
+      "index": 1099
     },
     "Rival - Champion #1": {
       "level": 115,
@@ -17315,7 +17315,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Egg Bomb"
       ],
-      "index": 373
+      "index": 1249
     },
     "Rival - Champion #2": {
       "level": 115,
@@ -17332,7 +17332,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Egg Bomb"
       ],
-      "index": 374
+      "index": 1255
     },
     "Rival - Champion #3": {
       "level": 115,
@@ -17349,7 +17349,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Egg Bomb"
       ],
-      "index": 375
+      "index": 1261
     }
   },
   "Chansey": {
@@ -17368,7 +17368,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Ice Beam"
       ],
-      "index": 322
+      "index": 998
     },
     "Gambler #6": {
       "level": 95,
@@ -17385,7 +17385,7 @@ var SETDEX_RBY = {
         "Soft-Boiled",
         "Blizzard"
       ],
-      "index": 355
+      "index": 1139
     },
     "Rocket #7": {
       "level": 44,
@@ -17402,7 +17402,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Ice Beam"
       ],
-      "index": 143
+      "index": 400
     },
     "Rocket #36": {
       "level": 66,
@@ -17419,7 +17419,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Ice Beam"
       ],
-      "index": 275
+      "index": 830
     },
     "Cooltrainer F #2": {
       "level": 90,
@@ -17436,7 +17436,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Ice Beam"
       ],
-      "index": 363
+      "index": 1191
     },
     "Blaine": {
       "level": 84,
@@ -17453,7 +17453,7 @@ var SETDEX_RBY = {
         "Ice Beam",
         "Thunderbolt"
       ],
-      "index": 326
+      "index": 1014
     },
     "Lance": {
       "level": 115,
@@ -17470,7 +17470,7 @@ var SETDEX_RBY = {
         "Ice Beam",
         "Thunderbolt"
       ],
-      "index": 372
+      "index": 1243
     },
     "Nurse Joy": {
       "level": 92,
@@ -17487,7 +17487,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Ice Beam"
       ],
-      "index": 352
+      "index": 1125
     },
     "Ranger": {
       "level": 94,
@@ -17504,7 +17504,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Ice Beam"
       ],
-      "index": 367
+      "index": 1216
     }
   },
   "Psyduck": {
@@ -17523,7 +17523,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Hypnosis"
       ],
-      "index": 25
+      "index": 61
     }
   },
   "Onix": {
@@ -17541,7 +17541,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 50
+      "index": 118
     },
     "Hiker #4": {
       "level": 23,
@@ -17557,7 +17557,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 51
+      "index": 110
     },
     "Hiker #5": {
       "level": 38,
@@ -17573,7 +17573,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 99
+      "index": 267
     },
     "Hiker #7": {
       "level": 42,
@@ -17589,7 +17589,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 107
+      "index": 290
     },
     "Hiker #12": {
       "level": 41,
@@ -17605,7 +17605,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 113
+      "index": 304
     },
     "Hiker #16": {
       "level": 41,
@@ -17621,7 +17621,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 123
+      "index": 331
     },
     "Biker #12": {
       "level": 58,
@@ -17637,7 +17637,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 223
+      "index": 648
     },
     "Swimmer #6": {
       "level": 62,
@@ -17653,7 +17653,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 296
+      "index": 911
     },
     "Brock": {
       "level": 16,
@@ -17670,7 +17670,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Body Slam"
       ],
-      "index": 10
+      "index": 22
     }
   },
   "Gastly": {
@@ -17688,7 +17688,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 99
+      "index": 266
     },
     "Rocket #4": {
       "level": 20,
@@ -17704,7 +17704,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 26
+      "index": 62
     },
     "Rocket #37": {
       "level": 65,
@@ -17720,7 +17720,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 277
+      "index": 837
     },
     "Channeler #1": {
       "level": 22,
@@ -17736,7 +17736,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 402
+      "index": 1329
     },
     "Channeler #2": {
       "level": 24,
@@ -17752,7 +17752,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 403
+      "index": 1330
     },
     "Channeler #3": {
       "level": 23,
@@ -17768,7 +17768,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 404
+      "index": 1331
     },
     "Channeler #3 (2)": {
       "level": 23,
@@ -17784,7 +17784,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 404
+      "index": 1332
     },
     "Channeler #4": {
       "level": 24,
@@ -17800,7 +17800,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 405
+      "index": 1333
     },
     "Channeler #5": {
       "level": 47,
@@ -17816,7 +17816,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 160
+      "index": 465
     },
     "Channeler #6": {
       "level": 53,
@@ -17832,7 +17832,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 161
+      "index": 468
     },
     "Channeler #11": {
       "level": 24,
@@ -17848,7 +17848,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 407
+      "index": 1335
     },
     "Channeler #12": {
       "level": 49,
@@ -17864,7 +17864,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 165
+      "index": 477
     },
     "Channeler #13": {
       "level": 24,
@@ -17880,7 +17880,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 408
+      "index": 1336
     },
     "Channeler #15": {
       "level": 25,
@@ -17896,7 +17896,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 409
+      "index": 1337
     },
     "Channeler #19": {
       "level": 44,
@@ -17912,7 +17912,7 @@ var SETDEX_RBY = {
         "Confuse Ray",
         "Night Shade"
       ],
-      "index": 170
+      "index": 486
     }
   },
   "Haunter": {
@@ -17930,7 +17930,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 107
+      "index": 289
     },
     "Hiker #9": {
       "level": 41,
@@ -17946,7 +17946,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 121
+      "index": 326
     },
     "Hiker #14": {
       "level": 41,
@@ -17962,7 +17962,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 115
+      "index": 312
     },
     "Cue Ball #1": {
       "level": 59,
@@ -17979,7 +17979,7 @@ var SETDEX_RBY = {
         "Night Shade",
         "Psychic"
       ],
-      "index": 232
+      "index": 674
     },
     "Juggler #3": {
       "level": 62,
@@ -17996,7 +17996,7 @@ var SETDEX_RBY = {
         "Night Shade",
         "Psychic"
       ],
-      "index": 235
+      "index": 682
     },
     "Rocket #6": {
       "level": 22,
@@ -18012,7 +18012,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 42
+      "index": 101
     },
     "Rocket #13": {
       "level": 47,
@@ -18028,7 +18028,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 149
+      "index": 418
     },
     "Rocket #16": {
       "level": 50,
@@ -18044,7 +18044,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 152
+      "index": 425
     },
     "Rocket #19": {
       "level": 50,
@@ -18060,7 +18060,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 173
+      "index": 493
     },
     "Rocket #37": {
       "level": 65,
@@ -18077,7 +18077,7 @@ var SETDEX_RBY = {
         "Night Shade",
         "Psychic"
       ],
-      "index": 277
+      "index": 838
     },
     "Channeler #5": {
       "level": 47,
@@ -18093,7 +18093,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 160
+      "index": 466
     },
     "Channeler #6": {
       "level": 53,
@@ -18109,7 +18109,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 161
+      "index": 469
     },
     "Channeler #7": {
       "level": 24,
@@ -18125,7 +18125,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 406
+      "index": 1334
     },
     "Channeler #12": {
       "level": 49,
@@ -18141,7 +18141,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 165
+      "index": 478
     },
     "Channeler #18": {
       "level": 48,
@@ -18157,7 +18157,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 169
+      "index": 484
     },
     "Channeler #19": {
       "level": 44,
@@ -18173,7 +18173,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Night Shade"
       ],
-      "index": 170
+      "index": 488
     },
     "Channeler #24": {
       "level": 72,
@@ -18190,7 +18190,7 @@ var SETDEX_RBY = {
         "Night Shade",
         "Psychic"
       ],
-      "index": 290
+      "index": 889
     }
   },
   "Kadabra": {
@@ -18209,7 +18209,7 @@ var SETDEX_RBY = {
         "Recover",
         "Psychic"
       ],
-      "index": 121
+      "index": 327
     },
     "Cue Ball #6": {
       "level": 57,
@@ -18226,7 +18226,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 226
+      "index": 657
     },
     "Psychic #1": {
       "level": 69,
@@ -18243,7 +18243,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 284
+      "index": 872
     },
     "Juggler #3": {
       "level": 62,
@@ -18260,7 +18260,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 235
+      "index": 681
     },
     "Juggler #8": {
       "level": 61,
@@ -18277,7 +18277,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 238
+      "index": 689
     },
     "Scientist #5": {
       "level": 65,
@@ -18294,7 +18294,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 256
+      "index": 756
     },
     "Scientist #7": {
       "level": 66,
@@ -18311,7 +18311,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 263
+      "index": 778
     },
     "Scientist #11": {
       "level": 66,
@@ -18328,7 +18328,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 279
+      "index": 848
     },
     "Rocket #4": {
       "level": 20,
@@ -18344,7 +18344,7 @@ var SETDEX_RBY = {
         "Psybeam",
         "Thunder Wave"
       ],
-      "index": 26
+      "index": 63
     },
     "Rocket #11": {
       "level": 46,
@@ -18361,7 +18361,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 147
+      "index": 408
     },
     "Rocket #17": {
       "level": 50,
@@ -18378,7 +18378,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 153
+      "index": 428
     },
     "Rocket #19": {
       "level": 50,
@@ -18395,7 +18395,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 173
+      "index": 494
     },
     "Channeler #10": {
       "level": 47,
@@ -18412,7 +18412,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 164
+      "index": 474
     },
     "Channeler #24": {
       "level": 72,
@@ -18429,7 +18429,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Seismic Toss"
       ],
-      "index": 290
+      "index": 890
     },
     "Rival - Cerulean City": {
       "level": 19,
@@ -18445,7 +18445,7 @@ var SETDEX_RBY = {
         "Psybeam",
         "Thunder Wave"
       ],
-      "index": 34
+      "index": 86
     }
   },
   "Drowzee": {
@@ -18464,7 +18464,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Psychic"
       ],
-      "index": 122
+      "index": 328
     },
     "Biker #4": {
       "level": 56,
@@ -18481,7 +18481,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Psychic"
       ],
-      "index": 211
+      "index": 614
     },
     "Biker #12": {
       "level": 58,
@@ -18498,7 +18498,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Psychic"
       ],
-      "index": 223
+      "index": 647
     },
     "Juggler #1": {
       "level": 65,
@@ -18515,7 +18515,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Psychic"
       ],
-      "index": 259
+      "index": 763
     },
     "Juggler #4": {
       "level": 61,
@@ -18532,7 +18532,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Psychic"
       ],
-      "index": 236
+      "index": 684
     },
     "Rocket #3": {
       "level": 19,
@@ -18549,7 +18549,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Toxic"
       ],
-      "index": 29
+      "index": 68
     },
     "Rocket #22": {
       "level": 26,
@@ -18566,7 +18566,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Psychic"
       ],
-      "index": 391
+      "index": 1309
     },
     "Channeler #10": {
       "level": 47,
@@ -18583,7 +18583,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Psychic"
       ],
-      "index": 164
+      "index": 475
     },
     "Channeler #19": {
       "level": 44,
@@ -18600,7 +18600,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Psychic"
       ],
-      "index": 170
+      "index": 487
     },
     "Channeler #23": {
       "level": 73,
@@ -18617,7 +18617,7 @@ var SETDEX_RBY = {
         "Toxic",
         "Psychic"
       ],
-      "index": 289
+      "index": 886
     }
   },
   "Hitmonlee": {
@@ -18635,7 +18635,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Seismic Toss"
       ],
-      "index": 101
+      "index": 271
     },
     "Blackbelt #1": {
       "level": 67,
@@ -18652,7 +18652,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 243
+      "index": 708
     },
     "Blackbelt #2": {
       "level": 66,
@@ -18668,7 +18668,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Seismic Toss"
       ],
-      "index": 244
+      "index": 716
     },
     "Rocket #29": {
       "level": 67,
@@ -18684,7 +18684,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Seismic Toss"
       ],
-      "index": 262
+      "index": 776
     }
   },
   "Sandslash": {
@@ -18703,7 +18703,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Rock Slide"
       ],
-      "index": 101
+      "index": 272
     },
     "Hiker #14": {
       "level": 41,
@@ -18720,7 +18720,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 115
+      "index": 311
     },
     "Cue Ball #2": {
       "level": 59,
@@ -18737,7 +18737,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 233
+      "index": 677
     },
     "Beauty #1": {
       "level": 45,
@@ -18754,7 +18754,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 138
+      "index": 379
     },
     "Beauty #4": {
       "level": 53,
@@ -18771,7 +18771,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 191
+      "index": 553
     },
     "Tamer #4": {
       "level": 81,
@@ -18788,7 +18788,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 337
+      "index": 1053
     },
     "Rocket #28": {
       "level": 66,
@@ -18805,7 +18805,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 261
+      "index": 773
     },
     "Cooltrainer M #9": {
       "level": 83,
@@ -18822,7 +18822,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 342
+      "index": 1066
     },
     "Gentleman #3": {
       "level": 31,
@@ -18839,7 +18839,7 @@ var SETDEX_RBY = {
         "Sand Attack",
         "Rock Slide"
       ],
-      "index": 79
+      "index": 206
     },
     "Lorelei": {
       "level": 115,
@@ -18856,7 +18856,7 @@ var SETDEX_RBY = {
         "Dig",
         "Body Slam"
       ],
-      "index": 369
+      "index": 1224
     },
     "AJ": {
       "level": 93,
@@ -18873,7 +18873,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Body Slam"
       ],
-      "index": 368
+      "index": 1222
     },
     "Rival - Silph Co. #1": {
       "level": 70,
@@ -18890,7 +18890,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 270
+      "index": 805
     },
     "Rival - Silph Co. #2": {
       "level": 70,
@@ -18907,7 +18907,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 271
+      "index": 811
     },
     "Rival - Silph Co. #3": {
       "level": 70,
@@ -18924,7 +18924,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 272
+      "index": 817
     }
   },
   "Mr. Mime": {
@@ -18943,7 +18943,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 114
+      "index": 310
     },
     "Cue Ball #1": {
       "level": 59,
@@ -18960,7 +18960,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 232
+      "index": 675
     },
     "Gambler #1": {
       "level": 26,
@@ -18977,7 +18977,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Thunderbolt"
       ],
-      "index": 67
+      "index": 171
     },
     "Psychic #1": {
       "level": 69,
@@ -18994,7 +18994,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 284
+      "index": 874
     },
     "Psychic #2": {
       "level": 69,
@@ -19011,7 +19011,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 285
+      "index": 876
     },
     "Psychic #4": {
       "level": 73,
@@ -19028,7 +19028,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 287
+      "index": 882
     },
     "Juggler #1": {
       "level": 65,
@@ -19045,7 +19045,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 259
+      "index": 762
     },
     "Juggler #3": {
       "level": 62,
@@ -19062,7 +19062,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 235
+      "index": 680
     },
     "Juggler #4": {
       "level": 61,
@@ -19079,7 +19079,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 236
+      "index": 685
     },
     "Rocket #5": {
       "level": 24,
@@ -19095,7 +19095,7 @@ var SETDEX_RBY = {
         "Thunder Wave",
         "Hypnosis"
       ],
-      "index": 35
+      "index": 139
     },
     "Rocket #9": {
       "level": 45,
@@ -19112,7 +19112,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 145
+      "index": 404
     },
     "Rocket #14": {
       "level": 47,
@@ -19129,7 +19129,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 150
+      "index": 422
     },
     "Rocket #21": {
       "level": 51,
@@ -19146,7 +19146,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 175
+      "index": 498
     },
     "Cooltrainer M #5": {
       "level": 88,
@@ -19163,7 +19163,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 350
+      "index": 1114
     },
     "Koga": {
       "level": 66,
@@ -19180,7 +19180,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Psychic"
       ],
-      "index": 242
+      "index": 704
     },
     "Channeler #23": {
       "level": 73,
@@ -19197,7 +19197,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 289
+      "index": 888
     },
     "Channeler #24": {
       "level": 72,
@@ -19214,7 +19214,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 290
+      "index": 891
     },
     "Janine": {
       "level": 66,
@@ -19231,7 +19231,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Psychic"
       ],
-      "index": 241
+      "index": 701
     }
   },
   "Alakazam": {
@@ -19249,7 +19249,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 349
+      "index": 1108
     },
     "Burglar #9": {
       "level": 75,
@@ -19265,7 +19265,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 316
+      "index": 974
     },
     "Psychic #1": {
       "level": 69,
@@ -19281,7 +19281,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 284
+      "index": 875
     },
     "Psychic #2": {
       "level": 69,
@@ -19297,7 +19297,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 285
+      "index": 877
     },
     "Juggler #2": {
       "level": 90,
@@ -19313,7 +19313,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 356
+      "index": 1150
     },
     "Scientist #4": {
       "level": 65,
@@ -19329,7 +19329,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 253
+      "index": 748
     },
     "Scientist #7": {
       "level": 66,
@@ -19345,7 +19345,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 263
+      "index": 781
     },
     "Rocket #16": {
       "level": 50,
@@ -19361,7 +19361,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 152
+      "index": 427
     },
     "Rocket #40": {
       "level": 69,
@@ -19377,7 +19377,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 281
+      "index": 854
     },
     "Cooltrainer M #1": {
       "level": 82,
@@ -19393,7 +19393,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 341
+      "index": 1065
     },
     "Cooltrainer F #2": {
       "level": 90,
@@ -19409,7 +19409,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 363
+      "index": 1190
     },
     "Cooltrainer F #5": {
       "level": 90,
@@ -19425,7 +19425,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 351
+      "index": 1117
     },
     "Sabrina": {
       "level": 75,
@@ -19441,7 +19441,7 @@ var SETDEX_RBY = {
         "Recover",
         "Psychic"
       ],
-      "index": 291
+      "index": 897
     },
     "Agatha": {
       "level": 115,
@@ -19457,7 +19457,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Recover"
       ],
-      "index": 371
+      "index": 1235
     }
   },
   "Arcanine": {
@@ -19475,7 +19475,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Dig"
       ],
-      "index": 190
+      "index": 550
     },
     "Burglar #5": {
       "level": 77,
@@ -19491,7 +19491,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Dig"
       ],
-      "index": 324
+      "index": 1007
     },
     "Burglar #6": {
       "level": 78,
@@ -19507,7 +19507,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Dig"
       ],
-      "index": 325
+      "index": 1009
     },
     "Beauty #8": {
       "level": 68,
@@ -19523,7 +19523,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Dig"
       ],
-      "index": 309
+      "index": 952
     },
     "Gentleman #1": {
       "level": 27,
@@ -19539,7 +19539,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Dig"
       ],
-      "index": 74
+      "index": 188
     },
     "Officer Jenny": {
       "level": 92,
@@ -19556,7 +19556,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Hyper Beam"
       ],
-      "index": 353
+      "index": 1132
     },
     "Rival - Silph Co. #1": {
       "level": 70,
@@ -19573,7 +19573,7 @@ var SETDEX_RBY = {
         "Dig",
         "Hyper Beam"
       ],
-      "index": 270
+      "index": 808
     },
     "Rival - Silph Co. #2": {
       "level": 70,
@@ -19590,7 +19590,7 @@ var SETDEX_RBY = {
         "Dig",
         "Hyper Beam"
       ],
-      "index": 271
+      "index": 814
     },
     "Rival - Silph Co. #3": {
       "level": 70,
@@ -19607,7 +19607,7 @@ var SETDEX_RBY = {
         "Dig",
         "Hyper Beam"
       ],
-      "index": 272
+      "index": 820
     }
   },
   "Arbok": {
@@ -19625,7 +19625,7 @@ var SETDEX_RBY = {
         "Glare",
         "Fissure"
       ],
-      "index": 210
+      "index": 610
     },
     "Gambler #1": {
       "level": 26,
@@ -19641,7 +19641,7 @@ var SETDEX_RBY = {
         "Glare",
         "Fissure"
       ],
-      "index": 67
+      "index": 169
     },
     "Gambler #4": {
       "level": 25,
@@ -19657,7 +19657,7 @@ var SETDEX_RBY = {
         "Glare",
         "Fissure"
       ],
-      "index": 70
+      "index": 176
     },
     "Gambler #5": {
       "level": 44,
@@ -19673,7 +19673,7 @@ var SETDEX_RBY = {
         "Glare",
         "Fissure"
       ],
-      "index": 131
+      "index": 359
     },
     "Tamer #1": {
       "level": 62,
@@ -19689,7 +19689,7 @@ var SETDEX_RBY = {
         "Glare",
         "Fissure"
       ],
-      "index": 239
+      "index": 692
     },
     "Tamer #2": {
       "level": 62,
@@ -19705,7 +19705,7 @@ var SETDEX_RBY = {
         "Glare",
         "Fissure"
       ],
-      "index": 240
+      "index": 694
     },
     "Tamer #4": {
       "level": 81,
@@ -19721,7 +19721,7 @@ var SETDEX_RBY = {
         "Glare",
         "Fissure"
       ],
-      "index": 337
+      "index": 1051
     },
     "Tamer #6": {
       "level": 60,
@@ -19737,7 +19737,7 @@ var SETDEX_RBY = {
         "Glare",
         "Fissure"
       ],
-      "index": 388
+      "index": 1300
     },
     "Scientist #1": {
       "level": 73,
@@ -19753,7 +19753,7 @@ var SETDEX_RBY = {
         "Glare",
         "Fissure"
       ],
-      "index": 312
+      "index": 963
     },
     "Rocket #2": {
       "level": 18,
@@ -19768,7 +19768,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Glare"
       ],
-      "index": 28
+      "index": 67
     },
     "Rocket #32": {
       "level": 67,
@@ -19784,7 +19784,7 @@ var SETDEX_RBY = {
         "Glare",
         "Fissure"
       ],
-      "index": 267
+      "index": 793
     },
     "Rocket #35": {
       "level": 66,
@@ -19800,7 +19800,7 @@ var SETDEX_RBY = {
         "Glare",
         "Fissure"
       ],
-      "index": 274
+      "index": 826
     },
     "Rocket #42": {
       "level": 20,
@@ -19816,7 +19816,7 @@ var SETDEX_RBY = {
         "Wrap",
         "Fissure"
       ],
-      "index": 31
+      "index": 73
     },
     "Rocket #43": {
       "level": 55,
@@ -19833,9 +19833,9 @@ var SETDEX_RBY = {
         "Fissure",
         "Glare"
       ],
-      "index": 155
+      "index": 435
     },
-    "Rocket #44": {
+    "Jessie & James - Pokemon Tower": {
       "level": 60,
       "dvs": {
         "hp": 8,
@@ -19850,7 +19850,7 @@ var SETDEX_RBY = {
         "Fissure",
         "Earthquake"
       ],
-      "index": 176
+      "index": 502
     },
     "Rocket #46": {
       "level": 82,
@@ -19867,7 +19867,7 @@ var SETDEX_RBY = {
         "Lick",
         "Wrap"
       ],
-      "index": 318
+      "index": 979
     },
     "Channeler #20": {
       "level": 44,
@@ -19883,7 +19883,7 @@ var SETDEX_RBY = {
         "Glare",
         "Fissure"
       ],
-      "index": 171
+      "index": 490
     }
   },
   "Dodrio": {
@@ -19901,7 +19901,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 229
+      "index": 665
     },
     "Bird Keeper #1": {
       "level": 53,
@@ -19917,7 +19917,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 193
+      "index": 558
     },
     "Bird Keeper #3": {
       "level": 54,
@@ -19933,7 +19933,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 195
+      "index": 566
     },
     "Bird Keeper #7": {
       "level": 56,
@@ -19949,7 +19949,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 215
+      "index": 626
     },
     "Bird Keeper #8": {
       "level": 57,
@@ -19965,7 +19965,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 216
+      "index": 631
     },
     "Bird Keeper #11": {
       "level": 65,
@@ -19981,7 +19981,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 311
+      "index": 959
     },
     "Bird Keeper #15": {
       "level": 55,
@@ -19997,7 +19997,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 203
+      "index": 592
     },
     "Blackbelt #9": {
       "level": 90,
@@ -20013,7 +20013,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 358
+      "index": 1161
     },
     "Rocket #10": {
       "level": 46,
@@ -20029,7 +20029,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 146
+      "index": 406
     },
     "Rocket #30": {
       "level": 64,
@@ -20045,7 +20045,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Drill Peck"
       ],
-      "index": 264
+      "index": 786
     },
     "Rival - Silph Co. #1": {
       "level": 70,
@@ -20062,7 +20062,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Drill Peck"
       ],
-      "index": 270
+      "index": 804
     },
     "Rival - Silph Co. #2": {
       "level": 70,
@@ -20079,7 +20079,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Drill Peck"
       ],
-      "index": 271
+      "index": 810
     },
     "Rival - Silph Co. #3": {
       "level": 70,
@@ -20096,7 +20096,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Drill Peck"
       ],
-      "index": 272
+      "index": 816
     }
   },
   "Omastar": {
@@ -20115,7 +20115,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Body Slam"
       ],
-      "index": 325
+      "index": 1008
     },
     "Swimmer #5": {
       "level": 62,
@@ -20132,7 +20132,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Body Slam"
       ],
-      "index": 295
+      "index": 909
     },
     "Swimmer #15": {
       "level": 70,
@@ -20149,7 +20149,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Body Slam"
       ],
-      "index": 334
+      "index": 1044
     },
     "Beauty #2": {
       "level": 47,
@@ -20166,7 +20166,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Body Slam"
       ],
-      "index": 139
+      "index": 382
     },
     "Scientist #2": {
       "level": 67,
@@ -20183,7 +20183,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Body Slam"
       ],
-      "index": 249
+      "index": 735
     },
     "Scientist #3": {
       "level": 64,
@@ -20200,7 +20200,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Body Slam"
       ],
-      "index": 250
+      "index": 738
     },
     "Rocket #34": {
       "level": 66,
@@ -20217,7 +20217,7 @@ var SETDEX_RBY = {
         "Seismic Toss",
         "Body Slam"
       ],
-      "index": 269
+      "index": 802
     }
   },
   "Magneton": {
@@ -20236,7 +20236,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Double-Edge"
       ],
-      "index": 325
+      "index": 1010
     },
     "Engineer #2": {
       "level": 26,
@@ -20253,7 +20253,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Double-Edge"
       ],
-      "index": 65
+      "index": 165
     },
     "Rocker #1": {
       "level": 34,
@@ -20270,7 +20270,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Double-Edge"
       ],
-      "index": 91
+      "index": 242
     },
     "Bird Keeper #2": {
       "level": 54,
@@ -20287,7 +20287,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Double-Edge"
       ],
-      "index": 194
+      "index": 560
     },
     "SHF Victory Road": {
       "level": 110,
@@ -20304,7 +20304,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Explosion"
       ],
-      "index": 359
+      "index": 1166
     },
     "Scientist #7": {
       "level": 66,
@@ -20321,7 +20321,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Double-Edge"
       ],
-      "index": 263
+      "index": 777
     },
     "Scientist #12": {
       "level": 71,
@@ -20338,7 +20338,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Double-Edge"
       ],
-      "index": 315
+      "index": 971
     },
     "Rocket #10": {
       "level": 46,
@@ -20355,7 +20355,7 @@ var SETDEX_RBY = {
         "Double Team",
         "Double-Edge"
       ],
-      "index": 146
+      "index": 405
     },
     "Lt. Surge": {
       "level": 39,
@@ -20372,7 +20372,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Double-Edge"
       ],
-      "index": 93
+      "index": 247
     }
   },
   "Porygon": {
@@ -20391,7 +20391,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Recover"
       ],
-      "index": 65
+      "index": 164
     },
     "Engineer #3": {
       "level": 26,
@@ -20408,7 +20408,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Recover"
       ],
-      "index": 66
+      "index": 168
     },
     "Bird Keeper #4": {
       "level": 55,
@@ -20425,7 +20425,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 200
+      "index": 583
     },
     "Bird Keeper #11": {
       "level": 65,
@@ -20442,7 +20442,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 311
+      "index": 958
     },
     "Scientist #2": {
       "level": 67,
@@ -20459,7 +20459,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 249
+      "index": 734
     },
     "Scientist #6": {
       "level": 66,
@@ -20476,7 +20476,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 260
+      "index": 766
     },
     "Scientist #7": {
       "level": 66,
@@ -20493,7 +20493,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 263
+      "index": 779
     },
     "Rocket #14": {
       "level": 47,
@@ -20510,7 +20510,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 150
+      "index": 420
     },
     "Rocket #45": {
       "level": 72,
@@ -20527,7 +20527,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunderbolt"
       ],
-      "index": 282
+      "index": 865
     },
     "Rocket #46": {
       "level": 82,
@@ -20544,7 +20544,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Recover"
       ],
-      "index": 318
+      "index": 982
     },
     "Rocket #47": {
       "level": 90,
@@ -20561,7 +20561,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Thunderbolt"
       ],
-      "index": 344
+      "index": 1078
     },
     "Lt. Surge": {
       "level": 39,
@@ -20578,7 +20578,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 93
+      "index": 248
     },
     "Gentleman #2": {
       "level": 28,
@@ -20595,7 +20595,7 @@ var SETDEX_RBY = {
         "Recover",
         "Thunderbolt"
       ],
-      "index": 75
+      "index": 192
     },
     "Soldier": {
       "level": 92,
@@ -20612,7 +20612,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Thunder Wave"
       ],
-      "index": 366
+      "index": 1205
     }
   },
   "Lapras": {
@@ -20631,7 +20631,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 181
+      "index": 519
     },
     "Fisherman #10": {
       "level": 70,
@@ -20648,7 +20648,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 330
+      "index": 1034
     },
     "Scientist #7": {
       "level": 66,
@@ -20665,7 +20665,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 263
+      "index": 780
     },
     "Scientist #10": {
       "level": 66,
@@ -20682,7 +20682,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 276
+      "index": 835
     },
     "Scientist #11": {
       "level": 66,
@@ -20699,7 +20699,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 279
+      "index": 849
     },
     "Scientist #13": {
       "level": 73,
@@ -20716,7 +20716,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 317
+      "index": 978
     },
     "Rocket #25": {
       "level": 66,
@@ -20733,7 +20733,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 254
+      "index": 751
     },
     "Rocket #30": {
       "level": 64,
@@ -20750,7 +20750,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 264
+      "index": 787
     },
     "Cooltrainer F #1": {
       "level": 50,
@@ -20767,7 +20767,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 141
+      "index": 388
     },
     "Cooltrainer F #3": {
       "level": 90,
@@ -20784,7 +20784,7 @@ var SETDEX_RBY = {
         "Blizzard",
         "Surf"
       ],
-      "index": 364
+      "index": 1197
     },
     "Lorelei": {
       "level": 115,
@@ -20801,7 +20801,7 @@ var SETDEX_RBY = {
         "Surf",
         "Body Slam"
       ],
-      "index": 369
+      "index": 1226
     },
     "Channeler #16": {
       "level": 47,
@@ -20818,7 +20818,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 167
+      "index": 481
     },
     "Channeler #23": {
       "level": 73,
@@ -20835,7 +20835,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Blizzard"
       ],
-      "index": 289
+      "index": 887
     },
     "Lance": {
       "level": 115,
@@ -20852,7 +20852,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 372
+      "index": 1242
     }
   },
   "Magikarp": {
@@ -20870,7 +20870,7 @@ var SETDEX_RBY = {
         "Bubble",
         "Tackle"
       ],
-      "index": 329
+      "index": 1027
     },
     "Fisherman #9 (2)": {
       "level": 100,
@@ -20886,7 +20886,7 @@ var SETDEX_RBY = {
         "Bubble",
         "Tackle"
       ],
-      "index": 329
+      "index": 1028
     },
     "Rocket #42": {
       "level": 20,
@@ -20902,7 +20902,7 @@ var SETDEX_RBY = {
         "Bubble",
         "Tackle"
       ],
-      "index": 31
+      "index": 76
     }
   },
   "Abra": {
@@ -20919,7 +20919,7 @@ var SETDEX_RBY = {
         "Confusion",
         "Kinesis"
       ],
-      "index": 226
+      "index": 656
     },
     "Rocket #2": {
       "level": 18,
@@ -20934,7 +20934,7 @@ var SETDEX_RBY = {
         "Confusion",
         "Kinesis"
       ],
-      "index": 28
+      "index": 65
     }
   },
   "Tauros": {
@@ -20953,7 +20953,7 @@ var SETDEX_RBY = {
         "Fissure",
         "Earthquake"
       ],
-      "index": 355
+      "index": 1141
     },
     "Tamer #6": {
       "level": 60,
@@ -20969,7 +20969,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 388
+      "index": 1301
     },
     "Blackbelt #2": {
       "level": 66,
@@ -20985,7 +20985,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 244
+      "index": 714
     },
     "Blackbelt #4": {
       "level": 65,
@@ -21001,7 +21001,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 246
+      "index": 722
     },
     "SHF Cerulean Cave": {
       "level": 127,
@@ -21018,7 +21018,7 @@ var SETDEX_RBY = {
         "Fissure",
         "Blizzard"
       ],
-      "index": 376
+      "index": 1268
     },
     "SHF Victory Road": {
       "level": 110,
@@ -21035,7 +21035,7 @@ var SETDEX_RBY = {
         "Fissure",
         "Blizzard"
       ],
-      "index": 359
+      "index": 1165
     },
     "Giovanni": {
       "level": 55,
@@ -21052,7 +21052,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Fissure"
       ],
-      "index": 156
+      "index": 446
     },
     "Giovanni #2": {
       "level": 72,
@@ -21068,7 +21068,7 @@ var SETDEX_RBY = {
         "Hyper Beam",
         "Earthquake"
       ],
-      "index": 283
+      "index": 871
     },
     "Giovanni #3": {
       "level": 90,
@@ -21085,7 +21085,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Fissure"
       ],
-      "index": 345
+      "index": 1083
     },
     "Rocket #40": {
       "level": 69,
@@ -21101,7 +21101,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 281
+      "index": 859
     },
     "Cooltrainer M #2": {
       "level": 88,
@@ -21117,7 +21117,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 361
+      "index": 1177
     },
     "Cooltrainer M #3": {
       "level": 92,
@@ -21133,7 +21133,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 362
+      "index": 1186
     },
     "Cooltrainer M #10": {
       "level": 84,
@@ -21149,7 +21149,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 343
+      "index": 1071
     },
     "Cooltrainer F #2": {
       "level": 90,
@@ -21165,7 +21165,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 363
+      "index": 1189
     },
     "Bruno": {
       "level": 68,
@@ -21182,7 +21182,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Thunderbolt"
       ],
-      "index": 248
+      "index": 730
     },
     "Rival - Route 22 #1": {
       "level": 90,
@@ -21199,7 +21199,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Fissure"
       ],
-      "index": 346
+      "index": 1089
     },
     "Rival - Route 22 #2": {
       "level": 90,
@@ -21216,7 +21216,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Fissure"
       ],
-      "index": 347
+      "index": 1095
     },
     "Rival - Route 22 #3": {
       "level": 90,
@@ -21232,7 +21232,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Hyper Beam"
       ],
-      "index": 348
+      "index": 1101
     },
     "Rival - Champion #1": {
       "level": 115,
@@ -21248,7 +21248,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 373
+      "index": 1251
     },
     "Rival - Champion #2": {
       "level": 115,
@@ -21264,7 +21264,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 374
+      "index": 1257
     },
     "Rival - Champion #3": {
       "level": 115,
@@ -21280,7 +21280,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Earthquake"
       ],
-      "index": 375
+      "index": 1263
     }
   },
   "Rhydon": {
@@ -21298,7 +21298,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Rock Slide"
       ],
-      "index": 299
+      "index": 923
     },
     "Blackbelt #8": {
       "level": 84,
@@ -21314,7 +21314,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Rock Slide"
       ],
-      "index": 340
+      "index": 1058
     },
     "Giovanni": {
       "level": 55,
@@ -21330,7 +21330,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Rock Slide"
       ],
-      "index": 156
+      "index": 445
     },
     "Rocket #30": {
       "level": 64,
@@ -21346,7 +21346,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Rock Slide"
       ],
-      "index": 264
+      "index": 785
     },
     "Rocket #39": {
       "level": 68,
@@ -21362,7 +21362,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Rock Slide"
       ],
-      "index": 280
+      "index": 852
     },
     "Rocket #41": {
       "level": 68,
@@ -21378,7 +21378,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Rock Slide"
       ],
-      "index": 255
+      "index": 752
     },
     "Rocket #45": {
       "level": 72,
@@ -21394,7 +21394,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 282
+      "index": 864
     },
     "Rocket #47": {
       "level": 90,
@@ -21410,7 +21410,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Body Slam"
       ],
-      "index": 344
+      "index": 1077
     },
     "Cooltrainer M #3": {
       "level": 92,
@@ -21426,7 +21426,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Rock Slide"
       ],
-      "index": 362
+      "index": 1184
     },
     "Cooltrainer M #10": {
       "level": 84,
@@ -21442,7 +21442,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Rock Slide"
       ],
-      "index": 343
+      "index": 1070
     },
     "Rival - Route 22 #1": {
       "level": 90,
@@ -21459,7 +21459,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 346
+      "index": 1086
     },
     "Rival - Route 22 #2": {
       "level": 90,
@@ -21476,7 +21476,7 @@ var SETDEX_RBY = {
         "Fire Blast",
         "Thunderbolt"
       ],
-      "index": 347
+      "index": 1092
     },
     "Rival - Route 22 #3": {
       "level": 90,
@@ -21492,7 +21492,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Rock Slide"
       ],
-      "index": 348
+      "index": 1098
     }
   },
   "Persian": {
@@ -21509,7 +21509,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 299
+      "index": 924
     },
     "Juggler #5": {
       "level": 94,
@@ -21524,7 +21524,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 360
+      "index": 1170
     },
     "Tamer #4": {
       "level": 81,
@@ -21539,7 +21539,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 337
+      "index": 1052
     },
     "Tamer #5": {
       "level": 90,
@@ -21554,7 +21554,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 357
+      "index": 1156
     },
     "Giovanni": {
       "level": 55,
@@ -21569,7 +21569,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Slash"
       ],
-      "index": 156
+      "index": 441
     },
     "Giovanni #2": {
       "level": 72,
@@ -21584,7 +21584,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Slash"
       ],
-      "index": 283
+      "index": 866
     },
     "Giovanni #3": {
       "level": 90,
@@ -21599,7 +21599,7 @@ var SETDEX_RBY = {
         "Hypnosis",
         "Slash"
       ],
-      "index": 345
+      "index": 1079
     },
     "Rocket #35": {
       "level": 66,
@@ -21614,7 +21614,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 274
+      "index": 827
     },
     "Rocket #36": {
       "level": 66,
@@ -21629,7 +21629,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 275
+      "index": 832
     },
     "Cooltrainer M #9": {
       "level": 83,
@@ -21644,7 +21644,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 342
+      "index": 1069
     },
     "Cooltrainer F #5": {
       "level": 90,
@@ -21659,7 +21659,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 351
+      "index": 1119
     },
     "Cooltrainer F #8": {
       "level": 55,
@@ -21674,7 +21674,7 @@ var SETDEX_RBY = {
         "Slash",
         "Hypnosis"
       ],
-      "index": 401
+      "index": 1328
     }
   },
   "Hitmonchan": {
@@ -21692,7 +21692,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Seismic Toss"
       ],
-      "index": 214
+      "index": 623
     },
     "Blackbelt #1": {
       "level": 67,
@@ -21709,7 +21709,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "High Jump Kick"
       ],
-      "index": 243
+      "index": 709
     },
     "Blackbelt #5": {
       "level": 65,
@@ -21725,7 +21725,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Seismic Toss"
       ],
-      "index": 247
+      "index": 725
     }
   },
   "Aerodactyl": {
@@ -21744,7 +21744,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 311
+      "index": 962
     },
     "SHF Cerulean Cave": {
       "level": 127,
@@ -21761,7 +21761,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 376
+      "index": 1270
     },
     "SHF Victory Road": {
       "level": 110,
@@ -21778,7 +21778,7 @@ var SETDEX_RBY = {
         "Rock Slide",
         "Earthquake"
       ],
-      "index": 359
+      "index": 1168
     },
     "Scientist #3": {
       "level": 64,
@@ -21795,7 +21795,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 250
+      "index": 737
     },
     "Scientist #6": {
       "level": 66,
@@ -21812,7 +21812,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 260
+      "index": 767
     },
     "Scientist #9": {
       "level": 67,
@@ -21829,7 +21829,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 273
+      "index": 824
     },
     "Scientist #11": {
       "level": 66,
@@ -21846,7 +21846,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 279
+      "index": 847
     },
     "Scientist #12": {
       "level": 71,
@@ -21863,7 +21863,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 315
+      "index": 973
     },
     "Rocket #35": {
       "level": 66,
@@ -21880,7 +21880,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 274
+      "index": 825
     },
     "Cooltrainer M #2": {
       "level": 88,
@@ -21897,7 +21897,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Rock Slide"
       ],
-      "index": 361
+      "index": 1176
     },
     "Brock": {
       "level": 16,
@@ -21911,7 +21911,7 @@ var SETDEX_RBY = {
       "moves": [
         "Fly"
       ],
-      "index": 10
+      "index": 26
     },
     "Lance": {
       "level": 115,
@@ -21928,7 +21928,7 @@ var SETDEX_RBY = {
         "Earthquake",
         "Twister"
       ],
-      "index": 372
+      "index": 1246
     }
   },
   "Mew": {
@@ -21962,7 +21962,7 @@ var SETDEX_RBY = {
         "Soft-Boiled",
         "Body Slam"
       ],
-      "index": 2
+      "index": 5
     },
     "Rival - Cerulean City": {
       "level": 20,
@@ -21979,7 +21979,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Psychic"
       ],
-      "index": 34
+      "index": 88
     },
     "Rival - SS Anne": {
       "level": 31,
@@ -21996,7 +21996,7 @@ var SETDEX_RBY = {
         "Soft-Boiled",
         "Body Slam"
       ],
-      "index": 76
+      "index": 199
     },
     "Rival - Pokemon Tower #1": {
       "level": 53,
@@ -22013,7 +22013,7 @@ var SETDEX_RBY = {
         "Soft-Boiled",
         "Body Slam"
       ],
-      "index": 157
+      "index": 452
     },
     "Rival - Pokemon Tower #2": {
       "level": 53,
@@ -22030,7 +22030,7 @@ var SETDEX_RBY = {
         "Soft-Boiled",
         "Body Slam"
       ],
-      "index": 158
+      "index": 458
     },
     "Rival - Pokemon Tower #3": {
       "level": 53,
@@ -22047,7 +22047,7 @@ var SETDEX_RBY = {
         "Soft-Boiled",
         "Body Slam"
       ],
-      "index": 159
+      "index": 464
     },
     "Rival - Silph Co. #1": {
       "level": 70,
@@ -22064,7 +22064,7 @@ var SETDEX_RBY = {
         "Soft-Boiled",
         "Body Slam"
       ],
-      "index": 270
+      "index": 809
     },
     "Rival - Silph Co. #2": {
       "level": 70,
@@ -22081,7 +22081,7 @@ var SETDEX_RBY = {
         "Soft-Boiled",
         "Body Slam"
       ],
-      "index": 271
+      "index": 815
     },
     "Rival - Silph Co. #3": {
       "level": 70,
@@ -22098,7 +22098,7 @@ var SETDEX_RBY = {
         "Soft-Boiled",
         "Body Slam"
       ],
-      "index": 272
+      "index": 821
     },
     "Rival - Route 22 #1": {
       "level": 91,
@@ -22115,7 +22115,7 @@ var SETDEX_RBY = {
         "Ice Beam",
         "Psychic"
       ],
-      "index": 346
+      "index": 1090
     },
     "Rival - Route 22 #2": {
       "level": 91,
@@ -22132,7 +22132,7 @@ var SETDEX_RBY = {
         "Ice Beam",
         "Psychic"
       ],
-      "index": 347
+      "index": 1096
     },
     "Rival - Route 22 #3": {
       "level": 91,
@@ -22149,7 +22149,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Psychic"
       ],
-      "index": 348
+      "index": 1102
     },
     "Rival - Champion #1": {
       "level": 115,
@@ -22166,7 +22166,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Body Slam"
       ],
-      "index": 373
+      "index": 1247
     },
     "Rival - Champion #2": {
       "level": 115,
@@ -22183,7 +22183,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Body Slam"
       ],
-      "index": 374
+      "index": 1253
     },
     "Rival - Champion #3": {
       "level": 115,
@@ -22200,7 +22200,7 @@ var SETDEX_RBY = {
         "Psychic",
         "Body Slam"
       ],
-      "index": 375
+      "index": 1259
     }
   },
   "Mewtwo": {
@@ -22219,7 +22219,7 @@ var SETDEX_RBY = {
         "Thunderbolt",
         "Body Slam"
       ],
-      "index": 376
+      "index": 1269
     },
     "Giovanni #3": {
       "level": 90,
@@ -22236,7 +22236,7 @@ var SETDEX_RBY = {
         "Recover",
         "Body Slam"
       ],
-      "index": 345
+      "index": 1084
     },
     "Rival - Champion #1": {
       "level": 115,
@@ -22253,7 +22253,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Psychic"
       ],
-      "index": 373
+      "index": 1252
     },
     "Rival - Champion #2": {
       "level": 115,
@@ -22270,7 +22270,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Psychic"
       ],
-      "index": 374
+      "index": 1258
     },
     "Rival - Champion #3": {
       "level": 115,
@@ -22287,7 +22287,7 @@ var SETDEX_RBY = {
         "Body Slam",
         "Psychic"
       ],
-      "index": 375
+      "index": 1264
     }
   },
   "Zapdos": {
@@ -22306,7 +22306,7 @@ var SETDEX_RBY = {
         "Drill Peck",
         "Thunder"
       ],
-      "index": 283
+      "index": 870
     },
     "Giovanni #3": {
       "level": 90,
@@ -22323,7 +22323,7 @@ var SETDEX_RBY = {
         "Drill Peck",
         "Thunder"
       ],
-      "index": 345
+      "index": 1081
     }
   },
   "Moltres": {
@@ -22342,7 +22342,7 @@ var SETDEX_RBY = {
         "Solar Beam",
         "Flamethrower"
       ],
-      "index": 326
+      "index": 1018
     }
   },
   "Articuno": {
@@ -22360,7 +22360,7 @@ var SETDEX_RBY = {
         "Sky Attack",
         "Ice Beam"
       ],
-      "index": 369
+      "index": 1228
     }
   },
   "Grimer": {
@@ -22378,7 +22378,7 @@ var SETDEX_RBY = {
         "Sludge",
         "Explosion"
       ],
-      "index": 162
+      "index": 470
     },
     "Janine": {
       "level": 63,
@@ -22395,7 +22395,7 @@ var SETDEX_RBY = {
         "Explosion",
         "Acid Armor"
       ],
-      "index": 241
+      "index": 699
     }
   }
 };
