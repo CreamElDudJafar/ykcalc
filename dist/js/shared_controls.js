@@ -1500,18 +1500,20 @@ function buildTrainerGroups() {
 	for (const [pokName, sets] of Object.entries(SETDEX_RBY)) {
 		for (const [setName, setData] of Object.entries(sets)) {
 			var trainer = trainerBaseName(setName);
-			if (!byTrainer[trainer]) byTrainer[trainer] = [];
-			byTrainer[trainer].push({
+			var groupKey = String(setData.index) + "|" + trainer;
+			if (!byTrainer[groupKey]) byTrainer[groupKey] = [];
+			byTrainer[groupKey].push({
 				index: parseInt(setData.index),
+				partyOrder: setData.partyOrder || 99,
 				pokemon: pokName,
 				setName: setName,
 				fullSet: pokName + " (" + setName + ")"
 			});
 		}
 	}
-	var groups = Object.keys(byTrainer).map(function(name) {
-		var members = byTrainer[name].sort(function(a,b){ return a.index-b.index; });
-		return { name:name, first:members[0].index, last:members[members.length-1].index, members:members };
+	var groups = Object.keys(byTrainer).map(function(key) {
+		var members = byTrainer[key].sort(function(a,b){ return a.partyOrder-b.partyOrder; }).slice(0, 6);
+		return { name:trainerBaseName(members[0].setName), first:members[0].index, last:members[0].index, members:members };
 	});
 	groups.sort(function(a,b){ return a.first-b.first; });
 	return groups;
@@ -1541,6 +1543,7 @@ function selectTrainerGroup(groupIndex) {
 	var group = YK_TRAINER_GROUPS[groupIndex];
 	var member = group.members[0];
 	window.CURRENT_TRAINER = group.name;
+	window.CURRENT_TRAINER_INDEX = member.index;
 	localStorage.setItem("lasttimetrainer", member.index);
 	$('.opposing').val(member.fullSet);
 	$('.opposing').change();
@@ -1552,10 +1555,13 @@ function get_trainer_poks(trainer_name) {
 	var lastParen = trainer_name.lastIndexOf(")");
 	if (firstParen === -1 || lastParen === -1) return [];
 	var selectedName = trainer_name.substring(firstParen + 1, lastParen).trim();
-	var group = trainerGroupByName(selectedName);
+	var pokemon = trainer_name.substring(0, firstParen).trim();
+	var selectedSet = SETDEX_RBY[pokemon] && SETDEX_RBY[pokemon][selectedName];
+	var group = selectedSet ? trainerGroupByIndex(selectedSet.index) : null;
 	if (!group) return [];
 	window.CURRENT_TRAINER = group.name;
-	return group.members.map(function(m) {
+	window.CURRENT_TRAINER_INDEX = group.first;
+	return group.members.slice(0, 6).map(function(m) {
 		return "[" + m.index + "]" + m.fullSet;
 	});
 }
@@ -1601,6 +1607,7 @@ function selectTrainer(value) {
 	}
 	if (!member) member=group.members[0];
 	window.CURRENT_TRAINER = group.name;
+	window.CURRENT_TRAINER_INDEX = member.index;
 	localStorage.setItem("lasttimetrainer", member.index);
 	$('.opposing').val(member.fullSet);
 	$('.opposing').change();
@@ -1609,25 +1616,17 @@ function selectTrainer(value) {
 
 
 function nextTrainer() {
-	var group = trainerGroupByName(window.CURRENT_TRAINER || "");
+	var group = trainerGroupByIndex(window.CURRENT_TRAINER_INDEX);
 	if (!group) return;
-	for (var i=0; i<YK_TRAINER_GROUPS.length; i++) {
-		if (YK_TRAINER_GROUPS[i].name === group.name) {
-			selectTrainerGroup(i+1);
-			return;
-		}
-	}
+	var position = YK_TRAINER_GROUPS.indexOf(group);
+	selectTrainerGroup(position + 1);
 }
 
 function previousTrainer() {
-	var group = trainerGroupByName(window.CURRENT_TRAINER || "");
+	var group = trainerGroupByIndex(window.CURRENT_TRAINER_INDEX);
 	if (!group) return;
-	for (var i=0; i<YK_TRAINER_GROUPS.length; i++) {
-		if (YK_TRAINER_GROUPS[i].name === group.name) {
-			selectTrainerGroup(i-1);
-			return;
-		}
-	}
+	var position = YK_TRAINER_GROUPS.indexOf(group);
+	selectTrainerGroup(position - 1);
 }
 
 function resetTrainer() {
